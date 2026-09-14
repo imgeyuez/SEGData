@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filename": "FehlendeAbbildung_Aufgabe.pdf",
+    "title": "Fehlende Abbildung",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Es sind 4 Abbildungen dargestellt.",
+      "image": "FehlendeAbbildung_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "graph and pattern analysis",
+          "text": "Welche der Abbildungen gehört an die 4. Stelle?",
+          "answers": [
+            "A: 1",
+            "B: 2",
+            "C: 3",
+            "D: 4",
+            "E: 5"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

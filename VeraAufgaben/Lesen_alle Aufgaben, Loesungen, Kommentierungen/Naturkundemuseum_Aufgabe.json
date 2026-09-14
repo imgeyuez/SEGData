@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "filename": "Naturkundemuseum_Aufgabe.pdf",
+    "title": "Naturkundemuseum",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Abgebildet sind Angebote eines Naturkundemuseums für Kinder.",
+      "image": "Naturkundemuseum_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": " Im Text findest du Angebote ...",
+          "answers": [
+            "A: eines Verkehrsmuseums",
+            "B: eines Heimatmuseums",
+            "C: eines Kunstmuseums",
+            "D: eines Naturkundemuseums"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Wozu werden nach der Führung durch die Sonderausstellung „Herrscher der Lüfte“ noch Experimente durchgeführt?",
+          "answers": [
+            "A: Um den Flug der Tiere zu verstehen",
+            "B: Um flugfähige Drachen zu bauen",
+            "C: Um den Wald zu erkunden",
+            "D: Um Muschelschmuck herzustellen"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Wann kannst du im Museum anrufen, um dich für eine Veranstaltung anzumelden?",
+          "answers": [
+            "A: montags um 16.00 Uhr",
+            "B: dienstags um 8.00 Uhr",
+            "C: freitags um 14.00 Uhr",
+            "D: sonntags um 11.00 Uhr"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Einige Kinder wollen in der Schule ein Herbstbild gestalten. Dazu wollen sie Formen und Farben in der Natur erkunden. Welches Angebot können sie nutzen?",
+          "answers": [
+            "A: Luftexperimente",
+            "B: Drachen schauen und Drachen bauen",
+            "C: Walderlebnisspiele",
+            "D: Muschelwerkstatt"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Lena möchte ihrer Mutter eine Halskette schenken. Welches Angebot sollte Lena nutzen?",
+          "answers": [
+            "A: Luftexperimente",
+            "B: Drachen schauen und Drachen bauen",
+            "C: Walderlebnisspiele",
+            "D: Muschelwerkstatt"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q6",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Katrin malt sehr gern und möchte an den Walderlebnisspielen teilnehmen. Marie meint: „Das ist nichts für dich, denn da erkundet man als Försterin den Wald.“ Stimmst du Marie zu?",
+          "answers": [
+            "A: Ja, ich stimme Marie zu.",
+            "B: Nein, ich stimme Marie nicht zu."
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q7",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Bei den Angeboten gibt es Informationen zum Titel der Veranstaltung.",
+          "answers": [
+            "A: stimmt",
+            "B: stimmt nicht"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q8",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Bei den Angeboten gibt es Informationen zur Dauer der Veranstaltung.",
+          "answers": [
+            "A: stimmt",
+            "B: stimmt nicht"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q9",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Bei den Angeboten gibt es Informationen dazu, wie viele Kinder teilnehmen dürfen.",
+          "answers": [
+            "A: stimmt",
+            "B: stimmt nicht"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q10",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Bei den Angeboten gibt es Informationen zum Preis der Veranstaltung.",
+          "answers": [
+            "A: stimmt",
+            "B: stimmt nicht"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q11",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Bei den Angeboten gibt es Informationen dazu, ob es besonders für Jungen oder für Mädchen geeignet ist.",
+          "answers": [
+            "A: stimmt",
+            "B: stimmt nicht"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q12",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Bei den Angeboten gibt es Informationen dazu, wer die Veranstaltung leitet.",
+          "answers": [
+            "A: stimmt",
+            "B: stimmt nicht"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q13",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Dich interessiert alles, was fliegt. Welche beiden Angebote kannst du nutzen?",
+          "answers": [
+            "A: Luftexperimente und Walderlebnisspiele",
+            "B: Muschelwerkstatt und Drachen schauen und Drachen bauen",
+            "C: Walderlebnisspiele und Muschelwerkstatt",
+            "D: Luftexperimente und Drachen schauen und Drachen bauen"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q14",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Wo kannst du dich nicht über weitere Angebote dieses Museums informieren?",
+          "answers": [
+            "A: per Post",
+            "B: über das Telefon",
+            "C: im Internet",
+            "D: vor Ort"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

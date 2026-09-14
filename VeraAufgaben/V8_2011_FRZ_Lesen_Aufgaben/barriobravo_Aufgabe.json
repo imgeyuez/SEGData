@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "filename": "barriobravo_Aufgabe.pdf",
+    "title": "Barrio Bravo",
+    "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Lisez le programme de l'événement « Barrio Bravo » et déterminez si les affirmations suivantes sont vraies ou fausses, ou si elles ne figurent pas dans le texte.",
+      "image": "barriobravo_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Selon l'affiche, Barrio Bravo peut t'offrir du flamenco et des films espagnols.",
+          "answers": [
+            "A: vrai",
+            "B: faux",
+            "C: pas dans le texte"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Selon l'affiche, Barrio Bravo peut t'offrir des concerts des artistes d'Amérique Latine.",
+          "answers": [
+            "A: vrai",
+            "B: faux",
+            "C: pas dans le texte"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Selon l'affiche, Barrio Bravo peut t'offrir des informations pratiques sur l'Espagne.",
+          "answers": [
+            "A: vrai",
+            "B: faux",
+            "C: pas dans le texte"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Selon l'affiche, Barrio Bravo peut t'offrir des expositions (Ausstellungen) sur l'Espagne et de la musique.",
+          "answers": [
+            "A: vrai",
+            "B: faux",
+            "C: pas dans le texte"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

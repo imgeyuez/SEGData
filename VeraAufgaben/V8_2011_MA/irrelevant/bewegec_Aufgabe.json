@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filename": "bewegec_Aufgabe.pdf",
+    "title": "Bewege C",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY) – https://creativecommons.org/licenses/by/3.0/de/legalcode"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Mit einer Geometrie-Software wurde Folgendes konstruiert: eine Strecke AB, dazu die Mittelsenkrechte m und ein Punkt C auf m. C wird mit A und B verbunden, um das Dreieck ABC zu erhalten. Der Punkt C wird auf der Mittelsenkrechten m nach unten bewegt. In der Zeichnung siehst du zwei Beispiele mit verschiedenen Positionen von C.",
+      "image": "",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "C soll so weit nach unten bewegt werden, dass ein gleichseitiges Dreieck ABC entsteht. Konstruiere dieses Dreieck in Figur 1.",
+          "answers": [],
+          "gold_answer": ""
+        },
+        {
+          "id": "Q2",
+          "text": "C soll so weit bewegt werden, dass der Winkel bei C (ACB) 132° groß ist. Konstruiere dieses Dreieck in Figur 2.",
+          "answers": [],
+          "gold_answer": ""
+        }
+      ]
+    }
+  ]
+}

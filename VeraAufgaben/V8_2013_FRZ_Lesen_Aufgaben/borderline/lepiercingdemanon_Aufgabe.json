@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "filename": "lepiercingdemanon_Aufgabe.pdf",
+    "title": "Le piercing de Manon",
+    "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Sur le site Internet www.debats-parmi-jeunes.fr, les jeunes discutent de piercing. Voici ce que Manon écrit. Lis le texte. Vrai, faux, pas dans le texte ?",
+      "image": "lepiercingdemanon_Aufgabe.eps",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Parmi ses amies, Manon était la première à avoir un piercing.",
+          "answers": [
+            "A: vrai",
+            "B: faux",
+            "C: pas dans le texte"
+          ],
+          "gold_answer": 1
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Manon a eu des problèmes de santé.",
+          "answers": [
+            "A: vrai",
+            "B: faux",
+            "C: pas dans le texte"
+          ],
+          "gold_answer": 2
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Les parents de Manon sont contre son piercing.",
+          "answers": [
+            "A: vrai",
+            "B: faux",
+            "C: pas dans le texte"
+          ],
+          "gold_answer": 0
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Manon pense que le piercing a été une mauvaise idée.",
+          "answers": [
+            "A: vrai",
+            "B: faux",
+            "C: pas dans le texte"
+          ],
+          "gold_answer": 0
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Manon a trouvé un travail.",
+          "answers": [
+            "A: vrai",
+            "B: faux",
+            "C: pas dans le texte"
+          ],
+          "gold_answer": 1
+        }
+      ]
+    }
+  ]
+}

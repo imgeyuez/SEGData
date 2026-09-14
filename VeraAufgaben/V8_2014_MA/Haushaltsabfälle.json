@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "filename": "Haushaltsabfälle.pdf",
+    "title": "Haushaltsabfälle",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/4.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Das Diagramm informiert über die Haushaltsabfälle, die im Jahr 2009 in den einzelnen Bundesländern pro Einwohner anfielen. Dabei ist im Diagramm jedem Bundesland eine Nummer zugeordnet.",
+      "image": "Haushaltsabfälle.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "In welchem Bundesland gab es die wenigsten Haushaltsabfälle pro Einwohner?",
+          "answers": [
+            "A: Baden-Württemberg",
+            "B: Bayern",
+            "C: Berlin",
+            "D: Brandenburg",
+            "E: Bremen",
+            "F: Hamburg",
+            "G: Hessen",
+            "H: Mecklenburg-Vorpommern",
+            "I: Niedersachsen",
+            "J: Nordrhein-Westfalen",
+            "K: Rheinland-Pfalz",
+            "L: Saarland",
+            "M: Sachsen",
+            "N: Sachsen-Anhalt",
+            "O: Schleswig-Holstein",
+            "P: Thüringen"
+          ],
+          "gold_answer": "M"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Gib an, wie viele Haushaltsabfälle in Rheinland-Pfalz pro Einwohner anfielen.",
+          "answers": [
+            "A: ca. 515 kg",
+            "B: ca. 500 kg",
+            "C: ca. 470 kg",
+            "D: ca. 300 kg"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "filename": "waage_Aufgabe.pdf",
+    "title": "Waage",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Gewichte von Schülerinnen und Schülern werden geordnet und der Gewichtsunterschied zwischen dem schwersten und dem leichtesten Schüler bestimmt.",
+      "image": "waage_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Ordne die gegebenen Gewichte der Schülerinnen und Schüler der Größe nach. 54 kg steht an erster Stelle, 56 kg an vierter, 57 kg an fünfter und 69 kg an neunter Stelle. Wer ist an zweiter Stelle?",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Ordne die gegebenen Gewichte der Schülerinnen und Schüler der Größe nach. 54 kg steht an erster Stelle, 56 kg an vierter, 57 kg an fünfter und 69 kg an neunter Stelle. Wer ist an dritter Stelle?",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Ordne die gegebenen Gewichte der Schülerinnen und Schüler der Größe nach. 54 kg steht an erster Stelle, 56 kg an vierter, 57 kg an fünfter und 69 kg an neunter Stelle. Wer ist an sechster Stelle?",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "gold_answer": "H"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Ordne die gegebenen Gewichte der Schülerinnen und Schüler der Größe nach. 54 kg steht an erster Stelle, 56 kg an vierter, 57 kg an fünfter und 69 kg an neunter Stelle. Wer ist an siebter Stelle?",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Ordne die gegebenen Gewichte der Schülerinnen und Schüler der Größe nach. 54 kg steht an erster Stelle, 56 kg an vierter, 57 kg an fünfter und 69 kg an neunter Stelle. Wer ist an achter Stelle?",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q6",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Gib den Gewichtsunterschied zwischen dem schwersten und dem leichtesten Schüler an.",
+          "answers": [
+            "A: 15 kg",
+            "B: 2 kg",
+            "C: 13 kg",
+            "D: 20 kg"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

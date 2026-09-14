@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "filename": "woerterlegen_Aufgabe.pdf",
+    "title": "Wörter legen",
+    "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Mit den vorgegebenen Bestandteilen können jeweils 5 sinnvolle Wörter zusammengesetzt werden. Die estandteile können auch mehrfach verwenden werden. Achte auf die richtige Groß- und Kleinschreibung der neuen Wörter.",
+      "image": "woerterlegen_Aufgabe_1.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche der folgendenn Wörter können nicht aus den 5 Bestandteilen gebildet werden?",
+          "answers": [
+            "A: spielte",
+            "B: spielen",
+            "C: beispielhaft",
+            "D: Vorspiel"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "description": "Mit den vorgegebenen Bestandteilen können jeweils 5 sinnvolle Wörter zusammengesetzt werden. Die estandteile können auch mehrfach verwenden werden. Achte auf die richtige Groß- und Kleinschreibung der neuen Wörter.",
+      "image": "woerterlegen_Aufgabe_2.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche der folgendenn Wörter können nicht aus den 5 Bestandteilen gebildet werden?",
+          "answers": [
+            "A: Einflussbereich",
+            "B: Flussbereich",
+            "C: einreihung",
+            "D: Behaftung"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "description": "Mit den vorgegebenen Bestandteilen können jeweils 5 sinnvolle Wörter zusammengesetzt werden. Die estandteile können auch mehrfach verwenden werden. Achte auf die richtige Groß- und Kleinschreibung der neuen Wörter.",
+      "image": "woerterlegen_Aufgabe_3.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche der folgendenn Wörter können nicht aus den 5 Bestandteilen gebildet werden?",
+          "answers": [
+            "A: Samen",
+            "B: gefühl",
+            "C: enge",
+            "D: Gefahr"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

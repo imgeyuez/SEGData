@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "filename": "Winkel Gamma.pdf",
+    "title": "Winkel Gamma",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/4.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "In dem abgebildetem Dreieck sind die Strecken AM, MB und MC gleich lang. Niki behauptet: 'Dann ist  γ = γ₁ + γ₂ ein rechter Winkel.' Dazu will sie einen Beweis in der Klasse vortragen. Sie hat ihre Argumentationsschritte auf Karteikarten notiert, die sie der Reihe nach an die Tafel heften will. Die Karten sind unsortiert. Wir wissen, dass K1 zuerst kommt, K7 danach und K5 ist an sechster Stelle.",
+      "image": "Winkel Gamma.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche Karte kommt an Stelle drei?",
+          "answers": [
+            "A: K1",
+            "B: K2",
+            "C: K3",
+            "D: K4",
+            "E: K5",
+            "F: K6",
+            "G: K7",
+            "H: K8"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche Karte kommt an Stelle vier?",
+          "answers": [
+            "A: K1",
+            "B: K2",
+            "C: K3",
+            "D: K4",
+            "E: K5",
+            "F: K6",
+            "G: K7",
+            "H: K8"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche Karte kommt an Stelle fünf?",
+          "answers": [
+            "A: K1",
+            "B: K2",
+            "C: K3",
+            "D: K4",
+            "E: K5",
+            "F: K6",
+            "G: K7",
+            "H: K8"
+          ],
+          "gold_answer": "H"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche Karte kommt an Stelle sieben?",
+          "answers": [
+            "A: K1",
+            "B: K2",
+            "C: K3",
+            "D: K4",
+            "E: K5",
+            "F: K6",
+            "G: K7",
+            "H: K8"
+          ],
+          "gold_answer": "F"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche Karte kommt an Stelle acht?",
+          "answers": [
+            "A: K1",
+            "B: K2",
+            "C: K3",
+            "D: K4",
+            "E: K5",
+            "F: K6",
+            "G: K7",
+            "H: K8"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

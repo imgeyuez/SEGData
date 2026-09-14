@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "filename": "chancen_Aufgabe.pdf",
+    "title": "Chancen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Für ein Schulfest baut eine Klasse Glücksräder. Die Besucher gewinnen beim Drehen der Glücksräder, wenn der Zeiger auf ein graues Feld zeigt.",
+      "image": "chancen_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Michael und Julia haben bereits ihre Glücksräder gebastelt. Welche der folgenden Aussagen ist richtig?",
+          "answers": [
+            "A: Bei Michaels Glücksrad ist die Gewinnwahrscheinlichkeit am größten.",
+            "B: Bei Julias Glücksrad ist die Gewinnwahrscheinlichkeit am größten.",
+            "C: Bei Michaels Glücksrad und bei Julias Glücksrad ist die Gewinnwahrscheinlichkeit gleich."
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Michaels und Julias Glücksrad haben die gleiche Gewinnwahrscheinlichkeit. Welche Begründung dafür ist falsch?",
+          "answers": [
+            "A: Bei Julia ist die Gewinnwahrscheinlichkeit größer, weil sie das größere Glücksrad gebastelt hat.",
+            "B: Sowohl bei Michael als auch bei Julia sind 6 von 12 Feldern eingefärbt. Die Gewinnwahrscheinlichkeiten sind also gleich.",
+            "C: Die Gewinnwahrscheinlichkeit beträgt bei beiden Glücksrädern 1/2.",
+            "D: Beide Glücksräder sind gleich gefärbt."
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

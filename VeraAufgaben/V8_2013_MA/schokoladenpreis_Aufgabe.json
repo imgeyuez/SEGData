@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "schokoladenpreis_Aufgabe.pdf",
+    "title": "Schokoladenpreis",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Ein Laden verkauft selbstgemachte Schokolade. Beispiele aus dem Angebot sind abgebildet. Es gibt keine Sonderangebote.",
+      "image": "schokoladenpreis_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Für eine Schokoladensorte ist im Schaubild die Zuordnung der zwei Größen Schokoladenmenge (in g) --> Schokoladenpreis (in €) dargestellt. Das folgende Wertepaar ist mit zwei gestrichelten Linien gekennzeichnet: 200 g --> 3,00 €. Ein weiteres Wertepaar ist ebenfalls mit einer gestrichelten Linie hervorgehoben. Ergänze die fehlenden Angaben.",
+          "answers": [
+            "A: 400 g --> 7,50 €",
+            "B: 200 g --> 7,00 €",
+            "C: 900 g --> 6,00 €",
+            "D: 500 g --> 7,50 €"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "graph and pattern analysis",
+          "text": "Um welche Schokoladensorte aus dem Angebot des Schokoladenladens handelt es sich bei dem Schaubild aus Teilaufgabe 1 ?",
+          "answers": [
+            "A: Dunkle Schokolade",
+            "B: Weiße Schokolade",
+            "C: Milchschokolade",
+            "D: Gefüllte Schokolade"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filename": "Zoo_Aufgabe.pdf",
+    "title": "Zoo",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "In einem Tierpark wurden eine Woche lang die Besucher pro Tag gezählt. Die Ergebnisse sind im Diagramm dargestellt.",
+      "image": "Zoo_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "An welchem Tag waren die meisten Besucher im Tierpark?",
+          "answers": [
+            "A: Montag",
+            "B: Dienstag",
+            "C: Mittwoch",
+            "D: Donnerstag",
+            "E: Freitag",
+            "F: Samstag",
+            "G: Sonntag"
+          ],
+          "gold_answer": "G"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Wie viele Besucher kamen am Samstag und Sonntag insgesamt?",
+          "answers": [
+            "A: 120 Besucher",
+            "B: 140 Besucher",
+            "C: 260 Besucher",
+            "D: 280 Besucher"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

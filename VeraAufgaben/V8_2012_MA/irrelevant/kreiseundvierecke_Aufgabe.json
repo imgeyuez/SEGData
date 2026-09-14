@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filename": "kreiseundvierecke_Aufgabe.pdf",
+    "title": "Kreise und Vierecke",
+    "source": "IQB – Institut zur Qualitätsentwicklung im Bildungswesen (CC BY 3.0 DE) – https://creativecommons.org/licenses/by/3.0/de/legalcode"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Gegeben ist jeweils ein Kreis mit dem Radius r = 3 cm.",
+      "image": "",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Zeichne ein Quadrat exakt so ein, dass seine vier Eckpunkte auf der Kreislinie liegen.",
+          "answers": [],
+          "gold_answer": ""
+        },
+        {
+          "id": "Q2",
+          "text": "Martin sagt: „Wenn ich eine Raute (Rhombus) ABCD so zeichne, dass die Eckpunkte B und D auf der Kreislinie liegen, müssen auch die beiden anderen Eckpunkte A und C immer auf der Kreislinie liegen.“ Hat Martin Recht?",
+          "answers": ["Ja", "Nein"],
+          "gold_answer": "Nein"
+        },
+        {
+          "id": "Q3",
+          "text": "Begründe deine Entscheidung.",
+          "answers": [],
+          "gold_answer": ""
+        }
+      ]
+    }
+  ]
+}

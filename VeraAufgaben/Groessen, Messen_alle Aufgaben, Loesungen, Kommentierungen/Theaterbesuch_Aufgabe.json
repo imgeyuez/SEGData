@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "Theaterbesuch_Aufgabe.pdf",
+    "title": "Theaterbesuch",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Es wurden für 47,50 € Karten an der Theaterkasse gekauft.",
+      "image": "Theaterbesuch_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Für wie viele Erwachsene und wie viele Kinder wurden Karten gekauft?",
+          "answers": [
+            "A: Es wurden 5 Karten für Erwachsene und 6 Karten für Kinder gekauft.",
+            "B: Es wurden 6 Karten für Erwachsene und 5 Karten für Kinder gekauft.",
+            "C: Es wurden 4 Karten für Erwachsene und 2 Karten für Kinder gekauft.",
+            "D: Es wurden 4 Karten für Erwachsene und 7 Karten für Kinder gekauft."
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

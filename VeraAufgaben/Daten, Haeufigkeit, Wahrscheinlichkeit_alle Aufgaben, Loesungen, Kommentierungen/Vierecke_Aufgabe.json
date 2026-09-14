@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "filename": "Vierecke_Aufgabe.pdf",
+    "title": "Vierecke",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Leo nimmt mit geschlossenen Augen drei Vierecke in die Hand. Bestimme, wie die Vierecke aussehen können.",
+      "image": "Vierecke_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Alle drei Vierecke sind weiß.",
+          "answers": [
+            "A: sicher",
+            "B: möglich, aber nicht sicher",
+            "C: unmöglich"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Ein Viereck ist schwarz, zwei sind weiß.",
+          "answers": [
+            "A: sicher",
+            "B: möglich, aber nicht sicher",
+            "C: unmöglich"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Alle drei Vierecke sind schwarz.",
+          "answers": [
+            "A: sicher",
+            "B: möglich, aber nicht sicher",
+            "C: unmöglich"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Ein Viereck ist weiß, zwei sind schwarz.",
+          "answers": [
+            "A: sicher",
+            "B: möglich, aber nicht sicher",
+            "C: unmöglich"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

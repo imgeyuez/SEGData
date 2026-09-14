@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "filename": "Freizeitbeschäftigungen.pdf",
+    "title": "Freizeitbeschäftigungen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/4.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Bei einer Befragung in den Klassenstufen 7 und 8 gaben alle Schülerinnen und Schüler ihre beliebteste Freizeitbeschäftigung an. Die Abbildung zeigt das Ergebnis dieser Befragung.",
+      "image": "Freizeitbeschäftigungen_1.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Gib an, wie viele Schülerinnen und Schüler aus beiden Klassenstufen insgesamt befragt wurden. ___ Schülerinnen und Schüler.",
+          "answers": [
+            "A: 72",
+            "B: 195",
+            "C: 200",
+            "D: 100"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "'Musik war in Klassenstufe 7 beliebter als in Klassenstufe 8.' Stimmt diese Aussage?",
+          "answers": [
+            "A: Ja",
+            "B: Nein"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "'Sport war in Klassenstufe 7 beliebter als in Klassenstufe 8.' Stimmt diese Aussage?",
+          "answers": [
+            "A: Ja",
+            "B: Nein"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "'Computer war in Klassenstufe 7 beliebter als in Klassenstufe 8.' Stimmt diese Aussage?",
+          "answers": [
+            "A: Ja",
+            "B: Nein"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "'Kino war in Klassenstufe 7 beliebter als in Klassenstufe 8.' Stimmt diese Aussage?",
+          "answers": [
+            "A: Ja",
+            "B: Nein"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q6",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "'Theater war in Klassenstufe 7 beliebter als in Klassenstufe 8.' Stimmt diese Aussage?",
+          "answers": [
+            "A: Ja",
+            "B: Nein"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q7",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "'Musik war in Klassenstufe 8 beliebter als in Klassenstufe 7.' Stimmt diese Aussage?",
+          "answers": [
+            "A: Ja",
+            "B: Nein"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q8",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "'Sport war in Klassenstufe 8 beliebter als in Klassenstufe 7.' Stimmt diese Aussage?",
+          "answers": [
+            "A: Ja",
+            "B: Nein"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q9",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "'Computer war in Klassenstufe 8 beliebter als in Klassenstufe 7.' Stimmt diese Aussage?",
+          "answers": [
+            "A: Ja",
+            "B: Nein"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q10",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "'Kino war in Klassenstufe 8 beliebter als in Klassenstufe 7.' Stimmt diese Aussage?",
+          "answers": [
+            "A: Ja",
+            "B: Nein"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q11",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "'Theater war in Klassenstufe 8 beliebter als in Klassenstufe 7.' Stimmt diese Aussage?",
+          "answers": [
+            "A: Ja",
+            "B: Nein"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "description": "Abbildung 2 zeigt Säulen zu den Freizeitbeschäftigungen „Musik“, „Sport“ und „Computer“. Diese Säulen ergeben sich aus den Angaben in Abbildung 1. Beachte, dass einige Säulen nach unten zeigen.",
+      "image": "Freizeitbeschäftigungen_2.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Was bedeuten die Säulen in Abbildung 2 nicht?",
+          "answers": [
+            "A: Darstellung der Differenz der Nennungsanzahl zwischen Jungen und Mädchen.",
+            "B: Anzahl Nennungen in Klasse 8 - Anzahl Nennungen in Klasse 7 ",
+            "C: Darstellung der Differenz zwischen Nennungsanzahl in 8. und 7. Klassenstufe.",
+            "D: Die Differenz wird nur in eine Richtung (Zunahme oder Abnahme) beschrieben."
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

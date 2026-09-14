@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "filename": "zaehlungvonfahrzeugen_Aufgabe.pdf",
+    "title": "Zählung von Fahrzeugen",
+    "source": "IQB – Institut zur Qualitätsentwicklung im Bildungswesen (CC BY 3.0 DE) – https://creativecommons.org/licenses/by/3.0/de/legalcode"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Eine Schülergruppe hat 500 Fahrzeuge beobachtet und gezählt. Die Ergebnisse haben die Schülerinnen und Schüler in folgenden Tabelle dargestellt.",
+      "image": "",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": " Vervollständige das Stabdiagramm, indem du an den passenden Stellen die Anzahlen der gezählten Fahrzeuge einzeichnest",
+          "answers": [],
+          "gold_answer": ""
+        }
+      ]
+    }
+  ]
+}

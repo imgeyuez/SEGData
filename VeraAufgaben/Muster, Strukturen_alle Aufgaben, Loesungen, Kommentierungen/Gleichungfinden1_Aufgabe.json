@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "filename": "Gleichungfinden1_Aufgabe.pdf",
+    "title": "Gleichung finden 1",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Lisa schreibt zu jeder Musterreihe eine Rechnung. Ergänze die fehlende Rechnung.",
+      "image": "Gleichungfinden1_Aufgabe_1.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Welche Rechnung muss ergänzt werden?",
+          "answers": [
+            "A: 3 + 10 = 13",
+            "B: 4 + 9 = 13",
+            "C: 11 + 6 = 17",
+            "D: 6 + 10 = 16"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "description": "Lisa schreibt zu jeder Musterreihe eine Rechnung. Ergänze die fehlende Rechnung.",
+      "image": "Gleichungfinden1_Aufgabe_2.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Welche Rechnung muss ergänzt werden?",
+          "answers": [
+            "A: 6 + 10 = 16",
+            "B: 9 + 4 = 13",
+            "C: 4 + 12 = 16",
+            "D: 25 + 9 = 34"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "FahrplanSchulbus_Aufgabe.pdf",
+    "title": "Fahrplan Schulbus",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Du bist um 11.50 Uhr an der Haltestelle „Schulstraße“. Der nächste Bus kommt pünktlich.",
+      "image": "FahrplanSchulbus_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "In wie vielen Minuten fährt er ab?",
+          "answers": [
+            "A: In 5 Minuten.",
+            "B: In 10 Minuten.",
+            "C: In 15 Minuten.",
+            "D: In 3 Minuten."
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Wie lange dauert eine Fahrt von der „Schulstraße“ zur „Gartenallee“?",
+          "answers": [
+            "A: 1 Stunde 7 Minuten.",
+            "B: 1 Stunde und 2 Minuten.",
+            "C: 1 Stunde 10 Minuten",
+            "D: 0 Stunde und 10 Minuten"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

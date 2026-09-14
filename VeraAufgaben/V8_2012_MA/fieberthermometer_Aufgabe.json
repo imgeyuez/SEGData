@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "fieberthermometer_Aufgabe.pdf",
+    "title": "Fieberthermometer",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Die Abbildung zeigt ein Fieberthermometer. Die schwarze dicke Linie zeigt die gemessene Körpertemperatur in Grad Celsius an.",
+      "image": "fieberthermometer_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Wie viel °C beträgt die gemessene Körpertemperatur in der Abbildung?",
+          "answers": [
+            "A: 30,0 °C",
+            "B: 37,0 °C",
+            "C: 37,6 °C",
+            "D: 36,8 °C"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Zu einem anderen Zeitpunkt beträgt die Körpertemperatur 37,9 °C. Sie steigt dann um 2,3 °C an. Wie viel °C beträgt die Körpertemperatur nach dem Temperaturanstieg?",
+          "answers": [
+            "A: 37,9 °C",
+            "B: 40,0 °C",
+            "C: 38,2 °C",
+            "D: 40,2 °C"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

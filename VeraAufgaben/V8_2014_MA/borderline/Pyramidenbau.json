@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "filename": "Pyramidenbau.pdf",
+    "title": "Pyramidenbau",
+    "source": "IQB e. V. (CC BY 4.0)"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "In einem Magnetbaukasten befinden sich magnetische Stäbe und Kugeln. Mario baut damit Pyramiden und ihre Netze. Für jede Kante nimmt er einen Magnetstab. Abbildung 1 zeigt eine Pyramide mit dreieckiger Grundfläche. In Abbildung 2 wurde mit Stäben und Kugeln das Netz dieser Pyramide gelegt.",
+      "image": "Pyramidenbau.eps",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Das Netz aus Abbildung 2 soll zu der Pyramide aus Abbildung 1 „zusammengeklappt“ werden. Gib an, wie viele Stäbe und wie viele Kugeln dazu entfernt werden müssen. ___ Stäbe ___ Kugeln",
+          "answers": [],
+          "gold_answer": "3 UND 2"
+        }
+      ]
+    }
+  ]
+}

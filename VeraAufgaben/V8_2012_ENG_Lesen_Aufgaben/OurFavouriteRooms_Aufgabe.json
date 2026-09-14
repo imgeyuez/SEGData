@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "OurFavouriteRooms_Aufgabe.pdf",
+        "title": "Our Favourite Rooms",
+        "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+        "class": "k.A."
+    },
+    "tasks": [
+        {
+            "id": "T1",
+            "description": "Read the following texts (0 to 5) written by Irish children and match them with one of the pictures (a to g). You may use each picture only once. There is one more picture than you need. Example: text 0 matches with picture b.",
+            "image": "OurFavouriteRooms_Aufgabe.png",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which picture matches text 1?",
+                    "answers": [
+                        "A: a",
+                        "B: b",
+                        "C: c",
+                        "D: d",
+                        "E: e",
+                        "F: f",
+                        "G: g"
+                    ],
+                    "gold_answer": "F"
+                },
+                {
+                    "id": "Q2",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which picture matches text 2?",
+                    "answers": [
+                        "A: a",
+                        "B: b",
+                        "C: c",
+                        "D: d",
+                        "E: e",
+                        "F: f",
+                        "G: g"
+                    ],
+                    "gold_answer": "A"
+                },
+                {
+                    "id": "Q3",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which picture matches text 3?",
+                    "answers": [
+                        "A: a",
+                        "B: b",
+                        "C: c",
+                        "D: d",
+                        "E: e",
+                        "F: f",
+                        "G: g"
+                    ],
+                    "gold_answer": "G"
+                },
+                {
+                    "id": "Q4",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which picture matches text 4?",
+                    "answers": [
+                        "A: a",
+                        "B: b",
+                        "C: c",
+                        "D: d",
+                        "E: e",
+                        "F: f",
+                        "G: g"
+                    ],
+                    "gold_answer": "C"
+                },
+                {
+                    "id": "Q5",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which picture matches text 5?",
+                    "answers": [
+                        "A: a",
+                        "B: b",
+                        "C: c",
+                        "D: d",
+                        "E: e",
+                        "F: f",
+                        "G: g"
+                    ],
+                    "gold_answer": "E"
+                }
+            ]
+        }
+    ]
+}

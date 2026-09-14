@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "filename": "concert_Aufgabe.pdf",
+    "title": "Concert",
+    "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de; Texte: © bien public",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Lis les informations sur le billet. Complète les phrases.",
+      "image": "concert_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Complétez la phrase: Le concert a lieu au / à la / à l’ ...",
+          "answers": [
+            "A: Marie Bell",
+            "B: théâtre du gymnase",
+            "C: Catherine Lara",
+            "D: France"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Complétez la phrase: La date du concert est ...",
+          "answers": [
+            "A: 20/8/45",
+            "B: 27.01.2013",
+            "C: 21/06/2013",
+            "D: 21/05/13"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Complétez la phrase: Le concert commence à ....",
+          "answers": [
+            "A: 20 heures 45",
+            "B: 21 heures 05",
+            "C: 20 heures 48",
+            "D: 20 heures 13"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Complétez la phrase: Le billet du concert coûte ...",
+          "answers": [
+            "A: 48 euros",
+            "B: 13 euros",
+            "C: 40 euros",
+            "D: 20 euros"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

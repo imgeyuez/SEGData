@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "filename": "panneauresidence_Aufgabe.pdf",
+        "title": "Panneau : résidence, piscine et plage",
+        "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de",
+        "class": "8"
+    },
+    "tasks": [
+        {
+            "id": "T1",
+            "description": "Ta famille et toi, vous passez vos vacances à la résidence « Piscine et Plage ». Tes parents veulent savoir ce qui est interdit à la piscine.",
+            "image": "panneauresidence_Aufgabe.png",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Quelle image correspond au texte du panneau ?",
+                    "answers": [
+                        "A",
+                        "B",
+                        "C",
+                        "D"
+                    ],
+                    "gold_answer": "A"
+                }
+            ]
+        }
+    ]
+}

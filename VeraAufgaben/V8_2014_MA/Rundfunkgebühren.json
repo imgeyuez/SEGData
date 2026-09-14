@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "filename": "Rundfunkgebühren.pdf",
+    "title": "Rundfunkgebühren",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/4.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "In der Abbildung ist die Entwicklung der monatlichen Rundfunkgebühren, die ein Haushalt bezahlen muss, seit dem Jahr 1953 dargestellt. Die Abbildung zeigt, wann es Gebührenerhöhungen gab und wie hoch danach die Gebühren waren. Herr Kunze hat sich genauer mit den Daten befasst und viel gerechnet. Seine Ergebnisse hat er in einer Tabelle aufgeschrieben. Allerdings hat er in der Kopfzeile nicht alle fünf Spalten inhaltlich beschriftet. Zudem stehen in einigen Feldern Fragezeichen statt Daten.",
+      "image": "Rundfunkgebühren_1.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Information fehlt in Spalte 1?",
+          "answers": [
+            "A: 1992",
+            "B: 5",
+            "C: 1990",
+            "D: 1953"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Information fehlt in Spalte 2?",
+          "answers": [
+            "A: 5",
+            "B: 3",
+            "C: 0,20",
+            "D: 0"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Information fehlt in Spalte 3?",
+          "answers": [
+            "A: 6,00 Euro",
+            "B: 8,40 Euro",
+            "C: 6,70 Euro",
+            "D: 2,75 Euro"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Die Daten in den Spalten 4 und 5 lassen sich nicht direkt aus der Abbildung ablesen und müssen errechnet werden. Welche Information fehlt in Spalte 4?",
+          "answers": [
+            "A: 1,70 Euro",
+            "B: 0,23 Euro",
+            "C: 2,20 Euro",
+            "D: 0,75 Euro"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Die Daten in den Spalten 4 und 5 lassen sich nicht direkt aus der Abbildung ablesen und müssen errechnet werden. Welche Information fehlt in Spalte 5?",
+          "answers": [
+            "A: 1,70 Euro",
+            "B: 0,23 Euro",
+            "C: 2,20 Euro",
+            "D: 0,75 Euro"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "description": "Herr Kunze hat die Daten aus der ersten Abbildung in einer zweiten dargestellt.",
+      "image": "Rundfunkgebühren_2.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welchen Vorteil hat Abbildung 2 gegenüber Abbildung 1?",
+          "answers": [
+            "A: Punkte kann man besser ablesen.",
+            "B: Man kann erkennen, dass die Werte ansteigen.",
+            "C: Die Abbildung 2 ist anschaulicher, weil nicht sehr viele Daten dort stehen, die leicht durcheinander bringen.",
+            "D: Man hat regelmäßige Zeitabstände und ein Graph ist übersichtlicher."
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

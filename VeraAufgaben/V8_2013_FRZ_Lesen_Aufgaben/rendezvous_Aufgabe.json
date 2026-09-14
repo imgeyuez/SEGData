@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "filename": "rendezvous_Aufgabe.pdf",
+    "title": "Rendez-vous",
+    "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Lis le document, complète les phrases et réponds aux questions.",
+      "image": "rendezvous_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "C’est un mail de ___.",
+          "answers": [
+            "A: David.",
+            "B: Jonathan.",
+            "C: Clara",
+            "D: Sophie"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "C’est un mail à ___.",
+          "answers": [
+            "A: David.",
+            "B: Lèa",
+            "C: Marc",
+            "D: Clara"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Ils ont rendez-vous où ?",
+          "answers": [
+            "A: à l’école.",
+            "B: au restaurant.",
+            "C: chez David.",
+            "D: devant le cinéma (<< Molitor >>)."
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Ils ont rendez-vous quand ?",
+          "answers": [
+            "A: samedi soir.",
+            "B: demain à 18 heures.",
+            "C: à 16 heures.",
+            "D: demain matin."
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Qui viendra au rendez-vous ?",
+          "answers": [
+            "A: Sophie, Léa, Marc",
+            "B: grands-parents",
+            "C: Clara",
+            "D: Marc, David"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,640 @@
+Antworten für multiple Felder abgetrennt mit 'UND'. Bsp.: 
+"text": "Wie lange dauert eine Fahrt von der „Schulstraße“ zur „Gartenallee“? ___ Stunde ___ Minuten.",
+          "answers": [],
+          "gold_answer": "1 UND 10"
+
+Multiple gold answers abgetrennt mit 'ODER'. 
+Bsp.: 12 kg 100 g ODER 12,1 kg ODER 12100 g ODER 12,100 kg
+
+Felder zum Einfüllen markiert mit '___'
+
+
+
+Lesen Aufgaben
+- Unterwegs, Aufgabe 4: 
+	Aufgabe ist es, etwas auf die KArte einzuzeichnen. Lösungsideen: Lösungsbild als image abspeichern und vergleichen mit erzzeugtem Bild. Meine Zwischenlösung: Beschreibung angegeben, wie man an das Ziel kommt.
+
+Muster, Strukturen
+- Holzstäbchen_Aufgabe:
+	Aufgabe 1 benötigt wieder eine Zeichnung. Lösungsideen: 
+	1. Beschreiben, wie die Lösung auszusehen hat mit der Addition and die Frage, dass die Person in Worten ebf. beschreiben soll, was sie sieht. Bzw. the LLM
+--> Das gleiche gilt für Teilaufgabe 3
+
+- Quadratmuster  Aufgabe:
+	Selbses Problem wie bei Holzstäbchen. Habe ergänzt zur Aufgabe: "Und beschreibe, wie groß das Kästchen ist."
+
+- StellenwertPunkte Aufgabe:
+	Habe Stichwörter für richtige Antwort in gold gelassen sowie die Bsp.Antworten ergänzt.
+
+- Streichhoelzer_Aufgabe
+	Same as Holzstäbchen_Aufgabe
+
+Orthografie_alle Aufgaben
+Alle irrelevant.
+
+Raum, Form
+- LinienineinRechteck
+	Borderline, weil Figuren nicht für das Verstehen verwendet werden müssen, allerdings 	ist die Lösung das Einzeichnen von etwas.
+
+-Pralinschachtel: Borderline, weil Bild ist nicht zwingend erforderlich, da der Text alle 	Infos hergibt, aber gleichzeitig ist es eine korrekte Hilfestellung
+
+- Spiegelachsen:
+	Fürchterlich für gold-value, sorry - man muss die Spiegelachsen eiintragen. Habe eine Beschreibung ergänzt.
+
+- Spiegelbilder Geobrett
+	Nicht sicher, wie ich es hier machen soll, weil es nicht einmal typische Formen sind. Neben der alternativen Idee von "ebenfalls ein gold-image verlinken", hätte ich noch, die einzelnen Punkte wie "Koordinaten" anzugeben.
+
+- Same with SpiegelungenGeobrett_Aufgabe
+
+- Wuerfelkippen_Aufgabe.pdf ebf. Beschreibung ergänzt.
+
+- Wuerfelnetzeergaenzen_Aufgabe.pdf 
+	Ebf. bschreibung ergänzt
+
+
+Hörversteh/Aufgaben:
+	Sollen die Zeitangaben ebenfalls in der Aufgabenbeschreibung enthalten sein?
+	(There is an example at the beginning (0). You will hear the recording once
+ 	only.You will have 10 seconds at the end of the recording to complete your 
+	answers.)
+               
+
+
+V8_2011_FRZ_Hoeren_Aufgaben
+ChatGPT kann die Aufgaben hier nicht aus dem Dokument extrahieren, weil die Aufgabenstellung
+als Bild inkludiert ist und diese - nach ChatGPT - nicht maschinenlesbar ist. 
+
+V8_2011_MA
+2 Aufgaben (darunter 'Rollrasen') verwenden Fotos lediglich zur Veranschaulichung/Dekoration.
+	Sie haben kein weiteres nutzen --> Labeled them as irrelevant.
+
+
+V8_2014_MA 
+	Dokumente sind nicht benannt nach dem üblichen Schema: lowercase, ohne leerzeichen_Aufgabe
+	Stattdessen tragen sie den Titel 1:1 wie im Aufgabenblatt und haben keine _Aufgabe
+
+V8_DEU_Sprachgebrauch - hier ist mir aufgefallen, dass extrahierte Bilder nur ein Bild aus dem Dok extrahieren - nicht alle :)
+
+V8_DEU_Sprachgebrauch_Aufgaben/sms_Aufgabe.json:
+	Excluded Teilaufgabe 3 aus der PDF, weil Freitextantwort
+
+V8_DEU_Sprachgebrauch_Aufgaben/sprachlichemittel_Aufgabe.json:
+	Teilaufgabe 3 nicht eingebaut, ist nicht bildabhängig
+
+Aufgaben von V8_MA_L1 sind Aufgaben, die in den Ordnern davor verteilt vorgekommen sind
+
+
+Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\Zahlenstrahl1_Aufgabe.pdf
+	Goldantwort innerhalb der Lösungen sagt 130. Es müsste aber 13 sein? - Habe vorerst 13 eingesetzt - lul, diee Dokumente sind vertauscht. Zahlenstrahl 1 hat die Lösung von 2 und 2 von 1
+
+Lesen_alle Aufgaben, Loesungen, Kommentierungen
+	Naturkundemuseum_Aufgabe.json
+		Teilaufgabe 7 ausgelassen, weil Textaufgabe
+	Unterwegs_Aufgabe.json
+		Teilaufgabe 4 ausgenommn, da muss etwas eingezeichnet werden
+
+Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen
+	Holzstaebchen_Aufgabe.json
+		Teilaufgaben a) und c) ausgeschlossen, da etw. eingezeichnet werden musste
+
+Raum, Form_alle Aufgaben, Loesungen, Kommentierungen
+	DreieckeundViereckeankreuzen_Aufgabe.json
+		Gold-answers hat mehrere Angaben. Erst einmal mit , voneinander getrennt
+
+Sprachgebrauch_alle Aufgaben, Loesungen, Kommentierungen
+	Esel_Aufgabe.json
+		Teilaufgabe 6 only übernommen :)
+
+V8_2012_MA\wuerfelbau_Aufgabe.json
+	Hat mehrere Gold-answers; wie sollen wir die am besten markieren?
+
+V8_2012_MA\zufallsversuche_Aufgabe.json
+	Teilaufgabe 3 die Begründung habe ich nicht übernommen. Ist abhänging von der Antwort der Aufgabe davor (nicht von einem Bild) und die Lösung frustriert mich. Es wird angemerkt, dass Lösungen falsch sind, weil sie nicht in Bezug zur Tabelle gestellt werden. Es wird aber nicht vorausgesetzt, dass dies getan werden muss. Big L.
+
+V8_2013_MA\waage_Aufgabe.json
+Q1 und Q2 lösungen könnten auch getauscht sein: Man muss Geewicht sortieren und beide sind 56 kg.
+
+V8_2014_MA\Freizeitbeschäftigungen.json
+	T1, Q2und Q3 hat mehrere GOld answers - Habe ich vorerst leer gelassen, weil... sind die optionen halt. weiss nicht, wie ich das angeben soll
+
+V8_DEU_Orthografie_Gesamt
+	DOkumente für die Auswertung ist falsch und tbh nicht vorhanden I guess?
+
+V8_DEU_Sprachgebrauch_Gesamt\einwortmehrerebedeutungen_Aufgabe.json
+	wie goldanswer festhalten?
+
+FRAGE	
+Habe beim 2. Durchgang jetzt bei multiple choice immer A:, B:, C:, D: eingebaut... ist das schlecht? :D Ich machee erst mal weiteer, kann man ja sonst automatisiert entfeernen. Nur bee dnen nicht, wo eh nur A, B, C, eetc. war. Aslso ohne, dass etwas danach kam
+
+
+DOKUMENTE BEI DENEN ICH MIR NICHT SICHER BIN
+V8_2011_FRZ_Lesen_Aufgaben - fast alle XD
+"V8_2011_MA\irrelevant\wuerfelnmitzweiwuerfeln_Aufgabe.pdf"
+
+
+Dokumente, wo image als gold-answer angehängt werden muss
+VeraAufgaben
+|
+|
+|---V8_2011_MA
+	|---bewegec_Aufgabe
+		|--- T1_Q1, T1_Q2
+	|---fahrradtour_Aufgabe
+		|--- T1_Q1
+	|---gluecksrad_Aufgabe
+		|--- T2_Q1
+	|---punkteimkoordinatensystem_Aufgabe
+		|--- T1_Q1
+		|--- T1_Q2
+	|---regelmaessigevielecke_Aufgabe
+		|--- T1, T2 und T3
+|
+|---V8_FRZ_Hoeren_Aufgaben
+	|---weekend_Aufgabe
+		|---T1_Q1 
+
+------DOKUMENTENÜBERSICHT------
+Anzahl gefundener PDFs: 627
+Anzahl unikater PDFs: 479 (478 unikate Namen. 2 Aufgaben teilen denselben Namen: Lucky)
+
+Auflistung ALLER Dokumente innerhalb der Vera-Aufgaben
+Gefundene Aufgaben-Namen mit Pfad:
+- 1Kilogramm_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen
+- 20prozent_Aufgabe  →  V8_2013_MA\irrelevant
+- 700milliarden_Aufgabe  →  V8_2011_MA\irrelevant
+- abstandaufdemwasser_Aufgabe  →  V8_2011_MA
+- Addition_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Additionfortsetzen_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- aeroport_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\irrelevant
+- alacantine_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\auditive_tasks
+- alacuisine_Aufgabe  →  auditive_tasks\V8_2011_FRZ_Hoeren_Aufgaben\auditive_tasks
+- albertville_Aufgabe  →  auditive_tasks\V8_2014_FRZ_Hoeren_Aufgaben\borderline
+- ampelkarte_Aufgabe  →  V8_2013_MA
+- Anteile in geometrischen Objekten  →  V8_2014_MA
+- antoine_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\irrelevant
+- antonia_Aufgabe  →  auditive_tasks\V8_2009_ENG_Hoeren_Aufgaben\borderline
+- AnzahlderKaestchenimRechteck_Aufgabe  →  Raum, Form_alle Aufgaben, Loesungen, Kommentierungen
+- anzahlvonnullen_Aufgabe  →  V8_2013_MA\irrelevant
+- apfelsaftschorle_Aufgabe  →  V8_2012_MA\irrelevant
+- Aquarium_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant        
+- atable_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\auditive_tasks
+- attentionauquebecois_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\irrelevant
+- atwork_Aufgabe  →  auditive_tasks\V8_2011_ENG_Hoeren_Aufgaben\irrelevant
+- augendespfaus_Aufgabe  →  V8_DEU_Lesen_Gesamt\irrelevant
+- aumarche_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\auditive_tasks
+- AusAltenMaerchen_Aufgabe  →  Sprachgebrauch_alle Aufgaben, Loesungen, Kommentierungen\irrelevant     
+- Ausflug_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Aussagen_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- aussagendreiecke_Aufgabe  →  V8_2013_MA\irrelevant
+- aussagenzurprop_Aufgabe  →  V8_2011_MA
+- autelephone_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\irrelevant
+- Autokauf  →  V8_2014_MA\irrelevant
+- bakesale_Aufgabe  →  auditive_tasks\V8_2011_ENG_Hoeren_Aufgaben\borderline
+- BalkenwaageApfel_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen
+- BalkenwaageTassen_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen
+- Bank_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Bankproblem_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- barriobravo_Aufgabe  →  V8_2011_FRZ_Lesen_Aufgaben
+- Bauwerkvonoben_Aufgabe  →  Raum, Form_alle Aufgaben, Loesungen, Kommentierungen
+- Becherspiel_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- BeetleCam_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben\irrelevant
+- Begruende2_Aufgabe  →  Orthografie_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Begruende_Aufgabe  →  Orthografie_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- berechnex_Aufgabe  →  V8_2012_MA\irrelevant
+- Bettina_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben\irrelevant
+- Bevölkerungsdichte  →  V8_2014_MA
+- bewegec_Aufgabe  →  V8_2011_MA\irrelevant
+- bienvenueenclasse_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\borderline
+- Birnen_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Bleistifte_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant       
+- Boie_Aufgabe  →  auditive_tasks\Zuhoeren_alle Aufgaben, Loesungen, Kommentierungen
+- bonbons_Aufgabe  →  V8_2012_MA\irrelevant
+- brettspiel_Aufgabe  →  V8_2011_MA\irrelevant
+- Briefmarke_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen
+- briefmarkenschachteln_Aufgabe  →  V8_2012_MA\irrelevant
+- britishness_Aufgabe  →  auditive_tasks\V8_2012_ENG_Hoeren_Aufgaben\irrelevant
+- bummeldurcheuropa_Aufgabe  →  auditive_tasks\V8_DEU_Zuhoeren_Gesamt
+- Bundesjugendspiele_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant 
+- Busfahrt_Aufgabe  →  Sprachgebrauch_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Cartoon_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben
+- CellphoneUse_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben\borderline
+- cesoir_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\auditive_tasks
+- cestquoilebonheur_Aufgabe  →  V8_2015_FRZ_Lesen_Aufgaben\borderline
+- chancen_Aufgabe  →  V8_2012_MA
+- charlieetlachocolaterie_Aufgabe  →  V8_2011_FRZ_Lesen_Aufgaben\irrelevant
+- cheesecake_Aufgabe  →  V8_2013_ENG_Lesen_Aufgaben
+- classtrip_Aufgabe  →  auditive_tasks\V8_2011_ENG_Hoeren_Aufgaben\irrelevant
+- Colakästen  →  V8_2014_MA\irrelevant
+- communication2_Aufgabe  →  auditive_tasks\V8_2012_ENG_Hoeren_Aufgaben\borderline
+- computerspielsucht_Aufgabe  →  V8_2011_MA\irrelevant
+- concert_Aufgabe  →  V8_2013_FRZ_Lesen_Aufgaben
+- conteneuraverre_Aufgabe  →  V8_2011_FRZ_Lesen_Aufgaben
+- coursdemusique_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\irrelevant
+- CrocodylusPark_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben\irrelevant
+- Croissant  →  V8_2014_MA\irrelevant
+- damenuhr_Aufgabe  →  V8_2013_MA\irrelevant
+- danslarue_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\irrelevant
+- danslebus_Aufgabe  →  V8_2012_FRZ_Lesen_Aufgaben\borderline
+- dansletgv_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\irrelevant
+- darstellungindiagrammen_Aufgabe  →  V8_2012_MA
+- Das ist gerundet  →  V8_2014_MA\irrelevant
+- dasdassbegruenden_Aufgabe  →  V8_DEU_Orthografie_Gesamt\irrelevant
+- DeraufmerksameBeobachter_Aufgabe  →  Lesen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant      
+- derschnupfen_Aufgabe  →  auditive_tasks\V8_DEU_Zuhoeren_Gesamt
+- DerVergrabeneSchatz_Aufgabe  →  Sprachgebrauch_alle Aufgaben, Loesungen, Kommentierungen\irrelevant  
+- DerWasserwusch_Aufgabe  →  auditive_tasks\Zuhoeren_alle Aufgaben, Loesungen, Kommentierungen
+- devoirs_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\borderline
+- dialoge_Aufgabe  →  V8_DEU_Sprachgebrauch_Gesamt\irrelevant
+- Division von Zahlen  →  V8_2014_MA\borderline
+- drehkoerper_Aufgabe  →  V8_2011_MA
+- Dreieck im Quadrat  →  V8_2014_MA\borderline
+- DreieckeundViereckeankreuzen_Aufgabe  →  Raum, Form_alle Aufgaben, Loesungen, Kommentierungen        
+- dreieckszahlen_Aufgabe  →  V8_2013_MA\irrelevant
+- Durch 1001 teilbar  →  V8_2014_MA\borderline
+- dvdplayer_Aufgabe  →  V8_2013_MA\irrelevant
+- eckenanpyramiden_Aufgabe  →  V8_2013_MA\borderline
+- ecoledusoleil_Aufgabe  →  V8_2011_FRZ_Lesen_Aufgaben
+- Einfache Gleichung  →  V8_2014_MA\irrelevant
+- Einheitenumwandeln_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant 
+- Einkauf_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen
+- einwortmehrerebedeutungen_Aufgabe  →  V8_DEU_Sprachgebrauch_Gesamt
+- emergency_Aufgabe  →  auditive_tasks\V8_2012_ENG_Hoeren_Aufgaben\irrelevant
+- encanoe_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\auditive_tasks
+- enmetro_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\irrelevant
+- entrain_Aufgabe  →  auditive_tasks\V8_2011_FRZ_Hoeren_Aufgaben\irrelevant
+- entretienaumagasin_Aufgabe  →  auditive_tasks\V8_2011_FRZ_Hoeren_Aufgaben\auditive_tasks
+- Esel_Aufgabe  →  Sprachgebrauch_alle Aufgaben, Loesungen, Kommentierungen
+- espagne_Aufgabe  →  V8_2013_FRZ_Lesen_Aufgaben
+- evenement_Aufgabe  →  V8_2013_FRZ_Lesen_Aufgaben
+- FahrplanSchulbus_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen
+- fahrradcomputer_Aufgabe  →  V8_2012_MA\irrelevant
+- fahrradtour_Aufgabe  →  V8_2011_MA
+- FehlendeAbbildung_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen
+- fehlendezahlen_Aufgabe  →  V8_2013_MA\irrelevant
+- Fernsehtuerme_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen
+- fieberthermometer_Aufgabe  →  V8_2012_MA
+- Figur aus zwei Dreiecken  →  V8_2014_MA
+- FindedieRegel_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant    
+- Fischefangen_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant    
+- fischezaehlen_Aufgabe  →  V8_2011_MA\irrelevant
+- flaecheninhalt_Aufgabe  →  V8_2013_MA
+- fliesen_Aufgabe  →  V8_2011_MA\irrelevant
+- floh_Aufgabe  →  auditive_tasks\V8_DEU_Zuhoeren_Gesamt
+- food_Aufgabe  →  auditive_tasks\V8_2011_ENG_Hoeren_Aufgaben\irrelevant
+- Fotoalbum_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant       
+- Freibad_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Freizeitbeschäftigungen  →  V8_2014_MA
+- Freundbesuchen_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen
+- Freunde  →  V8_2014_MA
+- fruehstuecksbroetchen_Aufgabe  →  V8_2011_MA\irrelevant
+- fuenfundvierzig_Aufgabe  →  V8_2011_MA\borderline
+- FussballEintrittskarte_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Fussgaenger_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant      
+- fussleisten_Aufgabe  →  V8_2011_MA\irrelevant
+- FuсballEintrittskarte_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Fuсgaenger_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant       
+- Geburtstagberechnen_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen
+- Geburtstage_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen
+- Geobrettfigurauslegen_Aufgabe  →  Raum, Form_alle Aufgaben, Loesungen, Kommentierungen
+- geometrischekoerper_Aufgabe  →  V8_2012_MA
+- geschichtezurgraphik_Aufgabe  →  V8_2012_MA
+- geschwindigkeit_Aufgabe  →  V8_2013_MA
+- gewerbezone_Aufgabe  →  V8_2013_MA
+- Gewichte_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Gewinnchance_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen\borderline
+- gewitter_Aufgabe  →  V8_2013_MA\irrelevant
+- Gleichung finden  →  V8_2014_MA\irrelevant
+- gleichungenloesenistni_Aufgabe  →  V8_2011_MA\irrelevant
+- Gleichungfinden1_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen
+- gleichungloesen1_Aufgabe  →  V8_2013_MA\irrelevant
+- gleichungloesen2_Aufgabe  →  V8_2013_MA\irrelevant
+- gluecksrad_Aufgabe  →  V8_2011_MA
+- gluecksraddrehen_Aufgabe  →  V8_2012_MA
+- GoldenGateBridge_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben\irrelevant
+- Groessenumwandeln_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant  
+- Groeсenumwandeln_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant   
+- gueterverkehr_Aufgabe  →  V8_2013_MA
+- Gummibaerchen1_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Gummibaerchentuete_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- guys_Aufgabe  →  auditive_tasks\V8_2011_ENG_Hoeren_Aufgaben\irrelevant
+- gymnastics_Aufgabe  →  V8_2013_ENG_Lesen_Aufgaben
+- HalberPreis_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen
+- harzwanderung_Aufgabe  →  V8_2012_MA
+- Hauptstädte  →  V8_2014_MA
+- Haushaltsabfälle  →  V8_2014_MA
+- HaustiereGewichtvergleichen_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen   
+- headmaster_Aufgabe  →  auditive_tasks\V8_2009_ENG_Hoeren_Aufgaben\auditive_tasks
+- hochrad_Aufgabe  →  V8_2011_MA\irrelevant
+- hoeflich_Aufgabe  →  V8_DEU_Sprachgebrauch_Gesamt\irrelevant
+- holidays_Aufgabe  →  auditive_tasks\V8_2009_ENG_Hoeren_Aufgaben\auditive_tasks
+- holzstab_Aufgabe  →  V8_2011_MA\irrelevant
+- Holzstaebchen_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen
+- holzweg_Aufgabe  →  auditive_tasks\V8_DEU_Zuhoeren_Gesamt
+- Holzwürfel  →  V8_2014_MA\irrelevant
+- horairesdebus_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\irrelevant
+- hospital_Aufgabe  →  auditive_tasks\V8_2012_ENG_Hoeren_Aufgaben\auditive_tasks
+- housedescription_Aufgabe  →  auditive_tasks\V8_2011_ENG_Hoeren_Aufgaben\auditive_tasks
+- Hälfte  →  V8_2014_MA\irrelevant
+- ice_Aufgabe  →  V8_2011_FRZ_Lesen_Aufgaben\irrelevant
+- imkreislaufen_Aufgabe  →  V8_2013_MA
+- india_Aufgabe  →  auditive_tasks\V8_2012_ENG_Hoeren_Aufgaben\irrelevant
+- InJail_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben\borderline
+- Inliner  →  V8_2014_MA\borderline
+- ireland_Aufgabe  →  V8_2013_ENG_Lesen_Aufgaben\irrelevant
+- jeuxvideo_Aufgabe  →  auditive_tasks\V8_2011_FRZ_Hoeren_Aufgaben\borderline
+- joggen_Aufgabe  →  V8_2012_MA\irrelevant
+- johnnyhallyday_Aufgabe  →  V8_2012_FRZ_Lesen_Aufgaben\borderline
+- JoschiAusflug_Aufgabe  →  Lesen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- judomatte_Aufgabe  →  V8_2011_MA\irrelevant
+- julesverne_Aufgabe  →  auditive_tasks\V8_2011_FRZ_Hoeren_Aufgaben\irrelevant
+- Kaefer_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Kaese1_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Kaese2_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen
+- KatrinlegteinQuadrat_Aufgabe  →  Raum, Form_alle Aufgaben, Loesungen, Kommentierungen
+- Katzenfutter_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant     
+- kaumeinechance_Aufgabe  →  V8_2013_MA\irrelevant
+- Klasse1BUebtSchreiben_Aufgabe  →  Orthografie_alle Aufgaben, Loesungen, Kommentierungen\irrelevant   
+- Koerpergroeсezuordnen_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Komma_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen
+- kommassetzen_Aufgabe  →  V8_DEU_Orthografie_Gesamt\irrelevant
+- konzert_Aufgabe  →  V8_DEU_Sprachgebrauch_Gesamt\irrelevant
+- koordinatensystem_Aufgabe  →  V8_2013_MA\irrelevant
+- kostuemball_Aufgabe  →  V8_DEU_Sprachgebrauch_Gesamt\irrelevant
+- kraftfutter_Aufgabe  →  V8_2012_MA\irrelevant
+- kreisefaerben_Aufgabe  →  V8_2012_MA
+- kreiseundvierecke_Aufgabe  →  V8_2012_MA\irrelevant
+- kriminalistisches_Aufgabe  →  V8_DEU_Orthografie_Gesamt\irrelevant
+- kunstwoerter_Aufgabe  →  V8_DEU_Sprachgebrauch_Gesamt\irrelevant
+- Körper füllen  →  V8_2014_MA
+- Laengen_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Laengenvergleich_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen
+- lafilleperdue_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\auditive_tasks
+- Lage von zwei Geraden  →  V8_2014_MA\irrelevant
+- lagederwuerfel_Aufgabe  →  V8_2013_MA
+- lajoconde_Aufgabe  →  auditive_tasks\V8_2015_FRZ_Hoeren_Aufgaben\auditive_tasks
+- lamourdevacances_Aufgabe  →  V8_2013_FRZ_Lesen_Aufgaben
+- lanniversairedemartin_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\irrelevant
+- laphoto_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\irrelevant
+- largentdepoche_Aufgabe  →  V8_2012_FRZ_Lesen_Aufgaben\borderline
+- lavoisine_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\irrelevant
+- LeasTauben_Aufgabe  →  auditive_tasks\Zuhoeren_alle Aufgaben, Loesungen, Kommentierungen
+- lecode_Aufgabe  →  auditive_tasks\V8_2011_FRZ_Hoeren_Aufgaben\irrelevant
+- ledrapeaublanc_Aufgabe  →  V8_2015_FRZ_Lesen_Aufgaben\irrelevant
+- legendarme_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\irrelevant
+- Leistung des Motors  →  V8_2014_MA\irrelevant
+- LenjaUebtSchreiben_Aufgabe  →  Orthografie_alle Aufgaben, Loesungen, Kommentierungen\irrelevant      
+- lepiercing_Aufgabe  →  V8_2012_FRZ_Lesen_Aufgaben\borderline
+- lepiercingdemanon_Aufgabe  →  V8_2013_FRZ_Lesen_Aufgaben
+- lepontmarie_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\auditive_tasks
+- leposterdesanniversaires_Aufgabe  →  auditive_tasks\V8_2011_FRZ_Hoeren_Aufgaben\borderline
+- lerepondeu1_Aufgabe  →  auditive_tasks\V8_2011_FRZ_Hoeren_Aufgaben\irrelevant
+- lerepondeur_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\irrelevant
+- lesacados_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\auditive_tasks
+- lesacteursfrancais_Aufgabe  →  V8_2011_FRZ_Lesen_Aufgaben\irrelevant
+- lesdevoirs_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\borderline
+- lesfringuesetmoi_Aufgabe  →  V8_2014_FRZ_Lesen_Aufgaben
+- lesjeuxvideo_Aufgabe  →  auditive_tasks\V8_2014_FRZ_Hoeren_Aufgaben\irrelevant
+- lesloisirs_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\auditive_tasks
+- lesport_Aufgabe  →  auditive_tasks\V8_2011_FRZ_Hoeren_Aufgaben\irrelevant
+- LetterGranny_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben\irrelevant
+- letterheadteacher_Aufgabe  →  V8_2013_ENG_Lesen_Aufgaben\irrelevant
+- leurope_Aufgabe  →  auditive_tasks\V8_2011_FRZ_Hoeren_Aufgaben\irrelevant
+- levoyageaparis_Aufgabe  →  V8_2013_FRZ_Lesen_Aufgaben
+- levoyagedeclasse_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\irrelevant
+- lheure_Aufgabe  →  auditive_tasks\V8_2015_FRZ_Hoeren_Aufgaben\auditive_tasks
+- linearefunktionen_Aufgabe  →  V8_2012_MA\borderline
+- linearundproportional_Aufgabe  →  V8_2011_MA\irrelevant
+- LinienineinRechteckeinzeichnen_Aufgabe  →  Raum, Form_alle Aufgaben, Loesungen, Kommentierungen\borderline
+- literberechnungen_Aufgabe  →  V8_2011_MA\irrelevant
+- londonunderground_Aufgabe  →  V8_2013_ENG_Lesen_Aufgaben
+- Lucky_Aufgabe  →  Sprachgebrauch_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Lucky_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben\borderline
+- Lueckensaetze2_Aufgabe  →  Orthografie_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Lueckensaetze_Aufgabe  →  Orthografie_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- magasindemode_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\borderline
+- Mal5_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Masseinheiteneinsetzen_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- massstabsrechner_Aufgabe  →  V8_2012_MA\irrelevant
+- mathematikarbeit_Aufgabe  →  V8_2011_MA\irrelevant
+- Maсeinheiteneinsetzen_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- message_Aufgabe  →  auditive_tasks\V8_2011_ENG_Hoeren_Aufgaben\irrelevant
+- messagealaporte_Aufgabe  →  V8_2013_FRZ_Lesen_Aufgaben
+- messagecuisine_Aufgabe  →  V8_2012_FRZ_Lesen_Aufgaben\borderline
+- messageporte_Aufgabe  →  V8_2012_FRZ_Lesen_Aufgaben\borderline
+- Messzylinder  →  V8_2014_MA
+- meteo_Aufgabe  →  auditive_tasks\V8_2011_FRZ_Hoeren_Aufgaben\auditive_tasks
+- MiniSagas_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben\borderline
+- Missverstaendnisse_Aufgabe  →  Sprachgebrauch_alle Aufgaben, Loesungen, Kommentierungen\irrelevant   
+- mittezwischenzahlen_Aufgabe  →  V8_2011_MA\irrelevant
+- MobilePhoneOwnership_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben
+- monlycee_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\irrelevant
+- MuenzenBetrag_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen
+- Mueslizutaten_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant    
+- music_Aufgabe  →  auditive_tasks\V8_2009_ENG_Hoeren_Aufgaben\borderline
+- Musterfolge_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen
+- mybrother_Aufgabe  →  auditive_tasks\V8_2009_ENG_Hoeren_Aufgaben\auditive_tasks
+- myjob_Aufgabe  →  auditive_tasks\V8_2012_ENG_Hoeren_Aufgaben\irrelevant
+- nachdenkenuebersprache_Aufgabe  →  V8_DEU_Sprachgebrauch_Gesamt\irrelevant
+- nachfolgerzahl_Aufgabe  →  V8_2013_MA\irrelevant
+- Nagelbrett  →  V8_2014_MA\borderline
+- Naschkatze  →  V8_2014_MA
+- Naturkundemuseum_Aufgabe  →  Lesen_alle Aufgaben, Loesungen, Kommentierungen
+- Nebenjob  →  V8_2014_MA\irrelevant
+- negotiating_Aufgabe  →  auditive_tasks\V8_2011_ENG_Hoeren_Aufgaben\irrelevant
+- NorthwickPark_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben
+- Nussecken_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen
+- Ohrhänger  →  V8_2014_MA\irrelevant
+- onthetrain_Aufgabe  →  auditive_tasks\V8_2011_ENG_Hoeren_Aufgaben\irrelevant
+- osterhase_Aufgabe  →  V8_2013_MA\borderline
+- OurFavouriteRooms_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben
+- panneauresidence_Aufgabe  →  V8_2011_FRZ_Lesen_Aufgaben
+- Papier  →  V8_2014_MA\irrelevant
+- parallelogramme_Aufgabe  →  V8_2013_MA\irrelevant
+- parisenvelo_Aufgabe  →  auditive_tasks\V8_2011_FRZ_Hoeren_Aufgaben\irrelevant
+- parisstrasbourg_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\irrelevant
+- Parlamentswahl  →  V8_2014_MA\irrelevant
+- passendeschuhe_Aufgabe  →  V8_2013_MA
+- Perlen_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- plaettchenziehen_Aufgabe  →  V8_2013_MA\irrelevant
+- Pralinenschachtel_Aufgabe  →  Raum, Form_alle Aufgaben, Loesungen, Kommentierungen\borderline        
+- Preise1_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Preisezuordnen_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant   
+- programmedusejourdechange_Aufgabe  →  V8_2011_FRZ_Lesen_Aufgaben\irrelevant
+- protectionsolaire_Aufgabe  →  V8_2013_FRZ_Lesen_Aufgaben
+- punkteaufgeraden_Aufgabe  →  V8_2013_MA\irrelevant
+- punkteimkoordinatensystem_Aufgabe  →  V8_2011_MA
+- punktgenau_Aufgabe  →  V8_2013_MA
+- punktgesucht_Aufgabe  →  V8_2012_MA
+- Pyramidenbau  →  V8_2014_MA\borderline
+- quader_Aufgabe  →  V8_2012_MA
+- Quadernetz  →  V8_2014_MA
+- Quadernetz vervollständigen  →  V8_2014_MA\borderline
+- quadratdifferenz_Aufgabe  →  V8_2012_MA\irrelevant
+- Quadratmuster_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant    
+- quadratzeichnen_Aufgabe  →  V8_2013_MA\irrelevant
+- quatresms_Aufgabe  →  V8_2013_FRZ_Lesen_Aufgaben
+- quoifaire_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\irrelevant
+- rabattaktion_Aufgabe  →  V8_2012_MA
+- Radtour_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen 
+- rapstar_Aufgabe  →  V8_2019_ENG_Lesen_Aufgaben\irrelevant
+- Rauminhalt von Prismen  →  V8_2014_MA
+- Rechenmusterfortsetzen_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Rechenturm_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant       
+- rechenvorteil_Aufgabe  →  V8_2011_MA\irrelevant
+- Rechenzeichen_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant   
+- rechtschreibstrategien_Aufgabe  →  V8_DEU_Orthografie_Gesamt\borderline
+- redewendungenerklaerungen_Aufgabe  →  V8_DEU_Sprachgebrauch_Gesamt
+- regelmaessigevielecke_Aufgabe  →  V8_2011_MA\irrelevant
+- Reisszwecken_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant    
+- rendezvous_Aufgabe  →  V8_2013_FRZ_Lesen_Aufgaben
+- rentreralamaison_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\irrelevant
+- restaurantgewinnspiel_Aufgabe  →  V8_2011_MA\borderline
+- Richtig umgeformt  →  V8_2014_MA\irrelevant
+- RichtigFalsch2_Aufgabe  →  Orthografie_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- RichtigFalsch_Aufgabe  →  Orthografie_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Riesenhasen_Aufgabe  →  Sprachgebrauch_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- rollrasen_Aufgabe  →  V8_2011_MA\irrelevant
+- rolltreppe_Aufgabe  →  V8_2012_MA
+- Rueckgeld_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant       
+- Rundfunkgebühren  →  V8_2014_MA
+- SaetzeVerknuepfen_Aufgabe  →  Sprachgebrauch_alle Aufgaben, Loesungen, Kommentierungen\irrelevant    
+- saeulenhoehe_Aufgabe  →  V8_2013_MA
+- SamenBlumentopf_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen
+- satzglieder_Aufgabe  →  V8_DEU_Sprachgebrauch_Gesamt\borderline
+- Sauerkraut  →  V8_2014_MA\irrelevant
+- schachtelnpacken_Aufgabe  →  V8_2013_MA\borderline
+- Schatzsuche_Aufgabe  →  Schreiben_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- schluesselloch_Aufgabe  →  V8_DEU_Lesen_Gesamt\irrelevant
+- schneekristalle_Aufgabe  →  V8_2013_MA
+- schnittpunktvongraphen_Aufgabe  →  V8_2011_MA\irrelevant
+- Schokoladenbonbons  →  V8_2014_MA\irrelevant
+- schokoladenfiguren_Aufgabe  →  V8_2011_MA
+- schokoladenpreis_Aufgabe  →  V8_2013_MA
+- schoolproject_Aufgabe  →  auditive_tasks\V8_2012_ENG_Hoeren_Aufgaben\irrelevant
+- SchoolRules_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben
+- Schrankbreiten  →  V8_2014_MA
+- SchriftlicheAddition_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen       
+- schulgrundstueck_Aufgabe  →  V8_2012_MA
+- schulstatistik_Aufgabe  →  V8_2012_MA
+- Schwarz-Weiß-Würfel  →  V8_2014_MA\irrelevant
+- Schwimmbahnen_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant      
+- seidenstrasse_Aufgabe  →  V8_DEU_Lesen_Gesamt\borderline
+- seitenflaechen_Aufgabe  →  V8_2013_MA\irrelevant
+- SendungmitderMaus_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant  
+- shoppinglist_Aufgabe  →  auditive_tasks\V8_2011_ENG_Hoeren_Aufgaben\borderline
+- signsandplaces_Aufgabe  →  V8_2013_ENG_Lesen_Aufgaben
+- situations_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\borderline
+- Skateboardkaufen_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant   
+- sms_Aufgabe  →  V8_DEU_Sprachgebrauch_Gesamt
+- Sortieren_Aufgabe  →  Orthografie_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- souvenir_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\auditive_tasks
+- Spiegelachsen_Aufgabe  →  Raum, Form_alle Aufgaben, Loesungen, Kommentierungen
+- SpiegelbilderGeobrett_Aufgabe  →  Raum, Form_alle Aufgaben, Loesungen, Kommentierungen\irrelevant    
+- SpiegelungenGeobrett_Aufgabe  →  Raum, Form_alle Aufgaben, Loesungen, Kommentierungen\irrelevant     
+- Spielwuerfel_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- sprachabschneider_Aufgabe  →  V8_DEU_Sprachgebrauch_Gesamt\irrelevant
+- sprachlichemittel_Aufgabe  →  V8_DEU_Sprachgebrauch_Gesamt\borderline
+- stage_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\irrelevant
+- StellenwertPunkte_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Sterne und Sandkörner  →  V8_2014_MA\irrelevant
+- Sticker_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- strategienerkennen2_Aufgabe  →  V8_DEU_Orthografie_Gesamt\borderline
+- strategienerkennen_Aufgabe  →  V8_DEU_Orthografie_Gesamt
+- Strecke im Koordinatenkreuz  →  V8_2014_MA
+- Streichhoelzer_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen
+- suchediezahl_Aufgabe  →  V8_2013_MA\irrelevant
+- tabelle_Aufgabe  →  V8_2012_MA
+- television_Aufgabe  →  auditive_tasks\V8_2011_ENG_Hoeren_Aufgaben\irrelevant
+- Temperaturdifferenz  →  V8_2014_MA\irrelevant
+- temperaturen_Aufgabe  →  V8_2012_MA
+- texto_Aufgabe  →  V8_2013_FRZ_Lesen_Aufgaben\irrelevant
+- Theaterbesuch_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen
+- TheGreatWallOfChina_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben\irrelevant
+- thermometeranzeigen_Aufgabe  →  V8_2013_MA
+- Timetable_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben
+- TimsWuerfelgebaeude_Aufgabe  →  Raum, Form_alle Aufgaben, Loesungen, Kommentierungen
+- Tischproblem_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Tombola zum Schulfest  →  V8_2014_MA\irrelevant
+- tombombadil_Aufgabe  →  auditive_tasks\V8_DEU_Zuhoeren_Gesamt
+- travaux_Aufgabe  →  V8_2012_FRZ_Lesen_Aufgaben\borderline
+- treppenmasse_Aufgabe  →  V8_2013_MA\irrelevant
+- TrueStory_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben\borderline
+- tunnelbohrmaschine_Aufgabe  →  V8_2012_MA\irrelevant
+- TVJournal_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben\borderline
+- ueberschlagsrechnung_Aufgabe  →  V8_2013_MA\irrelevant
+- Uhrzeitenzuordnen_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen
+- Umfang und Fläche  →  V8_2014_MA
+- unappelchezlouise_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\irrelevant
+- unclubdesport_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\irrelevant
+- uneaffaire_Aufgabe  →  V8_2014_FRZ_Lesen_Aufgaben\irrelevant
+- unemaildechire_Aufgabe  →  V8_2013_FRZ_Lesen_Aufgaben
+- unfertigerwuerfel_Aufgabe  →  V8_2013_MA
+- unfestival_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\auditive_tasks
+- ungleichungerfuellen_Aufgabe  →  V8_2012_MA\irrelevant
+- unmetier_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\irrelevant
+- unregelmaessigesviereck_Aufgabe  →  V8_2012_MA\borderline
+- unsmsdesofia_Aufgabe  →  V8_2013_FRZ_Lesen_Aufgaben\irrelevant
+- Unterwegs_Aufgabe  →  Lesen_alle Aufgaben, Loesungen, Kommentierungen
+- vacances_Aufgabe  →  auditive_tasks\V8_2013_FRZ_Hoeren_Aufgaben\auditive_tasks
+- verkehrszeichen_Aufgabe  →  V8_2012_MA
+- Viele Brötchen  →  V8_2014_MA\borderline
+- Vierecke_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen
+- volumenverkleinerung_Aufgabe  →  V8_2012_MA\irrelevant
+- waage_Aufgabe  →  V8_2013_MA
+- wahrscheinlicher_Aufgabe  →  V8_2013_MA\irrelevant
+- Warning_Aufgabe  →  V8_2012_ENG_Lesen_Aufgaben
+- weekend_Aufgabe  →  auditive_tasks\V8_2012_FRZ_Hoeren_Aufgaben\auditive_tasks
+- Weitsprung_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- weitsprung_Aufgabe  →  V8_2011_MA
+- WelcheAufgabe_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\borderline    
+- Wettlauf_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- WieheisstdieZahl_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen
+- WieheiсtdieZahl_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen
+- Winkel Gamma  →  V8_2014_MA
+- Winkel im Dreieck  →  V8_2014_MA\irrelevant
+- winkelimparallelogramm_Aufgabe  →  V8_2011_MA\borderline
+- winkelmessen_Aufgabe  →  V8_2013_MA
+- woerterlegen_Aufgabe  →  V8_DEU_Sprachgebrauch_Gesamt
+- WoerterOrdnen_Aufgabe  →  Orthografie_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- WolfSchafspelz_Aufgabe  →  Lesen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- wuerfelbau_Aufgabe  →  V8_2012_MA
+- Wuerfelkippen_Aufgabe  →  Raum, Form_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- wuerfelkoerper_Aufgabe  →  V8_2012_MA
+- Wuerfelnetzeergaenzen_Aufgabe  →  Raum, Form_alle Aufgaben, Loesungen, Kommentierungen\irrelevant    
+- wuerfelnmitquader_Aufgabe  →  V8_2013_MA
+- wuerfelnmitzweiwuerfeln_Aufgabe  →  V8_2011_MA\irrelevant
+- Wuerfelquaderzerlegen_Aufgabe  →  Raum, Form_alle Aufgaben, Loesungen, Kommentierungen
+- Wuerstchenessen_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant 
+- wundersamerechenergebnisse_Aufgabe  →  V8_2011_MA\irrelevant
+- zaehlungvonfahrzeugen_Aufgabe  →  V8_2012_MA\irrelevant
+- Zahlabziehen_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant    
+- Zahlen addieren  →  V8_2014_MA\irrelevant
+- Zahlenfolge1_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant     
+- Zahlenfolgen2_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant    
+- Zahlenfolgeuntersuchen_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- zahlengesucht_Aufgabe  →  V8_2012_MA\irrelevant
+- Zahlenkarte_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen
+- Zahlenkartenziehen_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen
+- zahlenmauer_Aufgabe  →  V8_2012_MA
+- ZahlennachGroesseordnen_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- ZahlennachGroeсeordnen_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant
+- Zahlenpaare1_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant     
+- Zahlenpaare2_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen
+- Zahlenreihe_Aufgabe  →  Muster, Strukturen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant      
+- Zahlenstrahl1_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen
+- Zahlenstrahl2_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen
+- zahlensuche_Aufgabe  →  V8_2013_MA
+- zahlensumme_Aufgabe  →  V8_2012_MA\irrelevant
+- zahlenwuerfel_Aufgabe  →  V8_2013_MA\irrelevant
+- zahlgesucht_Aufgabe  →  V8_2012_MA\irrelevant
+- Zeit_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen
+- Zeitangaben_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant        
+- ZeitBrueten_Aufgabe  →  Groessen, Messen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant        
+- Zifferneinsetzen_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen
+- Zifferntausch_Aufgabe  →  Zahlen, Operationen_alle Aufgaben, Loesungen, Kommentierungen\irrelevant   
+- Zoo_Aufgabe  →  Daten, Haeufigkeit, Wahrscheinlichkeit_alle Aufgaben, Loesungen, Kommentierungen     
+- Zoobesuch  →  V8_2014_MA
+- zufallsversuche_Aufgabe  →  V8_2012_MA
+- zuschauerzahlen_Aufgabe  →  V8_2013_MA\irrelevant
+- Zwischen zwei Zahlen  →  V8_2014_MA\irrelevant
+- Überschlag doch mal  →  V8_2014_MA\irrelevant

@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "filename": "conteneuraverre_Aufgabe.pdf",
+    "title": "Conteneur à verre",
+    "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "En France, sur les conteneurs de recyclage, on peut trouver des autocollants comme celui-ci.",
+      "image": "conteneuraverre_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Dans quelle partie (n° 1 à 4) trouve-t-on les informations suivantes? – Ce qu’on fait avec le verre déposé.",
+          "answers": [
+            "A: n° 1",
+            "B: n° 2",
+            "C: n° 3",
+            "D: n° 4"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Ce qu'il faut faire avec les objets avant de les déposer.",
+          "answers": [
+            "A: n° 1",
+            "B: n° 2",
+            "C: n° 3",
+            "D: n° 4"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Ce qu'on peut mettre dans un conteneur à verre.",
+          "answers": [
+            "A: n° 1",
+            "B: n° 2",
+            "C: n° 3",
+            "D: n° 4"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Ce qu'on ne doit pas y mettre.",
+          "answers": [
+            "A: n° 1",
+            "B: n° 2",
+            "C: n° 3",
+            "D: n° 4"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

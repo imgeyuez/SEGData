@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "aussagenzurprop_Aufgabe.pdf",
+    "title": "Aussagen zur proportionalen Zuordnung",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Die Abbildung zeigt den Graphen einer proportionalen Zuordnung.",
+      "image": "aussagenzurprop_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "graph and pattern analysis",
+          "text": "Welcher der vier Punkte A, B, C und D gehört nicht zu diesem Graphen?",
+          "answers": [
+            "A: A (10|15)",
+            "B: B (30|20)",
+            "C: C (45|30)",
+            "D: D (60|40)"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

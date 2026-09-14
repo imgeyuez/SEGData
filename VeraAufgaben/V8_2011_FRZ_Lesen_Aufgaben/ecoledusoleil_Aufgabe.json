@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "ecoledusoleil_Aufgabe.pdf",
+        "title": "École du soleil",
+        "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de",
+        "class": "8"
+    },
+    "tasks": [
+        {
+            "id": "T1",
+            "description": "Il fait très chaud et vous décidez d’aller à la plage. Avant, vous allez à une pharmacie pour acheter de la crème solaire. Dans la vitrine, vous voyez l’affiche suivante avec 10 conseils. Quel conseil correspond à quelle « leçon de l’École du soleil » ? Écris le numéro dans la case de droite. Attention, il y a quatre phrases en trop.",
+            "image": "ecoledusoleil_Aufgabe.png",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Quel conseil correspond à : « Je dois remettre de la crème quand je sors de l’eau ! »",
+                    "answers": [
+                        "A: 1",
+                        "B: 2",
+                        "C: 3",
+                        "D: 4",
+                        "E: 5",
+                        "F: 6",
+                        "G: 7",
+                        "H: 8",
+                        "I: 9",
+                        "J: 10"
+                    ],
+                    "gold_answer": "J"
+                },
+                {
+                    "id": "Q2",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Quel conseil correspond à : « Je dois faire attention même quand le soleil se cache ! »",
+                    "answers": [
+                        "A: 1",
+                        "B: 2",
+                        "C: 3",
+                        "D: 4",
+                        "E: 5",
+                        "F: 6",
+                        "G: 7",
+                        "H: 8",
+                        "I: 9",
+                        "J: 10"
+                    ],
+                    "gold_answer": "E"
+                },
+                {
+                    "id": "Q3",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Quel conseil correspond à : « Je dois faire attention au début de mon bronzage ! »",
+                    "answers": [
+                        "A: 1",
+                        "B: 2",
+                        "C: 3",
+                        "D: 4",
+                        "E: 5",
+                        "F: 6",
+                        "G: 7",
+                        "H: 8",
+                        "I: 9",
+                        "J: 10"
+                    ],
+                    "gold_answer": "B"
+                },
+                {
+                    "id": "Q4",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Quel conseil correspond à : « Je dois appliquer assez de crème et en remettre, si je reste plusieurs heures au soleil ! »",
+                    "answers": [
+                        "A: 1",
+                        "B: 2",
+                        "C: 3",
+                        "D: 4",
+                        "E: 5",
+                        "F: 6",
+                        "G: 7",
+                        "H: 8",
+                        "I: 9",
+                        "J: 10"
+                    ],
+                    "gold_answer": "I"
+                },
+                {
+                    "id": "Q5",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Quel conseil correspond à : « Je dois me protéger du soleil ! »",
+                    "answers": [
+                        "A: 1",
+                        "B: 2",
+                        "C: 3",
+                        "D: 4",
+                        "E: 5",
+                        "F: 6",
+                        "G: 7",
+                        "H: 8",
+                        "I: 9",
+                        "J: 10"
+                    ],
+                    "gold_answer": "G"
+                },
+                {
+                    "id": "Q6",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Quel conseil correspond à : « Je ne dois pas me mettre au soleil en début d’après-midi ! »",
+                    "answers": [
+                        "A: 1",
+                        "B: 2",
+                        "C: 3",
+                        "D: 4",
+                        "E: 5",
+                        "F: 6",
+                        "G: 7",
+                        "H: 8",
+                        "I: 9",
+                        "J: 10"
+                    ],
+                    "gold_answer": "C"
+                }
+            ]
+        }
+    ]
+}

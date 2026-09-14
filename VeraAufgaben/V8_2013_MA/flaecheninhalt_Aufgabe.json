@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "flaecheninhalt_Aufgabe.pdf",
+    "title": "Flächeninhalt",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Abbgebildet ist eine Figur.",
+      "image": "flaecheninhalt_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Was ist der Flächeninhalt der Figur?",
+          "answers": [
+            "A: 15 cm²",
+            "B: 5 cm²",
+            "C: 15 cm",
+            "D: 3 cm²"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

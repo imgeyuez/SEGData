@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "filename": "regelmaessigevielecke_Aufgabe.pdf",
+    "title": "Regelmäßige Vielecke",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY) – https://creativecommons.org/licenses/by/3.0/de/legalcode"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Zu sehen ist ein gleichseitiges Dreieck.",
+      "image": "",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Zeichne in dem gegebenen gleichseitigen Dreieck alle Symmetrieachsen ein.",
+          "answers": [],
+          "gold_answer": ""
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "description": "Zu sehen ist ein Quadrat.",
+      "image": "",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Zeichne in dem gegebenen Quadrat alle Symmetrieachsen ein.",
+          "answers": [],
+          "gold_answer": ""
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "description": "Bestimme die Anzahl an Symmetrieachsen der genannten Figuren. Zur Erinnerung: Bei einem regelmäßigen Vieleck (Dreieck, Viereck, Fünfeck, Sechseck) sind alle Seiten gleich lang und die Ecken liegen auf einem gemeinsamen Kreis. Trage jeweils die Anzahl der Symmetrieachsen ein.",
+      "image": "",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Wie viele Symmetrieachsen haben die in der Tabelle aufgeführten regelmäßigen Vielecke?",
+          "answers": [],
+          "gold_answer": "5 UND 6 UND 27"
+        }
+      ]
+    }
+  ]
+}

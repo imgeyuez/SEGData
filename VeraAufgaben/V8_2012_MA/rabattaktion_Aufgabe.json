@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "rabattaktion_Aufgabe.pdf",
+    "title": "Rabattaktion",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Eine Firma plant eine Rabattaktion. Dabei sollen die Verkaufspreise (in denen 19 % Mehrwertsteuer enthalten ist) so gesenkt werden, dass die Kunden die Mehrwertsteuer von 19 % praktisch nicht bezahleen müssen.",
+      "image": "rabattaktion_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Welches Schild passt am besten zu dieser Rabattaktion?",
+          "answers": [
+            "A: Schild 1",
+            "B: Schild 2",
+            "C: Schild 3",
+            "D: Schild 4"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

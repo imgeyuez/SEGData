@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "KatrinlegteinQuadrat_Aufgabe.pdf",
+    "title": "Katrin legt ein Quadrat",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Katrin legt Figuren mit solchen Dreiecken.",
+      "image": "KatrinlegteinQuadrat_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Was ist die mindest Anzahl an Dreiecken, die benötigt wird, um ein Quadrat zu legen?",
+          "answers": [
+            "A: Für ein Quadrat braucht sie mindestens 5 Dreiecke",
+            "B: Für ein Quadrat braucht sie mindestens 1 Dreieck",
+            "C: Für ein Quadrat braucht sie mindestens 2 Dreiecke",
+            "D: Für ein Quadrat braucht sie mindestens 4 Dreiecke"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "filename": "Warning_Aufgabe.pdf",
+        "title": "Warning",
+        "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de; http://www.littlemead.bristol.sch.uk/pupils/images/cartoon_school.gif (17.05.2010)",
+        "class": "k.A."
+    },
+    "tasks": [
+        {
+            "id": "T1",
+            "description": "Look at the cartoon and read its text.",
+            "image": "Warning_Aufgabe.png",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "What does the cartoonist warn people about?",
+                    "answers": [
+                        "A: The cartoonist warns people about making expensive Internet calls",
+                        "B: The cartoonist warns people about chatting with unknown people",
+                        "C: The cartoonist warns people about looking for new friends online",
+                        "D: The cartoonist warns people about putting private data on the Internet"
+                    ],
+                    "gold_answer": "D"
+                }
+            ]
+        }
+    ]
+}

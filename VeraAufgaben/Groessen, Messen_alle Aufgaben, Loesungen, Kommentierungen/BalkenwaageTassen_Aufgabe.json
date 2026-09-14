@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "BalkenwaageTassen_Aufgabe.pdf",
+    "title": "Balkenwaage Tassen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Die Waage befindet sich im Gleichgewicht. Marius nimmt eine Tasse von der Waage.",
+      "image": "BalkenwaageTassen_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Wie viele Würfel muss er wegnehmen, damit die Waage wieder im Gleichgewicht ist?",
+          "answers": [
+            "A: Er muss 4 Würfel wegnehmen",
+            "B: Er muss 5 Würfel wegnehmen",
+            "C: Er muss 2 Würfel wegnehmen",
+            "D: Er muss 3 Würfel wegnehmen"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

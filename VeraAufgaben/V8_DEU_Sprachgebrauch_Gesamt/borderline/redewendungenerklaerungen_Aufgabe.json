@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "filename": "redewendungenerklaerungen_Aufgabe.pdf",
+    "title": "Redewendungen – Erklärungen",
+    "source": "IQB e. V., Lizenz: CC BY 4.0"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Ordne den folgenden Redewendungen eine der angegebenen Erklärungen zu, indem du die Buchstaben für die Erklärungen (A-G) wählst. Die erste Redewendung dient als Beispiel. Hinweis: Eine Erklärung lässt sich nicht zuordnen.",
+      "image": null,
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Ordne der Redewendung 'etwas übers Knie brechen' die passende Erklärung (A–G) zu.",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "gold_answer": 3
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Ordne der Redewendung 'mit jemandem ein Hühnchen zu rupfen haben' die passende Erklärung (A–G) zu.",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "gold_answer": 1
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Ordne der Redewendung 'durch die rosarote Brille sehen' die passende Erklärung (A–G) zu.",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "gold_answer": 6
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Ordne der Redewendung 'einen Zahn zulegen' die passende Erklärung (A–G) zu.",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "gold_answer": 0
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Ordne der Redewendung 'Tomaten auf den Augen' die passende Erklärung (A–G) zu.",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "gold_answer": 2
+        }
+      ]
+    }
+  ]
+}

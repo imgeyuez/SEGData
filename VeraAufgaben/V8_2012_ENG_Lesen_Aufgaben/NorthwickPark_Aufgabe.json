@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "filename": "NorthwickPark_Aufgabe.pdf",
+        "title": "Northwick Park",
+        "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de; http://www.londonleben.co.uk/.a/6a00d8341c7d2053ef010536c37cee970b-pi (18.03.2010)",
+        "class": "k.A."
+    },
+    "tasks": [
+        {
+            "id": "T1",
+            "description": "Read the sign from a golf club.",
+            "image": "NorthwickPark_Aufgabe.png",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "What does the sign say?",
+                    "answers": [
+                        "A: The sign says that there is a footpath around the golf course.",
+                        "B: The sign says that you are not allowed to walk in this area.",
+                        "C: The sign says that there is a less dangerous footpath.",
+                        "D: The sign says that you are not allowed to cross the golf course."
+                    ],
+                    "gold_answer": "C"
+                }
+            ]
+        }
+    ]
+}

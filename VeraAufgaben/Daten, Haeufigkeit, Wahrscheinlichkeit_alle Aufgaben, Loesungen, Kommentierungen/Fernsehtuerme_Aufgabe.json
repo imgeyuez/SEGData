@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "filename": "Fernsehtuerme_Aufgabe.pdf",
+    "title": "Fernsehtürme",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Abgebildet sind die Höhen von Fernmelde- und Fernsehtürmen. Der Fernsehturm in Dresden ist 250 m hoch und der in Kaiserslautern in etwa so hoch wie der in Schwerin. Beantworte die Fragen dazu.",
+      "image": "Fernsehtuerme_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Welche der Fernsehtüme sind größer als 200 m und kleiner als 250 m? ",
+          "answers": [
+            "A: Stuttgart und München",
+            "B: Berlin und Hannover",
+            "C: Dortmund und Berlin",
+            "D: Dortmund und Stuttgart"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "graph and pattern analysis",
+          "text": "Stimmt es, dass der Fernsehturm in Berlin höher ist als 250 m und niedriger als 350 m?",
+          "answers": [
+            "A: stimmt",
+            "B: stimmt nicht"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "graph and pattern analysis",
+          "text": "Stimmt es, dass der Fernsehturm in Dortmund höher ist als 250 m und niedriger als 350 m?",
+          "answers": [
+            "A: stimmt",
+            "B: stimmt nicht"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "graph and pattern analysis",
+          "text": "Stimmt es, dass der Fernsehturm in Hannover höher ist als 250 m und niedriger als 350 m?",
+          "answers": [
+            "A: stimmt",
+            "B: stimmt nicht"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": false,
+          "question_type": "graph and pattern analysis",
+          "text": "Stimmt es, dass der Fernsehturm in München höher ist als 250 m und niedriger als 350 m?",
+          "answers": [
+            "A: stimmt",
+            "B: stimmt nicht"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

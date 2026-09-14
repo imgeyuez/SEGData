@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "filename": "satzglieder_Aufgabe.pdf",
+    "title": "Über Sätze nachdenken II",
+    "source": ""
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Gegeben sind Sätze und Satzgliedbezeichnungen. Ordne zu jedem unterstrichenen Ausdruck die korrekte Bezeichnung zu. Drei Buchstaben bleiben übrig.",
+      "image": null,
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Wie heißt der unterstrichene Ausdruck: 'Weil er seine Bewerbungsunterlagen nicht rechtzeitig abgegeben hatte'?",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Wie heißt der unterstrichene Ausdruck: 'wenn die Unterlagen vollständig sind'?",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Wie heißt der unterstrichene Ausdruck: 'ein Teil der Bewerbungsunterlagen'?",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

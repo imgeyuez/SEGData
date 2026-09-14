@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "filename": "Geobrettfigurauslegen_Aufgabe.pdf",
+    "title": "Geobrettfigur auslegen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Lege eine Figur mit Dreiecken und Quadraten der bestimmten Größe aus.",
+      "image": "Geobrettfigurauslegen_Aufgabe_merged1.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche der Angaben ist falsch?",
+          "answers": [
+            "A: 3 Dreiecke und 4 Quadrate",
+            "B: 2 Dreiecke und 4 Quadrate",
+            "C: 10 Dreiecke und 0 Quadrate",
+            "D: 6 Dreiecke und 2 Quadrate"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "description": "Lege eine Figur mit Dreiecken und Quadraten der bestimmten Größe aus.",
+      "image": "Geobrettfigurauslegen_Aufgabe_merged2.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche der Angaben ist falsch?",
+          "answers": [
+            "A: 3 Dreiecke und 4 Quadrate",
+            "B: 9 Dreiecke und 1 Quadrate",
+            "C: 5 Dreiecke und 3 Quadrate",
+            "D: 3 Dreiecke und 2 Quadrate"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "description": "Lege eine Figur mit Dreiecken und Quadraten der bestimmten Größe aus.",
+      "image": "Geobrettfigurauslegen_Aufgabe_merged3.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche der Angaben ist falsch?",
+          "answers": [
+            "A: 10 Dreiecke und 0 Quadrate",
+            "B: 6 Dreiecke und 2 Quadrate",
+            "C: 4 Dreiecke und 2 Quadrate",
+            "D: 4 Dreiecke und 3 Quadrate"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

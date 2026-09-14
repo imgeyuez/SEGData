@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "filename": "Zeit_Aufgabe.pdf",
+    "title": "Zeit",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Mario und Timo laufen eine Runde um den Sportplatz.",
+      "image": "Zeit_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Wer ist schneller?",
+          "answers": [
+            "A: Mario",
+            "B: Timo"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Wie viele Sekunden ist Mario schneller?",
+          "answers": [
+            "A: 20 Sekunden",
+            "B: 40 Sekunden",
+            "C: 14 Sekunden",
+            "D: 16 Sekunden"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

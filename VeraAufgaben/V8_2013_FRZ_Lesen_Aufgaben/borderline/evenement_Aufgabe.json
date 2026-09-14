@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "filename": "evenement_Aufgabe.pdf",
+    "title": "Événement",
+    "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de; Texte: © bien public"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Tu lis cet article dans DNA, le journal hebdomadaire sur l’Alsace. Lis le document. Mets une croix à la bonne réponse.",
+      "image": "evenement_Aufgabe.eps",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Quel est le titre qui résume le mieux cet article ?",
+          "answers": [
+            "A: Le championnat des écoles franco-allemandes",
+            "B: Un projet sportif pour la solidarité",
+            "C: Une grande pièce de théâtre",
+            "D: Solidarité avec les écoles"
+          ],
+          "gold_answer": 1
+        }
+      ]
+    }
+  ]
+}

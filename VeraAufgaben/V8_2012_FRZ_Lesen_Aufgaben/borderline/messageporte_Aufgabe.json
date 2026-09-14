@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "filename": "messageporte_Aufgabe.pdf",
+    "title": "Message porte",
+    "source": "IQB – Institut zur Qualitätsentwicklung im Bildungswesen"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Tu es chez ta correspondante Anne en France. Tu arrives à sa maison et tu trouves ce message.",
+      "image": "",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Qù est ta correspondante ?",
+          "answers": [],
+          "gold_answer": "Margot ODER au n° 16 ODER notre rue ODER juste 50m ODER en face de l'épicerie "
+        },
+        {
+          "id": "Q2",
+          "text": "Qu'est-ce qu'elle fait ?",
+          "answers": [],
+          "gold_answer": "Elle passe ODER donne les devoirs (à Margot) ODER Pour donner ODER passer les devoirs "
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "description": "Regarde le dessin.",
+      "image": "",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Tu vas où ?",
+          "answers": [
+            "A : à la maison A",
+            "B : à la maison B",
+            "C : à la maison C"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "filename": "strategienerkennen_Aufgabe.pdf",
+    "title": "Strategien erkennen",
+    "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Ina ist sich bei einigen Schreibungen in ihren Sätzen nicht sicher. Hilf ihr, indem du ihr sagst, mit welcher Strategie sie die richtige Schreibung herausfindet – oder ob sie die Schreibung auswendig lernen muss.",
+      "image": "strategienerkennen_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche der möglichen Strategien führt zur korrekten Schreibung von 1.?",
+          "answers": [
+            "A: Suche den Stamm des Wortes, von dem du die richtige Schreibung ableiten kannst.",
+            "B: Verlängere das Wort.",
+            "C: Lerne die Schreibung von diesem Wort auswendig.",
+            "D: Zerlege zuerst das Wort und verlängere es dann."
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche der möglichen Strategien führt zur korrekten Schreibung von 2.?",
+          "answers": [
+            "A: Suche den Stamm des Wortes, von dem du die richtige Schreibung ableiten kannst.",
+            "B: Verlängere das Wort.",
+            "C: Lerne die Schreibung von diesem Wort auswendig.",
+            "D: Zerlege zuerst das Wort und verlängere es dann."
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche der möglichen Strategien führt zur korrekten Schreibung von 1.?",
+          "answers": [
+            "A: Suche den Stamm des Wortes, von dem du die richtige Schreibung ableiten kannst.",
+            "B: Verlängere das Wort.",
+            "C: Lerne die Schreibung von diesem Wort auswendig.",
+            "D: Zerlege zuerst das Wort und verlängere es dann."
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche der möglichen Strategien führt zur korrekten Schreibung von 1.?",
+          "answers": [
+            "A: Suche den Stamm des Wortes, von dem du die richtige Schreibung ableiten kannst.",
+            "B: Verlängere das Wort.",
+            "C: Lerne die Schreibung von diesem Wort auswendig.",
+            "D: Zerlege zuerst das Wort und verlängere es dann."
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

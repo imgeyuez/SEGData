@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "filename": "Zahlenkartenziehen_Aufgabe.pdf",
+    "title": "Zahlenkarten ziehen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Theo nimmt zwei Karten und legt damit eine zweistellige Zahl. Gib an, ob die folgenden Aussagen unmöglich, möglich aber nicht sicher oder sicher sind.",
+      "image": "Zahlenkartenziehen_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Die Zahl ist größer als 11 und kleiner als 44.",
+          "answers": [
+            "A: sicher",
+            "B: möglich, aber nicht sicher",
+            "C: unmöglich"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Die Zahl kann man ohne Rest durch 10 teilen.",
+          "answers": [
+            "A: sicher",
+            "B: möglich, aber nicht sicher",
+            "C: unmöglich"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Die Zahl ist größer als 14.",
+          "answers": [
+            "A: sicher",
+            "B: möglich, aber nicht sicher",
+            "C: unmöglich"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Die Ziffern der Zahl sind gleich.",
+          "answers": [
+            "A: sicher",
+            "B: möglich, aber nicht sicher",
+            "C: unmöglich"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

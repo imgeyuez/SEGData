@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "SchriftlicheAddition_Aufgabe.pdf",
+    "title": "Schriftliche Addition",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "In der Abbildung ist ein schriftliche Addition abgebildet.",
+      "image": "SchriftlicheAddition_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Welche der folgenden Zahlen muss als fehlende Zahl eingesetzt werden?",
+          "answers": [
+            "A: 358",
+            "B: 35",
+            "C: 247",
+            "D: 335"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

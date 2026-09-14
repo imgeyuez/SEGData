@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "filename": "Quadratmuster_Aufgabe.pdf",
+    "title": "Quadratmuster",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY) – https://creativecommons.org/licenses/by/3.0/de/legalcode"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Hier siehst du ein Muster aus Quadraten.",
+      "image": "Quadratmuster_Aufgabe.eps",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Zeichne die beiden fehlenden Figuren und beschreibe, wie groß sie sind.",
+          "answers": [],
+          "gold_answer": "1 x 1 Kästchen goß UND 3 x 3 Kästchen groß"
+        }
+      ]
+    }
+  ]
+}

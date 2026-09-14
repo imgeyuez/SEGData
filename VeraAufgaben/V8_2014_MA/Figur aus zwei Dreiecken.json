@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "filename": "Figur aus zwei Dreiecken.pdf",
+    "title": "Figur aus zwei Dreiecken",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/4.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Gegeben ist eine Figur aus zwei Dreiecken. Kreuze an, ob die Aussagen und deren Begründungen richtig oder falsch sind.",
+      "image": "Figur aus zwei Dreiecken.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Die beiden Winkel α und δ sind gleich groß, denn die beiden Dreiecke sind kongruent.",
+          "answers": [
+            "A: richtig",
+            "B: falsch"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Die beiden Winkel α und δ sind gleich groß, denn β und γ sind Scheitelwinkel und daher gleich groß. Außerdem ist α + β = 90° und es ist γ + δ = 90°. Also ist α = 90° − β = 90° − γ = δ.",
+          "answers": [
+            "A: richtig",
+            "B: falsch"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Die beiden Winkel α und δ sind nicht gleich groß, denn in einem kleineren Dreieck ist auch der entsprechende Winkel kleiner.",
+          "answers": [
+            "A: richtig",
+            "B: falsch"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Die beiden Winkel α und δ sind gleich groß, denn beide Winkel haben einen Schenkel gemeinsam und ihre beiden anderen Schenkel verlaufen parallel zueinander. α und δ sind also Wechselwinkel an parallelen Geraden.",
+          "answers": [
+            "A: richtig",
+            "B: falsch"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Die beiden Winkel α und δ sind nicht gleich groß, denn in einem kleineren Dreieck ist auch der entsprechende Winkel kleiner.",
+          "answers": [
+            "A: richtig",
+            "B: falsch"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

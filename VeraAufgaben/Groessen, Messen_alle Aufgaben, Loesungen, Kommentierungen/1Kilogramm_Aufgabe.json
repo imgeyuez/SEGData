@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "filename": "1Kilogramm_Aufgabe.pdf",
+    "title": "1 Kilogramm",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Du brauchst jeweils 1 Kilogramm.",
+      "image": "1Kilogramm_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Wie viele Packungen Mehl musst du kaufen?",
+          "answers": [
+            "A: 3",
+            "B: 1",
+            "C: 4",
+            "D: 2"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Wie viele Packungen Nudeln musst du kaufen?",
+          "answers": [
+            "A: 4",
+            "B: 3",
+            "C: 2",
+            "D: 1"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Wie viele Packungen Butter musst du kaufen?",
+          "answers": [
+            "A: 1",
+            "B: 4",
+            "C: 2",
+            "D: 5"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Wie viele Packungen Schokolade musst du kaufen?",
+          "answers": [
+            "A: 5",
+            "B: 8",
+            "C: 10",
+            "D: 12"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

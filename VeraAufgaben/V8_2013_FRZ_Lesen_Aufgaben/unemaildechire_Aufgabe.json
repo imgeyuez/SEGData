@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "unemaildechire_Aufgabe.pdf",
+        "title": "Un e-mail déchiré",
+        "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de",
+        "class": "8"
+    },
+    "tasks": [
+        {
+            "id": "T1",
+            "description": "Malheureusement, Lola a déchiré une feuille sur son bureau : un e-mail de Laure. Lis les textes et les titres. Puis mets les textes dans le bon odre. Attention, il y a un texte de trop. Le troisième texte est C.",
+            "image": "unemaildechire_Aufgabe.png",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Quel texte vient en premier ?",
+                    "answers": [
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E",
+                        "F"
+                    ],
+                    "gold_answer": "F"
+                },
+                {
+                    "id": "Q2",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Quel texte vient en deuxième position ?",
+                    "answers": [
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E",
+                        "F"
+                    ],
+                    "gold_answer": "A"
+                },
+                {
+                    "id": "Q3",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Quel texte vient en quatrième position ?",
+                    "answers": [
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E",
+                        "F"
+                    ],
+                    "gold_answer": "E"
+                },
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Quel texte vient en cinquième position ?",
+                    "answers": [
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E",
+                        "F"
+                    ],
+                    "gold_answer": "D"
+                }
+            ]
+        }
+    ]
+}

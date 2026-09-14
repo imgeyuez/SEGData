@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "filename": "MobilePhoneOwnership_Aufgabe.pdf",
+        "title": "Mobile Phone Ownership",
+        "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de; Chart: © Lenhart, A. Teens and Mobile Phones Over the Past Five Years: Pew Internet Looks Back. Pew Internet & American Life Project, Aug 2009. http://www.pewinternet.org/~/media//Files/Reports/2009/PIP%20Teens%20and%20Mobile%20Phones%20Data%20Memo.pdf",
+        "class": "k.A."
+    },
+    "tasks": [
+        {
+            "id": "T1",
+            "description": "Look at the chart and read the text. Then complete the text using numbers from the chart. Write % in your answers when needed. There is an example at the beginning (0).",
+            "image": "MobilePhoneOwnership_Aufgabe.png",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": true,
+                    "question_type": "text and diagram understanding",
+                    "text": "What should be inserted in (1)?",
+                    "answers": [
+                        "A: 53",
+                        "B: 51",
+                        "C: 50",
+                        "D: 51 %"
+                    ],
+                    "gold_answer": "D"
+                },
+                {
+                    "id": "Q2",
+                    "added_multiplechoice": true,
+                    "question_type": "text and diagram understanding",
+                    "text": "What should be inserted in (2)?",
+                    "answers": [
+                        "A: 72",
+                        "B: 72 %",
+                        "C: 79",
+                        "D: 84 %"
+                    ],
+                    "gold_answer": "B"
+                },
+                {
+                    "id": "Q3",
+                    "added_multiplechoice": true,
+                    "question_type": "text and diagram understanding",
+                    "text": "What should be inserted in (3)?",
+                    "answers": [
+                        "A: 16 %",
+                        "B: 15",
+                        "C: 16",
+                        "D: 17"
+                    ],
+                    "gold_answer": "C"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "filename": "Geburtstage_Aufgabe.pdf",
+    "title": "Geburtstage",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Das Diagramm zeigt die Geburtstage der Klasse 3a. Beantworte die Fragen dazu.",
+      "image": "Geburtstage_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "graph and pattern analysis",
+          "text": "Wie viele Kinder haben im April Geburtstag?",
+          "answers": [
+            "A: 0",
+            "B: 1",
+            "C: 2",
+            "D: 3",
+            "E: 4",
+            "F: 5"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "graph and pattern analysis",
+          "text": "In welchem Monat haben die meisten Kinder Geburtstag?",
+          "answers": [
+            "A: Januar",
+            "B: Februar",
+            "C: März",
+            "D: April",
+            "E: Mai",
+            "F: Juni",
+            "G: Juli",
+            "H: August",
+            "I: September",
+            "J: Oktober",
+            "K: November",
+            "L: Dezember"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "graph and pattern analysis",
+          "text": "Im selben Monat wie Susi haben drei weitere Kinder Geburtstag. Wann hat Susi Geburtstag?",
+          "answers": [
+            "A: Januar",
+            "B: Februar",
+            "C: März",
+            "D: April",
+            "E: Mai",
+            "F: Juni",
+            "G: Juli",
+            "H: August",
+            "I: September",
+            "J: Oktober",
+            "K: November",
+            "L: Dezember"
+          ],
+          "gold_answer": "L"
+        }
+      ]
+    }
+  ]
+}

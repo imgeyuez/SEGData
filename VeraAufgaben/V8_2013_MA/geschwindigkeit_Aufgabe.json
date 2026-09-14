@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "geschwindigkeit_Aufgabe.pdf",
+    "title": "Geschwindigkeitsüberschreitung",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Für Geschwindigkeitsüberschreitungen (d. h. für zu schnelles Fahren) innerhalb von Ortschaften gelten neue Bußgelder.",
+      "image": "geschwindigkeit_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Jemand fährt in der Innenstadt mit einer Geschwindigkeit von 58 km/h, obwohl dort nur 30 km/h erlaubt sind. Mit welchem Bußgeld ist jetzt zu rechnen?",
+          "answers": [
+            "A: 60 €",
+            "B: 100 €",
+            "C: 175 €",
+            "D: 280 €"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

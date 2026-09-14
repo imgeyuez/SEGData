@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "filename": "DreieckeundViereckeankreuzen_Aufgabe.pdf",
+    "title": "Dreiecke und Vierecke ankreuzen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Bestimme die Formen.",
+      "image": "DreieckeundViereckeankreuzen_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche Form hat die abgebildete Figur A?.",
+          "answers": [
+            "A: Fünfeck",
+            "B: Dreieck",
+            "C: Viereck",
+            "D: Kreis"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche Form hat die abgebildete Figur B?",
+          "answers": [
+            "A: Fünfeck",
+            "B: Dreieck",
+            "C: Viereck",
+            "D: Kreis"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche Form hat die abgebildete Figur C?",
+          "answers": [
+            "A: Fünfeck",
+            "B: Dreieck",
+            "C: Viereck",
+            "D: Kreis"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche Form hat die abgebildete Figur D?",
+          "answers": [
+            "A: Fünfeck",
+            "B: Dreieck",
+            "C: Viereck",
+            "D: Kreis"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche Form hat die abgebildete Figur E?",
+          "answers": [
+            "A: Fünfeck",
+            "B: Dreieck",
+            "C: Viereck",
+            "D: Kreis"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q6",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche Form hat die abgebildete Figur F?",
+          "answers": [
+            "A: Fünfeck",
+            "B: Dreieck",
+            "C: Viereck",
+            "D: Kreis"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q7",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche Form hat die abgebildete Figur G?",
+          "answers": [
+            "A: Fünfeck",
+            "B: Dreieck",
+            "C: Viereck",
+            "D: Kreis"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q8",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche Form hat die abgebildete Figur H?",
+          "answers": [
+            "A: Fünfeck",
+            "B: Dreieck",
+            "C: Viereck",
+            "D: Kreis"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q9",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche Form hat die abgebildete Figur I?",
+          "answers": [
+            "A: Fünfeck",
+            "B: Dreieck",
+            "C: Viereck",
+            "D: Kreis"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

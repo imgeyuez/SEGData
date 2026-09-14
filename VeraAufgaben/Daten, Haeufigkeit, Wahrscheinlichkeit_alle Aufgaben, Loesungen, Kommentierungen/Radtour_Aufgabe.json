@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "filename": "Radtour_Aufgabe.pdf",
+    "title": "Radtour",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Marie plant mit ihren Eltern eine Fahrradtour an der Donau für 4 Tage. Sie wollen in Neu-Ulm starten und bis Neuburg fahren. Auf einer Karte kennzeichnet Marie mit Stecknadeln die Orte, an denen sie übernachten werden. Vervollständige die Tabelle.",
+      "image": "Radtour_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche der folgenden Angaben sind richtig für den 2. Tag?",
+          "answers": [
+            "A: von Günzburg nach Dillingen, 28 km",
+            "B: von Günzburg nach Lauingen, 28 km",
+            "C: von Günzburg nach Lauingen, 30 km",
+            "D: von Gundelfingen nach Dillingen, 28 km"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche der folgenden Angaben sind richtig für den 3. Tag?",
+          "answers": [
+            "A: von Dillingen nach Donauwörth, 28 km",
+            "B: von Lauingen nach Lech, 28 km",
+            "C: von Dillingen nach Donauwörth, 36 km",
+            "D: von Lauingen nach Donauwörth, 36 km"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche der folgenden Angaben sind richtig für den 4. Tag?",
+          "answers": [
+            "A: von Höchstädt nach Lech, 36 km",
+            "B: von Höchstädt nach Neuburg, 36 km",
+            "C: von Donauwörth nach Neuburg, 34 km",
+            "D: von Donauwörth nach Lech, 36 km"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

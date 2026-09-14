@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "filename": "espagne_Aufgabe.pdf",
+    "title": "Espagne",
+    "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Lis le texte et choisis la bonne réponse.",
+      "image": "espagne_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Elle est arrivée à Madrid il y a ...",
+          "answers": [
+            "A: trois jours.",
+            "B: sept jours.",
+            "C: 15 jours."
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Anissa va à la piscine ...",
+          "answers": [
+            "A: tous les jours.",
+            "B: tous les soirs.",
+            "C: tous les week-ends."
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Pendant les vacances, elle a des cours ...",
+          "answers": [
+            "A: de langue.",
+            "B: de tennis.",
+            "C: de théâtre."
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Anissa ... à Madrid.",
+          "answers": [
+            "A: a des copains",
+            "B: est toujours seule",
+            "C: cherche des copains"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

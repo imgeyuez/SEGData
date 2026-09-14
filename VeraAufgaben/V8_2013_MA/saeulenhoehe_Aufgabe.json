@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "saeulenhoehe_Aufgabe.pdf",
+    "title": "Säulenhöhe",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Das Diagramm zeigt Säulen mit unterschiedlichen Höhen.",
+      "image": "saeulenhoehe_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Gib die durchschnittliche Höhe dieser drei Säulen an.",
+          "answers": [
+            "A: Die durchschnittliche Höhe beträgt 6 cm.",
+            "B: Die durchschnittliche Höhe beträgt 4 cm.",
+            "C: Die durchschnittliche Höhe beträgt 8 cm.",
+            "D: Die durchschnittliche Höhe beträgt 9 cm."
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Eine weitere Säule wird in das Diagramm eingezeichnet. Die durchschnittliche Höhe der vier Säulen beträgt nun 7 cm. Wie hoch ist die vierte Säule?",
+          "answers": [
+            "A: Die vierte Säule ist 7 cm hoch.",
+            "B: Die vierte Säule ist 10 cm hoch.",
+            "C: Die vierte Säule ist 13 cm hoch.",
+            "D: Die vierte Säule ist 1 cm hoch."
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

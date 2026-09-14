@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "filename": "zufallsversuche_Aufgabe.pdf",
+    "title": "Zufallsversuche",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Mit einem 12-seitigen Spielwürfel werden Zufallsversuche durchgeführt. Die Seiten dieses Würfels sind mit den Zahlen 1 bis 12 beschriftet. In der Tabelle sind unterschiedliche Ereignisse aufgelistet.",
+      "image": null,
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "'Die Augenzahl ist kleiner als 5.' Welche Zahlen können bei dem Würfel bei dem folgenden Ereignis oben liegen?",
+          "answers": [
+            "A: 3, 4, 5, 6",
+            "B: 1, 2, 3, 4",
+            "C: 12, 4, 8, 1",
+            "D: 1, 2, 4, 7"
+          ],
+          "gold_answer": 1
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "'Die Augenzahl ist zweistellig und ungerade.' Welche Zahlen können bei dem Würfel bei dem folgenden Ereignis oben liegen?",
+          "answers": [
+            "A: 3",
+            "B: 11",
+            "C: 10",
+            "D: 12"
+          ],
+          "gold_answer": 1
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Ein anderes Ereignis bei diesem Würfel soll genau drei Ergebnisse (Ausgänge) haben. Welche der Folgenden Optionen ist falsch?",
+          "answers": [
+            "A: Die Augenzahl ist größer als 8.",
+            "B: Die Augenzahl ist kleiner als 4.",
+            "C: Die Augenzahl ist durch 4 teilbar.",
+            "D: Die Augenzahl ist zweistellig."
+          ],
+          "gold_answer": 0
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "description": "Beim Spielen mit zwei 6-seitigen Würfeln werden oft beide Augenzahlen addiert. Die Tabelle zeigt alle möglichen Augensummen. Die 7 ist die am häufigsten vorkommende Summe. Beim Spielen mit zwei 12-seitigen Würfeln werden ebenfalls beide Augenzahlen addiert.",
+      "image": null,
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Gib an, welche Augensumme dabei am häufigsten ist.",
+          "answers": [
+            "A: 13", 
+            "B: 24",
+            "C: 14",
+            "D: 12"
+          ],
+          "gold_answer": 0
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "description": "Ein n-seitiger Würfel zeigt die Zahlen 1 bis n. Bei einem Spiel mit zwei n-seitigen Würfeln werden die beiden gewürfelten Augenzahlen addiert. ",
+      "image": null,
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "graph and pattern analysis",
+          "text": "Welche Zahl kommt dabei am häufigsten als Summe vor?",
+          "answers": [
+            "A: 2n",
+            "B: n x n",
+            "C: n + 1",
+            "D: n + 2"
+          ],
+          "gold_answer": 2
+        }
+      ]
+    }
+  ]
+}

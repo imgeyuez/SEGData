@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "Zifferneinsetzen_Aufgabe.pdf",
+    "title": "Ziffern einsetzen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Andrea hat nur die Ziffern 2, 3, 4, 6, und 9 zur Verfügung. Diese Ziffern werden auf die leeren Kästchen verteilt. Sie darf jede Ziffer nur einmal verwenden. Andrea setzt die Ziffern so ein, dass das Ergebnis 921 beträgt. ",
+      "image": "Zifferneinsetzen_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Wie hat sie die Ziffern eingesetzt?",
+          "answers": [
+            "A: 963 - 42",
+            "B: 926 - 34",
+            "C: 394 - 26",
+            "D: 624 - 39"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "thermometeranzeigen_Aufgabe.pdf",
+    "title": "Zwei Thermometeranzeigen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Das linke Thermometer zeigt die Temperatur, die morgens gemessen wurde. Das rechte Thermometer zeigt die Temperatur, die mittags gemessen wurde. ",
+      "image": "thermometeranzeigen_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Was ist der Temperaturunterschied?",
+          "answers": [
+            "A: Der Temperaturunterschied beträgt 20 °C.",
+            "B: Der Temperaturunterschied beträgt 5 °C.",
+            "C: Der Temperaturunterschied beträgt 20 °C.",
+            "D: Der Temperaturunterschied beträgt 15 °C."
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

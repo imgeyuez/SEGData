@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filename": "MuenzenBetrag_Aufgabe.pdf",
+    "title": "Münzen Betrag",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Löse die Aufgabe basierend auf der Aussage im Bild.",
+      "image": "MuenzenBetrag_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Welcher Betrag kann es nicht sein?",
+          "answers": [
+            "A: 3,50 €",
+            "B: 2,25 €",
+            "C: 0,35 €",
+            "D: 2,00 €",
+            "E: 1,15 €"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "wuerfelkoerper_Aufgabe.pdf",
+    "title": "Würfelkörper",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Ein Würfel ist aus lauter kleinen Würfeln zusammengesetzt (siehe Bild). Jeder der kleinen Würfel hat ein Volumen von 1 cm³. (Abbildung nicht maßstabgerecht)",
+      "image": "wuerfelkoerper_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Gib an, wie groß das Volumen des großen Würfels ist.",
+          "answers": [
+            "A: Das Volumen des großen Würfels beträgt 9 cm³",
+            "B: Das Volumen des großen Würfels beträgt 27 cm³",
+            "C: Das Volumen des großen Würfels beträgt 3 cm³",
+            "D: Das Volumen des großen Würfels beträgt 36 cm³"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Gib an, wie groß die Oberfläche des großen Würfels ist.",
+          "answers": [
+            "A: Die Oberfläche des großen Würfels beträgt 9 cm².",
+            "B: Die Oberfläche des großen Würfels beträgt 27 cm².",
+            "C: Die Oberfläche des großen Würfels beträgt 36 cm².",
+            "D: Die Oberfläche des großen Würfels beträgt 54 cm²."
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

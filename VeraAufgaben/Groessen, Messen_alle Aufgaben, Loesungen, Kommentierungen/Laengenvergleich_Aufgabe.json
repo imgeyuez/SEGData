@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filename": "Laengenvergleich_Aufgabe.pdf",
+    "title": "Längenvergleich",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Es sind Strecken mit unterschiedlichen Längen abgedruckt.",
+      "image": "Laengenvergleich_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche Strecke ist am längsten?",
+          "answers": [
+            "A: Strecke 1",
+            "B: Strecke 2",
+            "C: Strecke 3",
+            "D: Strecke 4",
+            "E: Strecke 5"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

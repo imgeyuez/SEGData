@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "filename": "Anteile in geometrischen Objekten.pdf",
+    "title": "Anteile in geometrischen Objekten",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/4.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Bestimme, welcher Anteil des geometrischen Objekts grau gefärbt ist.",
+      "image": "Anteile in geometrischen Objekten_1.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Welcher Bruch beschreibt den Anteil, der grau gefärbt ist?",
+          "answers": [
+            "A: 1/4",
+            "B: 2/3",
+            "C: 1/4",
+            "D: 1/3"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Welcher Prozentsatz beschreibt den Anteil, der grau gefärbt ist?",
+          "answers": [
+            "A: 33 %",
+            "B: 66 %",
+            "C: 25 %",
+            "D: 90 %"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "description": "Bestimme, welcher Anteil des geometrischen Objekts grau gefärbt ist.",
+      "image": "Anteile in geometrischen Objekten_2.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Welcher Bruch beschreibt den Anteil, der grau gefärbt ist?",
+          "answers": [
+            "A: 3/5",
+            "B: 2/5",
+            "C: 1/4",
+            "D: 1/6"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Welcher Prozentsatz beschreibt den Anteil, der grau gefärbt ist?",
+          "answers": [
+            "A: 65 %",
+            "B: 12 %",
+            "C: 40 %",
+            "D: 60 %"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "description": "Bestimme, welcher Anteil des geometrischen Objekts grau gefärbt ist.",
+      "image": "Anteile in geometrischen Objekten_3.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Welcher Bruch beschreibt den Anteil, der grau gefärbt ist?",
+          "answers": [
+            "A: 1/2",
+            "B: 1/5",
+            "C: 1/4",
+            "D: 1/3"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Welcher Prozentsatz beschreibt den Anteil, der grau gefärbt ist?",
+          "answers": [
+            "A: 50 %",
+            "B: 25 %",
+            "C: 15 %",
+            "D: 80 %"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

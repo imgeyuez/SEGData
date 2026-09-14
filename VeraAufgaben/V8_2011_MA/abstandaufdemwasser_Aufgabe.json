@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "abstandaufdemwasser_Aufgabe.pdf",
+    "title": "Abstand auf dem Wasser",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Ein Schiff fährt mit gleichbleibender Geschwindigkeit aus einem Hafen an einem Leuchtturm vorbei. Der nachstehenden Abbildung kann man entnehmen, wie viele Minuten es vom Ablegen bis zu den markierten Positionen braucht.",
+      "image": "abstandaufdemwasser_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "graph and pattern analysis",
+          "text": "Welcher Graph stellt den Abstand des Schiffes zum Leuchtturm als Funktion der Zeit dar?",
+          "answers": [
+            "A: Graph oben links",
+            "B: Graph oben rechts",
+            "C: Graph unten links",
+            "D: Graph unten rechts"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

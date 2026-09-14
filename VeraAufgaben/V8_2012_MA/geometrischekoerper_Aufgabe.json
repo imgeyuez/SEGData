@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "filename": "geometrischekoerper_Aufgabe.pdf",
+    "title": "Geometrische Körper erkennen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Entscheide für jeden genannten Körper, ob dieser in der Abbildung zu sehen ist.",
+      "image": "geometrischekoerper_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Zylinder",
+          "answers": [
+            "A: ja",
+            "B: nein"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Quader",
+          "answers": [
+            "A: ja",
+            "B: nein"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Pyramide",
+          "answers": [
+            "A: ja",
+            "B: nein"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Kegel",
+          "answers": [
+            "A: ja",
+            "B: nein"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Kugel",
+          "answers": [
+            "A: ja",
+            "B: nein"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

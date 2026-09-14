@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filename": "Wuerfelnetzeergaenzen_Aufgabe.pdf",
+    "title": "Würfelnetze ergänzen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY) – https://creativecommons.org/licenses/by/3.0/de/legalcode"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Zu sehen sind Netze. Ergänze zu einem vollständigen Würfelnetz.",
+      "image": "Wuerfelnetzeergaenzen_Aufgabe.eps",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Ergänze das Würfelnetz. Beschreibe ebenfalls, wo ergänzt wird.",
+          "answers": [],
+          "gold_answer": "1. Reihe, rechts ODER 2. Reihe, rechts ODER 3. Reihe, rechts ODER 4. Rehe, rechts"
+        },
+        {
+          "id": "Q2",
+          "text": "Ergänze das Würfelnetz. Beschreibe ebenfalls, wo ergänzt wird.",
+          "answers": [],
+          "gold_answer": "2. Reihe, rechts ODER 3. Reihe, rechts ODER 4. Reihe, rechts ODER 1. Spalte, oben"
+        }
+      ]
+    }
+  ]
+}

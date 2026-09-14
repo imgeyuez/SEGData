@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "Zahlenkarte_Aufgabe.pdf",
+    "title": "Zahlenkarte",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Lisa nimmt mit verbundenen Augen eine Zahlenkarte.",
+      "image": "Zahlenkarte_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Welche der folgenden Aussagen über Lisas gezogene Zahl ist korrekt?",
+          "answers": [
+            "A: Es ist sicher, dass Lisa die Zahl 3 genommen hat.",
+            "B: Es ist unmöglich, dass Lisas Zahl kleiner als 4 ist.",
+            "C: Es ist möglich, aber nicht sicher, dass Lisas Zahl größer als 5 ist.",
+            "D: Es ist sicher, dass Lisas Zahl zwischen 2 und 7 liegt."
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

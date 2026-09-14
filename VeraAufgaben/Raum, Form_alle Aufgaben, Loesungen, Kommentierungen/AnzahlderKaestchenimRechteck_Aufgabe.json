@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "AnzahlderKaestchenimRechteck_Aufgabe.pdf",
+    "title": "Anzahl der Kästchen im Rechteck",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Abgebildet sind ein Rechteck aus kleinen Kästchen und ein Kreis.",
+      "image": "AnzahlderKaestchenimRechteck_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Aus wie vielen kleinen Kästchen besteht das Rechteck?",
+          "answers": [
+            "A: Das Rechteck besteht aus 24 kleinen Kästchen.",
+            "B: Das Rechteck besteht aus 20 kleinen Kästchen.",
+            "C: Das Rechteck besteht aus 36 kleinen Kästchen.",
+            "D: Das Rechteck besteht aus 22 kleinen Kästchen."
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

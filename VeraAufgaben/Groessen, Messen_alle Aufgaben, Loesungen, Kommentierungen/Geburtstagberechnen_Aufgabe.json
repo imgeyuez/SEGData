@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "Geburtstagberechnen_Aufgabe.pdf",
+    "title": "Geburtstag berechnen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Ulla sagt: 'In 2 Wochen und 2 Tagen habe ich Geburtstag!'",
+      "image": "Geburtstagberechnen_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "An welchem Tag hat Ulla Geburtstag?",
+          "answers": [
+            "A: am 8. April",
+            "B: am 19. April",
+            "C: am 28. April",
+            "D: am 1. Mai"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

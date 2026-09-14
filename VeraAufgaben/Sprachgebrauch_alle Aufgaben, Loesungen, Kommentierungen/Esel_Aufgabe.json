@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "filename": "Esel_Aufgabe.pdf",
+        "title": "Esel",
+        "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de",
+        "class": "3"
+    },
+    "tasks": [
+        {
+            "id": "T1",
+            "description": "Ordne den beiden Gruppen von Wörtern jeweils den passenden Oberbegriff zu.",
+            "image": "Esel_Aufgabe_1.png",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Welcher der Oberbegriffe passt zu den Wörtern?",
+                    "answers": [
+                        "A: Gemüsesorten",
+                        "B: Nutztiere",
+                        "C: Futtermittel",
+                        "D: Lastenträger"
+                    ],
+                    "gold_answer": "C"
+                }
+            ]
+        },
+        {
+            "id": "T2",
+            "description": "Ordne den beiden Gruppen von Wörtern jeweils den passenden Oberbegriff zu.",
+            "image": "Esel_Aufgabe_2.png",
+            "questions": [
+                {
+                    "id": "Q2",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Welcher der Oberbegriffe passt zu den Wörtern?",
+                    "answers": [
+                        "A: Gemüsesorten",
+                        "B: Nutztiere",
+                        "C: Futtermittel",
+                        "D: Lastenträger"
+                    ],
+                    "gold_answer": "B"
+                }
+            ]
+        }
+    ]
+}

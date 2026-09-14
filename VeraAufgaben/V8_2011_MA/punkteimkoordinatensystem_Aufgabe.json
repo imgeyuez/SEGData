@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "punkteimkoordinatensystem_Aufgabe.pdf",
+    "title": "Punkte im Koordinatensystem",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Gezeigt ist ein Koordinatensystem mit den eingetragenen Punkten A, B und C. Bearbeite die folgenden Aufgaben.",
+      "image": "punkteimkoordinatensystem_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Im gegebenen Koordinatensystem soll so ein Punkt D ergänzt werden, so dass eine Raute (ein Rhombus) entsteht. Welche Koordinaten für D wären dafür richtig?.",
+          "answers": [
+            "A: (10|9)",
+            "B: (9|10)",
+            "C: (8|9)",
+            "D: (10|10)"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

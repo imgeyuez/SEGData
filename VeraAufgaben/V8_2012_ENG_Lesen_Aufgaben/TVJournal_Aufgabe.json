@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "TVJournal_Aufgabe.pdf",
+        "title": "TV Journal",
+        "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de; Isenberg, Dana: Turning off the tube. A report from the trenches. Young People’s Press, April 17, 2003.",
+        "class": "k.A."
+    },
+    "tasks": [
+        {
+            "id": "T1",
+            "description": "Read Dana's journal to find out what she has learned during TV Turnoff Week. Match each day (0 to 6) with one of her statements (a to i). You may use each statement only once. There are two more statements than you need. Example: Day 0 matches statement F.",
+            "image": "TVJournal_Aufgabe.png",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which statement matches day 1?",
+                    "answers": [
+                        "A: Information isn't only on TV.",
+                        "B: Educational TV is allowed.",
+                        "C: No TV means no more junk food.",
+                        "D: There's more time to read.",
+                        "E: It is possible to live without TV.",
+                        "F: Parents can help to keep you away from TV.",
+                        "G: Even meals can be TV-free.",
+                        "H: Boys can be boring without TV.",
+                        "I: There's more time for class papers."
+                    ],
+                    "gold_answer": "G"
+                },
+                {
+                    "id": "Q2",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which statement matches day 2?",
+                    "answers": [
+                        "A: Information isn't only on TV.",
+                        "B: Educational TV is allowed.",
+                        "C: No TV means no more junk food.",
+                        "D: There's more time to read.",
+                        "E: It is possible to live without TV.",
+                        "F: Parents can help to keep you away from TV.",
+                        "G: Even meals can be TV-free.",
+                        "H: Boys can be boring without TV.",
+                        "I: There's more time for class papers."
+                    ],
+                    "gold_answer": "A"
+                },
+                {
+                    "id": "Q3",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which statement matches day 3?",
+                    "answers": [
+                        "A: Information isn't only on TV.",
+                        "B: Educational TV is allowed.",
+                        "C: No TV means no more junk food.",
+                        "D: There's more time to read.",
+                        "E: It is possible to live without TV.",
+                        "F: Parents can help to keep you away from TV.",
+                        "G: Even meals can be TV-free.",
+                        "H: Boys can be boring without TV.",
+                        "I: There's more time for class papers."
+                    ],
+                    "gold_answer": "B"
+                },
+                {
+                    "id": "Q4",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which statement matches day 4?",
+                    "answers": [
+                        "A: Information isn't only on TV.",
+                        "B: Educational TV is allowed.",
+                        "C: No TV means no more junk food.",
+                        "D: There's more time to read.",
+                        "E: It is possible to live without TV.",
+                        "F: Parents can help to keep you away from TV.",
+                        "G: Even meals can be TV-free.",
+                        "H: Boys can be boring without TV.",
+                        "I: There's more time for class papers."
+                    ],
+                    "gold_answer": "H"
+                },
+                {
+                    "id": "Q5",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which statement matches day 5?",
+                    "answers": [
+                        "A: Information isn't only on TV.",
+                        "B: Educational TV is allowed.",
+                        "C: No TV means no more junk food.",
+                        "D: There's more time to read.",
+                        "E: It is possible to live without TV.",
+                        "F: Parents can help to keep you away from TV.",
+                        "G: Even meals can be TV-free.",
+                        "H: Boys can be boring without TV.",
+                        "I: There's more time for class papers."
+                    ],
+                    "gold_answer": "D"
+                },
+                {
+                    "id": "Q6",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which statement matches day 6?",
+                    "answers": [
+                        "A: Information isn't only on TV.",
+                        "B: Educational TV is allowed.",
+                        "C: No TV means no more junk food.",
+                        "D: There's more time to read.",
+                        "E: It is possible to live without TV.",
+                        "F: Parents can help to keep you away from TV.",
+                        "G: Even meals can be TV-free.",
+                        "H: Boys can be boring without TV.",
+                        "I: There's more time for class papers."
+                    ],
+                    "gold_answer": "E"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "filename": "einwortmehrerebedeutungen_Aufgabe.pdf",
+    "title": "Ein Wort – mehrere Bedeutungen",
+    "source": "IQB e. V., Lizenz: CC BY 4.0"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Jedes der Wörter, die in der unteren Liste aufgeführt sind, hat zwei Bedeutungen. Finde jeweils die beiden Bedeutungen und ordne den Wörtern die richtigen Buchstaben zu. Beispiel: Zu dem Wort Schloss können F und M zugeordnet werden. Hinweis: Es kann sein, dass Bedeutungen mehrfach zugeordnet werden können",
+      "image": null,
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Bedeutungen passen zu 'Bank'?",
+          "answers": [
+            "A: D und R",
+            "B: I und J und N",
+            "C: B und E",
+            "D: D und H" 
+          ],
+          "gold_answer": 3
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Bedeutungen passen zu 'Star'?",
+          "answers": [
+            "A: E und J und R",
+            "B: C und M",
+            "C: E und K",
+            "D: B und L"
+          ],
+          "gold_answer": 3
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Bedeutungen passen zu 'Takt'?",
+          "answers": [
+            "A: A und B",
+            "B: A und I und P",
+            "C: C und O",
+            "D: L und N"
+          ],
+          "gold_answer": 2
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Bedeutungen passen zu 'Mine'?",
+          "answers": [
+            "A: M und O",
+            "B: B und L und Q",
+            "C: A und G",
+            "D: C und I und K"
+          ],
+          "gold_answer": 2
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Bedeutungen passen zu 'Ball'?",
+          "answers": [ 
+            "A: I und K",
+            "B: K und O",
+            "C: E und G",
+            "D: F und J"
+          ],
+          "gold_answer": 0
+        },
+        {
+          "id": "Q6",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Bedeutungen passen zu 'Strauß'?",
+          "answers": [],
+          "gold_answer": "E UND L"
+        },
+        {
+          "id": "Q7",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Bedeutungen passen zu 'Stollen'?",
+          "answers": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R"],
+          "gold_answer": "A UND N"
+        },
+        {
+          "id": "Q8",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Bedeutungen passen zu 'Tau'?",
+          "answers": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R"],
+          "gold_answer": "P UND R"
+        },
+        {
+          "id": "Q9",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Bedeutungen passen zu 'Kiefer'?",
+          "answers": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R"],
+          "gold_answer": "J UND Q"
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "description": "Jedes der Wörter, die in der unteren Liste aufgeführt sind, hat zwei Bedeutungen. Finde jeweils die beiden Bedeutungen und ordne den Wörtern die richtigen Buchstaben zu. Beispiel: Zu dem Wort unterrichten können B und E zugeordnet werden. Hinweis: Es kann sein, dass Bedeutungen mehrfach zugeordnet werden können",
+      "image": null,
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Bedeutungen passen zu 'entdecken'?",
+          "answers": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M"],
+          "gold_answer": "C UND L"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Bedeutungen passen zu 'Star'?",
+          "answers": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M"],
+          "gold_answer": "I UND J"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Bedeutungen passen zu 'murmeln'?",
+          "answers": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M"],
+          "gold_answer": "F UND H"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Bedeutungen passen zu 'ausrichten'?",
+          "answers": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M"],
+          "gold_answer": "A UND D"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Bedeutungen passen zu 'abspielen'?",
+          "answers": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M"],
+          "gold_answer": "K UND M"
+        },
+        {
+          "id": "Q6",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Bedeutungen passen zu 'eintreten'?",
+          "answers": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M"],
+          "gold_answer": "G UND K"
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "description": "Jedes der folgenden Wörter lässt sich mit unterschiedlichen Bedeutungen verwenden. Entscheide jeweils, welche Bedeutung zutrifft, indem du den Aussagen die passenden Buchstaben wie im Beispiel zuordnest. Hinweis: Einige Buchstaben können mehrmals zugeordnet werden",
+      "image": null,
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welches Wort passt zu der Bedeutung 'Bei dem Wert musst du dich vermessen haben.'?",
+          "answers": ["A", "B"],
+          "gold_answer": 1
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welches Wort passt zu der Bedeutung 'Diese Aussage finde ich vermessen.'?",
+          "answers": ["A", "B"],
+          "gold_answer": 0
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welches Wort passt zu der Bedeutung 'Er hat sich bei den Angaben vermessen.'?",
+          "answers": ["A", "B"],
+          "gold_answer": 1
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "description": "Jedes der folgenden Wörter lässt sich mit unterschiedlichen Bedeutungen verwenden. Entscheide jeweils, welche Bedeutung zutrifft, indem du den Aussagen die passenden Buchstaben wie im Beispiel zuordnest. Hinweis: Einige Buchstaben können mehrmals zugeordnet werden",
+      "image": null,
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welches Wort passt zu der Bedeutung 'Wahrscheinlich haben wir uns im Kino einfach verpasst.'?",
+          "answers": ["A", "B"],
+          "gold_answer": 1
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welches Wort passt zu der Bedeutung 'Du hast mir eine ganz schöne Beule verpasst.'?",
+          "answers": ["A", "B"],
+          "gold_answer": 0
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welches Wort passt zu der Bedeutung 'Wir werden ihnen eine tüchtige Abreibung verpassen.'?",
+          "answers": ["A", "B"],
+          "gold_answer": 0
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "description": "Jedes der folgenden Wörter lässt sich mit unterschiedlichen Bedeutungen verwenden. Entscheide jeweils, welche Bedeutung zutrifft, indem du den Aussagen die passenden Buchstaben wie im Beispiel zuordnest. Hinweis: Einige Buchstaben können mehrmals zugeordnet werden",
+      "image": null,
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welches Wort passt zu der Bedeutung 'Sie hat bereits den dritten Aufschlag verschlagen.'?",
+          "answers": ["A", "B", "C", "D"],
+          "gold_answer": 1
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welches Wort passt zu der Bedeutung 'Der neue Mitschüler scheint sehr verschlagen zu sein.'?",
+          "answers": ["A", "B", "C", "D"],
+          "gold_answer": 0
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welches Wort passt zu der Bedeutung 'Bei ihrem Anblick verschlägt es einem glatt die Sprache.'?",
+          "answers": ["A", "B", "C", "D"],
+          "gold_answer": 2
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welches Wort passt zu der Bedeutung 'Er hat wiederholt verschlagen.'?",
+          "answers": ["A", "B", "C", "D"],
+          "gold_answer": 1
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welches Wort passt zu der Bedeutung 'Heute hat es uns nach Berlin verschlagen.'?",
+          "answers": ["A", "B", "C", "D"],
+          "gold_answer": 3
+        }
+      ]
+    }
+  ]
+}

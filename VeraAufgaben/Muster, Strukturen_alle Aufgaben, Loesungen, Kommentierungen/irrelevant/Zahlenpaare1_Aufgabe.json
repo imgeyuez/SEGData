@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filename": "WieheisstdieZahl_Aufgabe.pdf",
+    "title": "Wie heißt die Zahl?",
+    "source": "IQB e. V., Lizenz: CC BY 3.0"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Die Darstellung in der Stellenwerttabelle muss in die entsprechende Zahl überführt werden.",
+      "image": "WieheisstdieZahl_Aufgabe.eps",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Zahl ergibt sich aus der Stellenwerttafel?",
+          "answers": [
+            "A: 208",
+            "B: 206",
+            "C: 308",
+            "D: 288"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "description": "Die Darstellung in der Stellenwerttabelle muss in die entsprechende Zahl überführt werden.",
+      "image": "",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Zahl ergibt sich aus der Stellenwerttafel?",
+          "answers": [
+            "A: 86",
+            "B: 38",
+            "C: 30",
+            "D: 36"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

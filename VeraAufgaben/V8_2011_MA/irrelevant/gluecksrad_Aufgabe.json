@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "filename": "gluecksrad_Aufgabe.pdf",
+    "title": "Glücksrad",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Ein Glücksrad besteht aus drei Feldern: einem roten, einem grünen und einem blauen Feld. Bei 180 Drehungen wies der Zeiger nach dem Stillstand des Glücksrades 66-mal auf das rote Feld und 54-mal auf das grüne Feld.",
+      "image": "gluecksrad_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Wie oft zeigte der Zeiger auf das blaue Feld?",
+          "answers": [
+            "A: 240-mal",
+            "B: 120-mal",
+            "C: 60-mal",
+            "D: Das kann ich nicht entscheiden, weil das ja Zufall ist."
+          ],
+          "gold_answer": 2
+        }
+      ]
+    }
+  ]
+}

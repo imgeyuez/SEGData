@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "InJail_Aufgabe.pdf",
+        "title": "In Jail",
+        "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de; Text: © from The Curious Incident of the Dog in the Night‐time by Mark Haddon, published by Jonathan Cape. Reprinted by permission of The Random House Group Ltd.",
+        "class": "k.A."
+    },
+    "tasks": [
+        {
+            "id": "T1",
+            "description": "Read the paragraphs (a to e) from a novel. Then put them in the correct order. Paragraph a ist the first one.",
+            "image": "InJail_Aufgabe.png",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which paragraph belongs in second place?",
+                    "answers": [
+                        "A: a",
+                        "B: b",
+                        "C: c",
+                        "D: d",
+                        "E: e"
+                    ],
+                    "gold_answer": "D"
+                },
+                {
+                    "id": "Q2",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which paragraph belongs in third place?",
+                    "answers": [
+                        "A: a",
+                        "B: b",
+                        "C: c",
+                        "D: d",
+                        "E: e"
+                    ],
+                    "gold_answer": "B"
+                },
+                {
+                    "id": "Q3",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which paragraph belongs in third place?",
+                    "answers": [
+                        "A: a",
+                        "B: b",
+                        "C: c",
+                        "D: d",
+                        "E: e"
+                    ],
+                    "gold_answer": "C"
+                },
+                {
+                    "id": "Q4",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which paragraph belongs in third place?",
+                    "answers": [
+                        "A: a",
+                        "B: b",
+                        "C: c",
+                        "D: d",
+                        "E: e"
+                    ],
+                    "gold_answer": "E"
+                }
+            ]
+        }
+    ]
+}

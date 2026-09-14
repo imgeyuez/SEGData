@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "gluecksraddrehen_Aufgabe.pdf",
+    "title": "Glücksrad drehen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Für eine Verlosung wurde ein Glücksrad entworfen. Es hat sechs verschieden große Sektoren, die mit den Buchstaben A, B, C, D, E und F beschriftet sind. Beim Drehen des Glücksrades treten diese Ergebnisse mit den in er Tabelle angegebenen Wahrscheinlichkeiten p ein.",
+      "image": "gluecksraddrehen_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Gib die fehlende Größe des Winkels für Sektor C an.",
+          "answers": [
+            "A: 120°",
+            "B: 310°",
+            "C: 240°",
+            "D: 30°"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Das Glücksrad soll durch einen kleinen Eimer mit 540 Losen ersetzt werden. Die Lose sollen ebenfalls mit den Buchstaben A, B, C, D, E und F beschriftet sein. Die Ergebnisse sollen mit den gleichen Wahrscheinlichkeiten wie beim Glücksrad gezogen werden. Gib an, wie viele Lose hierzu mit dem Buchstaben C und wie viele Lose mit dem Buchstaben D bedruckt werden müssen.",
+          "answers": [
+            "A: Anzahl der Lose mit dem Buchstaben C: 180. Anzahl der Lose mit dem Buchstaben D: 90.",
+            "B: Anzahl der Lose mit dem Buchstaben C: 108. Anzahl der Lose mit dem Buchstaben D: 9.",
+            "C: Anzahl der Lose mit dem Buchstaben C: 540. Anzahl der Lose mit dem Buchstaben D: 0.",
+            "D: Anzahl der Lose mit dem Buchstaben C: 100. Anzahl der Lose mit dem Buchstaben D: 100."
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

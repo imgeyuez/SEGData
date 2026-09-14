@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "filename": "parallelogramme_Aufgabe.pdf",
+    "title": "Deckungsgleiche Parallelogramme",
+    "source": "IQB e. V. (Institut zur Qualitätsentwicklung im Bildungswesen)"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Zeichne eine Gerade so durch das gegebene Parallelogramm, dass zwei zueinander deckungsgleiche Parallelogramme entstehen.",
+      "image": "",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Wo muss die Gerade eingezeichnet werden, damit zwei deckungsgleiche Parallelogramme entstehen?",
+          "answers": [],
+          "gold_answer": ""
+        }
+      ]
+    }
+  ]
+}

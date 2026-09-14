@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "schulgrundstueck_Aufgabe.pdf",
+    "title": "Schulgrundstück",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Die Abbildung zeigt das Luftbild einer Schule. Darauf sind das Schulgrundstück (schwarz umrandet) und die Schulgebäude zu sehen.",
+      "image": "schulgrundstueck_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": " Die zwei größten Gebäude auf dem Grundstück sind die Schulgebäude. Bestimme mit Hilfe der Angaben im Bild die grobe Länge a.",
+          "answers": [
+            "A: B: Länge a dieses Schulgebäudes: 150 m.",
+            "B: Länge a dieses Schulgebäudes: 65 m.",
+            "C: Länge a dieses Schulgebäudes: 30 m.",
+            "D: Länge a dieses Schulgebäudes: 200 m."
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Auf dem Schulhof werden 100-m-Sprints gelaufen. Sebastian will eine 100-m-Laufbahn als Strecke in das Foto einzeichnen. Wie lang ist die Strecke ungefähr, die er zeichnen müsste?",
+          "answers": [
+            "A: 8 cm",
+            "B: 2 cm",
+            "C: 5 cm",
+            "D: 10 cm"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

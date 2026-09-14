@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "filename": "quatresms_Aufgabe.pdf",
+    "title": "Quatre SMS",
+    "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Voilà quatre SMS. Lis le document. Associe chaque dessin à un message. Attention, il y a un message de trop.",
+      "image": "quatresms_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "À quelle nouvelle correspond l'image 1 ?",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "À quelle nouvelle correspond l'image 2 ?",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "À quelle nouvelle correspond l'image 3 ?",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

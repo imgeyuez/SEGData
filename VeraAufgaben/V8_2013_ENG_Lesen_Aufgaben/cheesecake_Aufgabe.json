@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "filename": "cheesecake_Aufgabe.pdf",
+    "title": "Cheesecake",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Have a look at the recipe taken from a cheesecake kit. Then match each of the texts with one of the pictures. You can use each text only once. There is one more text than you need.",
+      "image": "cheesecake_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Match the correct instruction to picture 1.",
+          "answers": [
+            "A: Spread the crumb mixture over the base of the tin. Press down with the back of a spoon.",
+            "B: Line a 15–18 cm sandwich tin with tin foil, ensuring that it overlaps the edges.",
+            "C: Spread the cheesecake topping over the biscuit base and smooth with the back of a spoon.",
+            "D: Chill in the fridge for about 45 minutes to set. Remove from the tin and peel away tin foil.",
+            "E: Melt 50 g butter or margarine and stir in the biscuit crumb.",
+            "F: Whisk the cheesecake mix into 225 ml of milk until thick and creamy."
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Match the correct instruction to picture 2.",
+          "answers": [
+            "A: Spread the crumb mixture over the base of the tin. Press down with the back of a spoon.",
+            "B: Line a 15–18 cm sandwich tin with tin foil, ensuring that it overlaps the edges.",
+            "C: Spread the cheesecake topping over the biscuit base and smooth with the back of a spoon.",
+            "D: Chill in the fridge for about 45 minutes to set. Remove from the tin and peel away tin foil.",
+            "E: Melt 50 g butter or margarine and stir in the biscuit crumb.",
+            "F: Whisk the cheesecake mix into 225 ml of milk until thick and creamy."
+          ],
+          "gold_answer": "E"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Match the correct instruction to picture 3.",
+          "answers": [
+            "A: Spread the crumb mixture over the base of the tin. Press down with the back of a spoon.",
+            "B: Line a 15–18 cm sandwich tin with tin foil, ensuring that it overlaps the edges.",
+            "C: Spread the cheesecake topping over the biscuit base and smooth with the back of a spoon.",
+            "D: Chill in the fridge for about 45 minutes to set. Remove from the tin and peel away tin foil.",
+            "E: Melt 50 g butter or margarine and stir in the biscuit crumb.",
+            "F: Whisk the cheesecake mix into 225 ml of milk until thick and creamy."
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Match the correct instruction to picture 4.",
+          "answers": [
+            "A: Spread the crumb mixture over the base of the tin. Press down with the back of a spoon.",
+            "B: Line a 15–18 cm sandwich tin with tin foil, ensuring that it overlaps the edges.",
+            "C: Spread the cheesecake topping over the biscuit base and smooth with the back of a spoon.",
+            "D: Chill in the fridge for about 45 minutes to set. Remove from the tin and peel away tin foil.",
+            "E: Melt 50 g butter or margarine and stir in the biscuit crumb.",
+            "F: Whisk the cheesecake mix into 225 ml of milk until thick and creamy."
+          ],
+          "gold_answer": "F"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Match the correct instruction to picture 5.",
+          "answers": [
+            "A: Spread the crumb mixture over the base of the tin. Press down with the back of a spoon.",
+            "B: Line a 15–18 cm sandwich tin with tin foil, ensuring that it overlaps the edges.",
+            "C: Spread the cheesecake topping over the biscuit base and smooth with the back of a spoon.",
+            "D: Chill in the fridge for about 45 minutes to set. Remove from the tin and peel away tin foil.",
+            "E: Melt 50 g butter or margarine and stir in the biscuit crumb.",
+            "F: Whisk the cheesecake mix into 225 ml of milk until thick and creamy."
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

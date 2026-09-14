@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "filename": "protectionsolaire_Aufgabe.pdf",
+    "title": "Protection solaire",
+    "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "C'est l'été ! Tu trouves les instructions suivantes pour te protéger contre le soleil. Lis le document et remplis le tableau. Attention, il y a deux dessins de trop.",
+      "image": "protectionsolaire_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Associe l’instruction 1 à la bonne image.",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Associe l’instruction 2 à la bonne image.",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "gold_answer": "H"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Associe l’instruction 3 à la bonne image.",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Associe l’instruction 4 à la bonne image.",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Associe l’instruction 5 à la bonne image.",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "gold_answer": "E"
+        },
+        {
+          "id": "Q6",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Associe l’instruction 6 à la bonne image.",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "gold_answer": "F"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+    "metadata": {
+        "filename": "lamourdevacances_Aufgabe.pdf",
+        "title": "L’amour de vacances",
+        "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de",
+        "class": "8"
+    },
+    "tasks": [
+        {
+            "id": "T1",
+            "description": "Pendant ses dernières vacances, Laure est tombée amoureuse de Yann. Mais ça n’a pas marché. Elle a donc déchiré les pages correspondantes de son journal intime.Lis le document. Puis reconstitue l’ordre des pages dans le journal intime de Laure. Attention, il y a un texte de trop. La première page est D.",
+            "image": "lamourdevacances_Aufgabe.png",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Quelle est la deuxième page du journal intime de Laure ?",
+                    "answers": [
+                        "A: Texte A",
+                        "B: Texte B",
+                        "C: Texte C",
+                        "D: Texte D",
+                        "E: Texte E"
+                    ],
+                    "gold_answer": "A"
+                },
+                {
+                    "id": "Q2",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Quelle est la troisième page du journal intime de Laure ?",
+                    "answers": [
+                        "A: Texte A",
+                        "B: Texte B",
+                        "C: Texte C",
+                        "D: Texte D",
+                        "E: Texte E"
+                    ],
+                    "gold_answer": "B"
+                },
+                {
+                    "id": "Q3",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Quelle est la quatrième page du journal intime de Laure ?",
+                    "answers": [
+                        "A: Texte A",
+                        "B: Texte B",
+                        "C: Texte C",
+                        "D: Texte D",
+                        "E: Texte E"
+                    ],
+                    "gold_answer": "C"
+                }
+            ]
+        }
+    ]
+}

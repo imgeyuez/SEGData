@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "TimsWuerfelgebaeude_Aufgabe.pdf",
+    "title": "Tims Würfelgebäude",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Tim hat ein Würfelgebäude gebaut.",
+      "image": "TimsWuerfelgebaeude_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welcher Bauplan passt zu seinem Gebäude?",
+          "answers": [
+            "A: Option 1",
+            "B: Option 2",
+            "C: Option 3",
+            "D: Option 4"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

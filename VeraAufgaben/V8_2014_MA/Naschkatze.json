@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "Naschkatze.pdf",
+    "title": "Naschkatze",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/4.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Kirsten hat mit ihrem neu eröffneten Café „Naschkatze“ Erfolg, denn der Umsatz steigert sich im ersten Geschäftsjahr von Quartal zu Quartal.",
+      "image": "Naschkatze.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "In welchem Quartal betrug der Umsatz 14 000 Euro?",
+          "answers": [
+            "A: 1. Quartal",
+            "B: 2. Quartal",
+            "C: 3. Quartal",
+            "D: 4. Quartal"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

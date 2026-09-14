@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "filename": "levoyageaparis_Aufgabe.pdf",
+    "title": "Le voyage à Paris",
+    "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Le prof de ton correspondant vous donne le programme d'un voyage de classe à Paris. Lis les textes et regarde les images. Puis remplis le tableau. Attention, il y a un texte de trop.",
+      "image": "levoyageaparis_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Associe le texte au lieu représenté (Image 1).",
+          "answers": [
+            "A: Lundi matin, vous faites un tour de ville en bus.",
+            "B: Vous visitez le Louvre avec ses peintures célèbres lundi après-midi.",
+            "C: Après la visite du musée, vous faites un tour en bateau-mouche sur la Seine.",
+            "D: Mardi, vous faites une promenade au Jardin du Luxembourg.",
+            "E: Avant de quitter Paris, vous pouvez monter sur la Tour Eiffel."
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Associe le texte au lieu représenté (Image 2).",
+          "answers": [
+            "A: Lundi matin, vous faites un tour de ville en bus.",
+            "B: Vous visitez le Louvre avec ses peintures célèbres lundi après-midi.",
+            "C: Après la visite du musée, vous faites un tour en bateau-mouche sur la Seine.",
+            "D: Mardi, vous faites une promenade au Jardin du Luxembourg.",
+            "E: Avant de quitter Paris, vous pouvez monter sur la Tour Eiffel."
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Associe le texte au lieu représenté (Image 3).",
+          "answers": [
+            "A: Lundi matin, vous faites un tour de ville en bus.",
+            "B: Vous visitez le Louvre avec ses peintures célèbres lundi après-midi.",
+            "C: Après la visite du musée, vous faites un tour en bateau-mouche sur la Seine.",
+            "D: Mardi, vous faites une promenade au Jardin du Luxembourg.",
+            "E: Avant de quitter Paris, vous pouvez monter sur la Tour Eiffel."
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Associe le texte au lieu représenté (Image 4).",
+          "answers": [
+            "A: Lundi matin, vous faites un tour de ville en bus.",
+            "B: Vous visitez le Louvre avec ses peintures célèbres lundi après-midi.",
+            "C: Après la visite du musée, vous faites un tour en bateau-mouche sur la Seine.",
+            "D: Mardi, vous faites une promenade au Jardin du Luxembourg.",
+            "E: Avant de quitter Paris, vous pouvez monter sur la Tour Eiffel."
+          ],
+          "gold_answer": "E"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "rolltreppe_Aufgabe.pdf",
+    "title": "Rolltreppe",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "In einer U-Bahn-Station befindet sich einer der Bahnsteige genau 21 m unter Straßenniveau. Nach oben gelangt man mit einer Rolltreppe. Monika stellt sich unten auf diese Rolltreppe und lässt sich einfach hochfahren. Das folgende Zeit-Höhen-Diagramm stellt dar, wie tief sie zu jedem Zeitpunkt noch unter der Erde (dem Straßenniveau) ist.",
+      "image": "rolltreppe_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Nach einer Minute Rolltreppenfahrt ist Monika noch wie viel Meter unterhalb des Straßenniveaus?",
+          "answers": [
+            "A: 12 m",
+            "B: 10 m",
+            "C: 10,5 m",
+            "D: 9,5 m"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Gib an, wie lange es etwa dauert, bis Monika 15 m höher ist als das Bahnsteigniveau.",
+          "answers": [
+            "A: 1,5 min",
+            "B: 1,0 min",
+            "C: 1,4 min",
+            "D: 1,0 min"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filename": "winkelimparallelogramm_Aufgabe.pdf",
+    "title": "Winkel im Parallelogramm",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY) – https://creativecommons.org/licenses/by/3.0/de/legalcode"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Das dargestellte Viereck ABCD ist ein Parallelogramm. Die Seite CD dieses Parallelogramms wird gedanklich auf der Geraden h hin und her verschoben. Dabei bleibt die Seite CD immer auf der Geraden h. Die Lage der Seite AB verändert sich nicht.",
+      "image": "",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Für welche Winkelgröße α ist der Umfang des Parallelogramms am kleinsten? Der Umfang des Parallelogramms ist für α = ___ am kleinsten.",
+          "answers": [],
+          "gold_answer": "90"
+        },
+        {
+          "id": "Q2",
+          "text": "Begründe deine Antwort.",
+          "answers": [],
+          "gold_answer": ""
+        }
+      ]
+    }
+  ]
+}

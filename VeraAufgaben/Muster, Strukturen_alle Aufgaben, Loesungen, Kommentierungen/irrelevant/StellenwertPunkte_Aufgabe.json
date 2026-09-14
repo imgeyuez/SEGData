@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "filename": "StellenwertPunkte_Aufgabe.pdf",
+    "title": "Stellenwert Punkte",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY) – https://creativecommons.org/licenses/by/3.0/de/legalcode"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Paul will die Zahl 370 in einer Stellenwerttafel legen, macht dabei aber einen Fehler.",
+      "image": "StellenwertPunkte_Aufgabe.eps",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Erkläre seinen Fehler.",
+          "answers": [],
+          "gold_answer": "Vertauschen der Zehner- und Einerspalte muss deutlich werden: Er hat die Zehner in die Einer gepackt. ODER Er hätte die 7 Punkte zu den Zehnern legen müssen. ODER Er hat die 7 Pünktchen in das falsche Kästchen getan. ODER Er stellt die 70 in die Einerzahlen. UND Richtige Darstellung: 0 Einer, 7 Zehner, 3 Hunderter"
+        }
+      ]
+    }
+  ]
+}

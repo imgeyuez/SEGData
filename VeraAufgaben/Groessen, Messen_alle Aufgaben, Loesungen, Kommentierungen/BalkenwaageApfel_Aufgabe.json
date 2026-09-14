@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "BalkenwaageApfel_Aufgabe.pdf",
+    "title": "Balkenwaage Apfel",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Die Waage ist im Gleichgewicht.",
+      "image": "BalkenwaageApfel_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Wie viel Gramm wiegt der Apfel?",
+          "answers": [
+            "A: Der Apfel wiegt 150 g.",
+            "B: Der Apfel wiegt 100 g.",
+            "C: Der Apfel wiegt 50 g.",
+            "D: Der Apfel wiegt 125 g."
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

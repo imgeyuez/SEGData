@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "Nussecken_Aufgabe.pdf",
+    "title": "Nussecken",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Frau Ufer kauft je eine Nussecke für die 30 Kinder ihrer Schulklasse. Beim Bäcker kostet eine Nussecke 1,10 €. Heute gibt es aber ein Angebot.",
+      "image": "Nussecken_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Wie viel muss Frau Ufer bezahlen?",
+          "answers": [
+            "A: Sie emuss 25,10 € bezahlen.",
+            "B: Sie emuss 22 € bezahlen.",
+            "C: Sie emuss 20 € bezahlen.",
+            "D: Sie emuss 30,30 € bezahlen."
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

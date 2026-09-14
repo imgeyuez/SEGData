@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "schulstatistik_Aufgabe.pdf",
+    "title": "Schulstatistik",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Im Diagramm ist dargestellt, wie viele Schulen es im Schuljahr 2008/2009 in Sachsen-Anhalt gab. Es werden vier Schulformen unterschieden.",
+      "image": "schulstatistik_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Kreuze an, welche Schulform am häufigsten vertreten ist.",
+          "answers": [
+            "A: Grundschule",
+            "B: Sekundarschule",
+            "C: Gymnasium",
+            "D: Gesamtschule"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

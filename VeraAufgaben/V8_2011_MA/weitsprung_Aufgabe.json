@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "filename": "weitsprung_Aufgabe.pdf",
+    "title": "Weitsprung",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "In der Klasse 8a wird im Sportunterricht Weitsprung trainiert. Jeder Schüler hat drei Versuche. Die Sportlehrerin gibt die drei Sprungweiten in ein Tabellenkalkulationsprogramm ein und lässt für jeden Schüler die mittlere Weite berechnen. So sieht die Tabelle für die zehn Mädchen der Klasse aus",
+      "image": "weitsprung_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Welche der folgenden Erklärungen ist nicht richtig für die Berechnung der mittleren Weite aus den drei Sprungweiten einer Schülerin?",
+          "answers": [
+            "A: Man addiert alle 3 Weiten und dividiert das Ergebnis dann durch drei.",
+            "B: Man zählt 4,10; 3,86 und 3,92 zusammen und teilt das Ganze dann durch drei.",
+            "C: Man bildet das arithmetische Mittel der Spalten C, D und E.",
+            "D: Man addiert alle 3 Weiten zusammen"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Die mittlere Weite in der Zelle F2 wurde mithilfe einer Formel berechnet. In dieser Formel wurden Zellenbezeichnungen wie C2, D2 und E2 als Variablen verwendet. Welche der folgenden Formeln ist falsch?",
+          "answers": [
+            "A: C2 + D2 + E2 : 3",
+            "B: =Mittelwert(C;D;E)",
+            "C: (C2 + D2 + E2) / 3",
+            "D: (C2 + D2 + E2) : 3"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Man kann in der Tabellenkalkulation vorgeben, mit wie vielen Nachkommastellen eine Zahl angezeigt werden soll. Wie viele Nachkommastellen sind in Spalte F sinnvoll?",
+          "answers": [
+            "A: Keine",
+            "B: 1",
+            "C: 5",
+            "D: 2"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "2 Nachkommastellen in Spalte F sind sinnvoll. Welche der folgenden Begründungen ist nicht richtig?",
+          "answers": [
+            "A: Sprünge werden höchstens auf cm genau gemessen. Zwei Nachkommastellen sind ausreichend.",
+            "B: Man kann (mit einem Maßband) nur auf zwei Nachkommastellen genau messen.",
+            "C: In den Spalten C, D und E wurden nur 2 Stellen gemessen. ",
+            "D: 2 Nachkommastellen, mehr können nicht angezeigt werden. "
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Die Sportlehrerin sagt: „Sara ist die beste Weitspringerin der Klasse.“ Marc protestiert: „Nein, Anna ist viel besser.“ Welches Argument ist keins dafür, dass Anna die beste Weitspringerin der Klasse ist?",
+          "answers": [
+            "A: Anna ist einmal 4,62 m gesprungen.",
+            "B: Anna ist besser, da sie zweimal am weitesten gesprungen ist (bzw. weiter als Sara) und nur beim dritten Sprung schlecht abgeschnitten hat.",
+            "C: Anna ist die beste, da sie den weitesten Sprung von allen hat.",
+            "D: Sara ist besser, weil ihre mittlere Weite besser ist."
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

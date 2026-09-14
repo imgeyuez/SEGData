@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "filename": "Unterwegs_Aufgabe.pdf",
+    "title": "Unterwegs",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Gegeben sind eine Karte und ein Busfahrplan. Beantworte die folgenden Fragen.",
+      "image": "Unterwegs_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Was kannst du auf der Karte finden?",
+          "answers": [
+            "A: Hallenbad",
+            "B: Parkplatz",
+            "C: Bücherei",
+            "D: Stadtwald"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Lars wohnt in der Straße Im Tal. Welche Bushaltestelle liegt seiner Wohnung am nächsten?",
+          "answers": [
+            "A: Dorfbrunnen",
+            "B: Fuchsloch",
+            "C: Kino",
+            "D: Am Waldhof"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Claudia und Marco gehen vom Kino zum Spielplatz. Was ist die richtige Reihenfolge der Straßennamen?",
+          "answers": [
+            "A: Kino, Kleistraße, Arndtstraße, Hofstraße, Bergstraße, Spielplatz",
+            "B: Kino, Kleistraße, Hofstraße, Arndtstraße, Bergstraße, Spielplatz",
+            "C: Kino, Kleistraße, Arndtstraße, Hofstraße, Bergstraße, Burgschule",
+            "D: Kino, Hofstraße, Kleistraße, Bergstraße, Arndtstraße, Spielplatz"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Peter verpasst an der Haltestelle „Am Waldhof“ den dritten Bus. Wann kommt der nächste Bus?",
+          "answers": [
+            "A: Um 7:43 Uhr",
+            "B: Um 8:03 Uhr",
+            "C: Um 8:01 Uhr",
+            "D: Um 8:23 Uhr"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Direkt an der Elsterstraße liegt",
+          "answers": [
+            "A: der Stadtwald",
+            "B: der Spielplatz",
+            "C: die Burgschule",
+            "D: das Kino"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q6",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Nach einem Kinobesuch will Mirjam nach Hause. Sie wohnt im Wiesenweg. Lohnt es sich für sie, den Bus zu nehmen?",
+          "answers": [
+            "A: Ja, es lohnt sich.",
+            "B: Nein, es lohnt sich nicht"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q7",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Auf welchen Straßen fährt der Bus?",
+          "answers": [
+            "A: Kichchweg und Hauptstraße",
+            "B: Bergstraße und Hauptstraße",
+            "C: Hauptstraße und Basler Straße",
+            "D: Hofstraße und Basler Straße"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q8",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Von wann bis wann fährt der Bus von der Haltestelle „Fuchsloch“ ab?",
+          "answers": [
+            "A: Von 7:09 Uhr bis 23:49 Uhr.",
+            "B: Von 7:05 Uhr bis 23:45 Uhr.",
+            "C: Von 7:03 Uhr bis 23:43 Uhr.",
+            "D: Von 7:05 Uhr bis 8:25 Uhr."
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q9",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Der Bus fährt um 7.41 Uhr von der Haltestelle „Dorfbrunnen“ ab. Wann fährt er an der Haltestelle „Kino“ weiter?",
+          "answers": [
+            "A: Um 7:43 Uhr.",
+            "B: Um 7:41 Uhr.",
+            "C: Um 7:49 Uhr.",
+            "D: Um 8:09 Uhr."
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q10",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Wie oft fährt der Bus in einer Stunde von der Haltestelle „Dorfbrunnen“ ab?",
+          "answers": [
+            "A: zweimal",
+            "B: dreimal",
+            "C: fünfmal",
+            "D: sechsmal"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

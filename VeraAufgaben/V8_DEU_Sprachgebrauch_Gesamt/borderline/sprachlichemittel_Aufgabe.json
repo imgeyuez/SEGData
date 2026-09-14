@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filename": "sprachlichemittel_Aufgabe.pdf",
+    "title": "Über Sätze nachdenken I",
+    "source": "IQB e. V., Lizenz: CC BY 4.0"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Die vier folgenden Sätze sollen zu einem Satz verbunden werden. Dabei soll unter anderem ein Kausalsatz und ein erweiterter Infinitiv mit 'um zu' verwendet werden.",
+      "image": null,
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Welcher der folgenden Sätze ist richtig?",
+          "answers": [
+            "A: Heute hatte ich früher Schulschluss, also stillte ich meinen Hunger im Imbiss.",
+            "B: Da ich meinen Hunger stillen wollte, hatte ich früher Schulschluss und meine Mutter war arbeiten.",
+            "C: Ich ging in den Imbiss und stillte meinen Hunger, meine Mutter war noch bei der Arbeit.",
+            "D: Weil ich heute früher Schulschluss hatte und meine Mutter noch bei der Arbeit war, ging ich in den Imbiss, um meinen Hunger zu stillen."
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "description": "Eine Autorin verfasst den abgebildeten Text.",
+      "image": null,
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Was verwendet die Autorin ausschließlich?",
+          "answers": [
+            "A: Hauptsätze",
+            "B: Satzreihen",
+            "C: Nebensätze",
+            "D: Satzgefüge"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "Zahlenstrahl2_Aufgabe.pdf",
+    "title": "Zahlenstrahl 2",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Abgebildet ist ein Zahlenstrahl.",
+      "image": "Zahlenstrahl2_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Welche Zahl fehlt?",
+          "answers": [
+            "A: 140",
+            "B: 130",
+            "C: 120",
+            "D: 125"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "filename": "passendeschuhe_Aufgabe.pdf",
+    "title": "Passende Schuhe",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Das Deutsche Schuhinstitut hat genauso viele Frauen wie Männer befragt, ob ihre Schuhe zu klein, passend oder zu groß sind (siehe Abbildung). Die Befragungs ergebnisse beziehen sich jeweils auf 100 Frauen und 100 Männer.",
+      "image": "passendeschuhe_Aufgabe_1.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "In einer Zeitung steht zu dieser Grafik: '80 Prozent aller Befragten tragen Schuhe, die ihnen nicht passen.' Welche der folgenden Aussagen ist falsch?",
+          "answers": [
+            "A: Nein, es sind sogar mehr als 80% aller Befragten.",
+            "B: Ja, es sind soga mehr als 80 %.",
+            "C: Nein, nur bei den Frauen sind es genau 80 %.",
+            "D: Nein, denn es tragen nur 80 % aller Frauen keine passenden Schuhe. Bei den Männern sind es sogar 85 %."
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "description": "Die im Balkendiagramm dargestellten Befragungsergebnisse der Frauen und Männer sollen in ein gemeinsames Kreisdiagramm übertragen werden (siehe Abbildung 2).",
+      "image": "passendeschuhe_Aufgabe_2.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Wie viel Grad muss der Kreisausschnitt für den Anteil der Männer haben, denen die Schuhe zu groß sind?",
+          "answers": [
+            "A: 37,5°",
+            "B: 75°",
+            "C: 135°",
+            "D: 270°"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

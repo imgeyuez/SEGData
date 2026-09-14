@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "HalberPreis_Aufgabe.pdf",
+    "title": "Halber Preis",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Zu sehen sind Eintritsprieise.",
+      "image": "HalberPreis_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Was ist der neue Preis für den Eintritt für Erwachsene?",
+          "answers": [
+            "A: 10,00 €",
+            "B: 5,50 €",
+            "C: 5,00 €",
+            "D: 7,80 €"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Was ist der neue Preis für den Eintritt für Kinder?",
+          "answers": [
+            "A: 3,00 €",
+            "B: 11,00 €",
+            "C: 3,90 €",
+            "D: 4,80 €"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

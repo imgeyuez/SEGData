@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "wuerfelnmitquader_Aufgabe.pdf",
+    "title": "Würfeln mit Quader",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Auf die Seitenflächen eines Quaders werden die Augenzahlen 1 bis 6 geschrieben. Nach 1000-fachem Werfen des Quaders ergab sich eine Häufigkeitstabelle für die oben liegende Augenzahl, wie angezeigt.",
+      "image": "wuerfelnmitquader_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Was ist die beste Schätzung für die Wahrscheinlichkeiten der sechs Augenzahlen beim Werfen dieses Quaders? Beachte dabei die Symmetrie des Quaders. Gib für die jeweiligen Augenzahlen den richtigen Wahrscheinlichkeitswert an. Orientiere dich an der Tabelle",
+          "answers": [
+            "A: Augenzahl 1: 50 % Augenzahl 2: 15 % Augenzahl 3: 25 % Augenzahl 4: 25 % Augenzahl 5: 15 % Augenzahl 6: 50 %",
+            "B: Augenzahl 1: 25 % Augenzahl 2: 8 % Augenzahl 3: 17 % Augenzahl 4: 17 % Augenzahl 5: 8 % Augenzahl 6: 25 %",
+            "C: Augenzahl 1: 5 % Augenzahl 2: 8 % Augenzahl 3: 17 % Augenzahl 4: 18 % Augenzahl 5: 8 % Augenzahl 6: 55 %",
+            "D: Augenzahl 1: 25 % Augenzahl 2: 25 % Augenzahl 3: 25 % Augenzahl 4: 25 % Augenzahl 5: 25 % Augenzahl 6: 25 %"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

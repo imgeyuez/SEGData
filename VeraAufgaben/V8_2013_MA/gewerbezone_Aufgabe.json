@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "gewerbezone_Aufgabe.pdf",
+    "title": "Gewerbezone",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Neben einer Bundesstraße wird mit einem Plakat für eine neue Gewerbezone geworben. Hinweis: 1 ha = 10 000 m².",
+      "image": "gewerbezone_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Gib an, in wie viele Grundstücke sich die noch verfügbare Fläche höchstens aufteilen lässt.",
+          "answers": [
+            "A: In höchstens 3 Grundstücke",
+            "B: In höchstens 5 Grundstücke",
+            "C: In höchstens 6 Grundstücke",
+            "D: In höchstens 7 Grundstücke"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

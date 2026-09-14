@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "drehkoerper_Aufgabe.pdf",
+    "title": "Drehkörper",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Ein Körper, der aus fünf gleich großen Würfeln besteht, wird gedreht.",
+      "image": "drehkoerper_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welcher der folgenden Körper kann sich ergeben?",
+          "answers": [
+            "A: Option 1",
+            "B: Option 2",
+            "C: Option 3",
+            "D: Option 4"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "quader_Aufgabe.pdf",
+    "title": "Quader",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Die Abbildung zeigt einen Holzquader. Die Abbildung ist nicht maßgetreu.",
+      "image": "quader_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Berechne das Volumen dieses Quaders.",
+          "answers": [
+            "A: V = 120 cm³",
+            "B: V = 15 cm³",
+            "C: V = 24 cm³",
+            "D: V = 20 cm³"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Alle Seiten des Quaders sollen mit Papier beklebt werden. Wie viel Papier wird (mindestens) benötigt?",
+          "answers": [
+            "A: 45 cm²",
+            "B: 74 cm²",
+            "C: 120 cm²",
+            "D: 148 cm²"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

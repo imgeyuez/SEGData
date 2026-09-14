@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "HaustiereGewichtvergleichen_Aufgabe.pdf",
+    "title": "Haustiere Gewicht vergleichen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Die Kinder vergleichen das Gewicht ihrer Hunde.",
+      "image": "HaustiereGewichtvergleichen_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Welcher Hund ist am leichtesten?",
+          "answers": [
+            "A: Maya",
+            "B: Hasso",
+            "C: Bella",
+            "D: Putzi"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Rocco wiegt 800 g mehr als Bella. Wie viel wiegt Rocco?",
+          "answers": [
+            "A: Rocco wiegt 7,7 kg.",
+            "B: Rocco wiegt 12 kg.",
+            "C: Rocco wiegt 26,3 kg.",
+            "D: Rocco wiegt 12,1 kg."
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

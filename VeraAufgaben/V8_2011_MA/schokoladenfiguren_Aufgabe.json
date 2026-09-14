@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "filename": "schokoladenfiguren_Aufgabe.pdf",
+    "title": "Schokoladenfiguren",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "In der Zeitung war über die Produktion von Schokoladenfiguren zu lesen. Das Kreisdiagramm zeigt die Anteile der Weihnachtsmänner und Osterhasen an der Produktion von Schokoladenfiguren.",
+      "image": "schokoladenfiguren_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Gib die ungefähre Anzahl der Osterhasen aus dunkler Schokolade an.",
+          "answers": [
+            "A: Etwa 90 Millionen Osterhasen waren aus dunkler Schokolade",
+            "B: Etwa 57 Millionen Osterhasen waren aus dunkler Schokolade",
+            "C: Etwa 43 Millionen Osterhasen waren aus dunkler Schokolade",
+            "D: Etwa 10 Millionen Osterhasen waren aus dunkler Schokolade"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Wie viele Schokoladenfiguren insgesamt (Osterhasen und Weihnachtsmänner) wurden etwa produziert?",
+          "answers": [
+            "A: 100 Millionen",
+            "B: 125 Millionen",
+            "C: 150 Millionen",
+            "D: 175 Millionen",
+            "E: 200 Millionen"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

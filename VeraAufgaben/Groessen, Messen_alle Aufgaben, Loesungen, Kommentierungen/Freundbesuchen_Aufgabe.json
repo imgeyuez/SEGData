@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "Freundbesuchen_Aufgabe.pdf",
+    "title": "Freund besuchen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Ingo ist nachmittags bei Ali. Es ist eine Uhrzeit angegeben. Ingo muss um 15 Uhr nach Hause gehen.",
+      "image": "Freundbesuchen_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Wie lange kann er noch bleiben?",
+          "answers": [
+            "A: Er kann noch 1 Stunde und 30 Minuten bleiben.",
+            "B: Er kann noch 1 Stunde und 0 Minuten bleiben.",
+            "C: Er kann noch 0 Stunde und 30 Minuten bleiben.",
+            "D: Er kann noch 1 Stunde und 0 Minuten bleiben."
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

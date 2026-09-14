@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filename": "Körper füllen.pdf",
+    "title": "Körper füllen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/4.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Ein Quader, dessen Kanten dick gezeichnet sind, ist mit einigen kleinen 1-cm³-Würfeln gefüllt.",
+      "image": "Körper füllen.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Wie groß ist das Volumen des Quaders insgesamt?",
+          "answers": [
+            "A: 14 cm³",
+            "B: 16 cm³",
+            "C: 74 cm³",
+            "D: 90 cm³",
+            "E: 126 cm³"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filename": "SpiegelbilderGeobrett_Aufgabe.pdf",
+    "title": "Spiegelbilder Geobrett",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY) – https://creativecommons.org/licenses/by/3.0/de/legalcode"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Zeichne die Spiegelbilder zu den gegebenen Figuren auf dem Geobrett.",
+      "image": "SpiegelbilderGeobrett_Aufgabe.eps",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Zeichne das Spiegelbild zu Figur a) und beschreibe es.",
+          "answers": [],
+          "gold_answer": ""
+        },
+        {
+          "id": "Q2",
+          "text": "Zeichne das Spiegelbild zu Figur b) und beschreibe es.",
+          "answers": [],
+          "gold_answer": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "filename": "gymnastics_Aufgabe.pdf",
+    "title": "Gymnastics",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Read the texts about gymnastic exercises (1 to 6) and match them with one of the pictures (a to g). One picture is not used.",
+      "image": "gymnastics_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Match text 1 with a picture a–g.",
+          "answers": [
+            "A: a)",
+            "B: b)",
+            "C: c)",
+            "D: d)",
+            "E: e)",
+            "F: f)",
+            "G: g)"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Match text 2 with a picture a–g.",
+          "answers": [
+            "A: a)",
+            "B: b)",
+            "C: c)",
+            "D: d)",
+            "E: e)",
+            "F: f)",
+            "G: g)"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Match text 3 with a picture a–g.",
+          "answers": [
+            "A: a)",
+            "B: b)",
+            "C: c)",
+            "D: d)",
+            "E: e)",
+            "F: f)",
+            "G: g)"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Match text 4 with a picture a–g.",
+          "answers": [
+            "A: a)",
+            "B: b)",
+            "C: c)",
+            "D: d)",
+            "E: e)",
+            "F: f)",
+            "G: g)"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Match text 5 with a picture a–g.",
+          "answers": [
+            "A: a)",
+            "B: b)",
+            "C: c)",
+            "D: d)",
+            "E: e)",
+            "F: f)",
+            "G: g)"
+          ],
+          "gold_answer": "F"
+        },
+        {
+          "id": "Q6",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Match text 6 with a picture a–g.",
+          "answers": [
+            "A: a)",
+            "B: b)",
+            "C: c)",
+            "D: d)",
+            "E: e)",
+            "F: f)",
+            "G: g)"
+          ],
+          "gold_answer": "G"
+        }
+      ]
+    }
+  ]
+}

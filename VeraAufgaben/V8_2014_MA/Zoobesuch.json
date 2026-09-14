@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "Zoobesuch.pdf",
+    "title": "Zoobesuch",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/4.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Susann fährt mit dem Fahrrad zügig zum Zoo. Am Eingang muss sie einige Zeit warten, um eine Eintrittskarte zu kaufen. Dann geht sie zu Fuß weiter durch den Zoo.",
+      "image": "Zoobesuch.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "graph and pattern analysis",
+          "text": "Welches Diagramm passt am besten zu diesem Vorgang?",
+          "answers": [
+            "A: Diagramm oben links",
+            "B: Diagramm oben rechts",
+            "C: Diagramm unten links",
+            "D: Diagramm unten rechts"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

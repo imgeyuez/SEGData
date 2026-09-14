@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "geschichtezurgraphik_Aufgabe.pdf",
+    "title": "Geschichte zur Graphik",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Eine der folgenden Beschreibungen wurde hier graphisch dargestellt.",
+      "image": "geschichtezurgraphik_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Beschreibung passt zur dargestellten Graphik?",
+          "answers": [
+            "A: Paula und Sepp machen eine Bergtour. Zuerst steigt der Weg nur wenig an und die beiden kommen gut voran. Dann ist der Weg eine Zeit lang eben. Zum Schluss ist der Weg bis zum Gipfel ziemlich steil und Paula und Sepp kommen nur langsam voran.",
+            "B: Herr Heuer kauft Aktien. Zuerst steigt der Wert der Aktien. Dann bleibt er eine Zeit lang konstant. Schließlich steigt der Wert steil an und Herr Heuer könnte die Aktien mit Gewinn verkaufen.",
+            "C: Lisa und Sven machen eine Radtour. Nach einiger Zeit hat Sven eine Panne und sie müssen sein Rad reparieren. Für den Rest der Strecke fahren beide mit höherer Geschwindigkeit, um die versäumte Zeit aufzuholen.",
+            "D: Lars ist auf dem Weg zur Schule. Unterwegs fällt ihm ein, dass er seinen Taschenrechner vergessen hat, den er für die Mathearbeit braucht. Er läuft zurück nach Hause, nimmt den Taschenrechner und muss sich jetzt beeilen, um pünktlich zur Schule zu kommen."
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

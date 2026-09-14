@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "filename": "zahlensuche_Aufgabe.pdf",
+    "title": "Zahlensuche",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "In der Tabelle sind jeweils eine natürliche Zahl, ihr Vorgänger (die vorangehende natürliche Zahl) und das Doppelte dieses Vorgängers einander zugeordnet. ",
+      "image": "zahlensuche_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Welche Werte fehlen in der ersten auszufüllenden Spalte?",
+          "answers": [
+            "A: 3 und 16",
+            "B: 8 und 16",
+            "C: 7 und 14",
+            "D: 5 und 10"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Welche Werte fehlen in der zweiten auszufüllenden Spalte?",
+          "answers": [
+            "A: 10 und 16",
+            "B: 8 und 16",
+            "C: 10 und 18",
+            "D: 5 und 10"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Welche Werte fehlen in der dritten auszufüllenden Spalte?",
+          "answers": [
+            "A: 10 und 16",
+            "B: 14 und 15",
+            "C: 10 und 9",
+            "D: 16 und 15"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "darstellungindiagrammen_Aufgabe.pdf",
+    "title": "Darstellung in Diagrammen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Die Firma Fruktia stellt die Umsätze ihres neuen Zitronengetränks in einem Diagramm dar.",
+      "image": "darstellungindiagrammen_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "In welchem Jahr sind 65 Millionen Flaschen verkauft worden?",
+          "answers": [
+            "A: Im Jahr 2007 sind 65 Millionen Flaschen verkauft worden.",
+            "B: Im Jahr 2008 sind 65 Millionen Flaschen verkauft worden.",
+            "C: Im Jahr 2009 sind 65 Millionen Flaschen verkauft worden.",
+            "D: Im Jahr 2010 sind 65 Millionen Flaschen verkauft worden."
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

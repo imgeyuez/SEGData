@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "filename": "MiniSagas_Aufgabe.pdf",
+        "title": "Mini Sagas",
+        "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de; http://www.dailylit.com/forums/other/etc/2009/03/18/50-word-challenge (18.03.2009)",
+        "class": "k.A."
+    },
+    "tasks": [
+        {
+            "id": "T1",
+            "description": "Read the mini sagas (0 to 3) and match each text to one of the topics (a to e). Each topic may be used only once. There is one more topic than you need. Text 0 is an example and matches with the topic 'Pets'.",
+            "image": "MiniSagas_Aufgabe.png",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Mini Saga 1: Match the text to the correct topic.",
+                    "answers": [
+                        "A: A Dream",
+                        "B: Stars",
+                        "C: Teamwork",
+                        "D: Punishment"
+                    ],
+                    "gold_answer": "C"
+                },
+                {
+                    "id": "Q2",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Mini Saga 2: Match the text to the correct topic.",
+                    "answers": [
+                        "A: A Dream",
+                        "B: Stars",
+                        "C: Teamwork",
+                        "D: Punishment"
+                    ],
+                    "gold_answer": "A"
+                },
+                {
+                    "id": "Q3",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Mini Saga 3: Match the text to the correct topic.",
+                    "answers": [
+                        "A: A Dream",
+                        "B: Stars",
+                        "C: Teamwork",
+                        "D: Punishment"
+                    ],
+                    "gold_answer": "D"
+                }
+            ]
+        }
+    ]
+}

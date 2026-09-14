@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "Hauptstädte.pdf",
+    "title": "Hauptstädte",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/4.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Die Karte zeigt die europäischen Hauptstädte. In der linken unteren Ecke ist der Maßstab dieser Karte angegeben.",
+      "image": "Hauptstädte.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Gib an, wie lang die Strecke (Luftlinie) zwischen Berlin und Athen in der Wirklichkeit ist.",
+          "answers": [
+            "A: ca. 1850 km",
+            "B: ca. 1000 km",
+            "C: ca. 925 km",
+            "D: ca. 2450 km"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Welche der folgenden Hauptstädte ist etwa 1100 km von Berlin entfernt?",
+          "answers": [
+            "A: Reykjavik",
+            "B: Luxemburg",
+            "C: Helsinki",
+            "D: Wilna"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

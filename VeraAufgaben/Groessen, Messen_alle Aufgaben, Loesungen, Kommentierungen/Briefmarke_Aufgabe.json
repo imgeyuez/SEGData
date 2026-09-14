@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "Briefmarke_Aufgabe.pdf",
+    "title": "Briefmarke",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Wie breit ist die Briefmarke ungefähr?",
+      "image": "Briefmarke_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Kreuze an.",
+          "answers": [
+            "A: 4 mm breit",
+            "B: 4 cm breit",
+            "C: 4 m breit",
+            "D: 4 km breit"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

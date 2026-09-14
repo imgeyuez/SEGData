@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "imkreislaufen_Aufgabe.pdf",
+    "title": "Im Kreis laufen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Paul läuft im Abstand von ungefähr einem Meter um ein kreisrundes Iglu herum. d: Entfernung zum Startpunkt (Luftlinie). t: benötigte Zeit.",
+      "image": "imkreislaufen_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "graph and pattern analysis",
+          "text": "Welcher Graph passt am besten, um diese Bewegung darzustellen?",
+          "answers": [
+            "A: Graph A",
+            "B: Graph B",
+            "C: Graph C",
+            "D: Graph D"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "Rauminhalt von Prismen.pdf",
+    "title": "Rauminhalt von Prismen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/4.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Die Rauminhalte der zwei Körper A und B sollen verglichen werden, ohne die beiden Rauminhalte konkret auszurechnen. Die Grundfläche von Körper A ist ein Quadrat mit 10 cm Kantenlänge, die Grundfläche G von Körper B ist ein Sechseck mit 100 cm² Flächeninhalt.",
+      "image": "Rauminhalt von Prismen.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Welche der folgenden Aussagen ist richtig?",
+          "answers": [
+            "A: Der Rauminhalt von Körper A ist größer als der Rauminhalt von Körper B.",
+            "B: Der Rauminhalt von Körper A ist gleich dem Rauminhalt von Körper B.",
+            "C: Der Rauminhalt von Körper A ist kleiner als der Rauminhalt von Körper B.",
+            "D: Man kann die Rauminhalte der zwei Körper nur vergleichen, indem man sie konkret ausrechnet."
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

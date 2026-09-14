@@ -1,0 +1,177 @@
+{
+    "metadata": {
+        "filename": "SchoolRules_Aufgabe.pdf",
+        "title": "School Rules",
+        "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+        "class": "k.A."
+    },
+    "tasks": [
+        {
+            "id": "T1",
+            "description": "Look at the signs and read the rules. Then match each of the signs (0 to 8) with one of the rules (a to k). You may use each letter only once. There are two more rules than you need. There is an example at the beginning (0).",
+            "image": "SchoolRules_Aufgabe.png",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which rule matches sign 1?",
+                    "answers": [
+                        "A: Students are not allowed to wear headphones in school.",
+                        "B: Mobile phones are not permitted in school.",
+                        "C: Bicycles are not allowed on the school grounds.",
+                        "D: Skateboards are forbidden on the school grounds.",
+                        "E: Students are not allowed to leave the school grounds during school hours.",
+                        "F: Shouting is not allowed in this part of the school building.",
+                        "G: Food and drink are not permitted in the school library.",
+                        "H: Bullying is not tolerated in this school.",
+                        "I: Ball games are not allowed on the school grounds.",
+                        "J: Pets are not permitted on the school grounds.",
+                        "K: Students are not allowed to throw snowballs."
+                    ],
+                    "gold_answer": "D"
+                },
+                {
+                    "id": "Q2",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which rule matches sign 2?",
+                    "answers": [
+                        "A: Students are not allowed to wear headphones in school.",
+                        "B: Mobile phones are not permitted in school.",
+                        "C: Bicycles are not allowed on the school grounds.",
+                        "D: Skateboards are forbidden on the school grounds.",
+                        "E: Students are not allowed to leave the school grounds during school hours.",
+                        "F: Shouting is not allowed in this part of the school building.",
+                        "G: Food and drink are not permitted in the school library.",
+                        "H: Bullying is not tolerated in this school.",
+                        "I: Ball games are not allowed on the school grounds.",
+                        "J: Pets are not permitted on the school grounds.",
+                        "K: Students are not allowed to throw snowballs."
+                    ],
+                    "gold_answer": "A"
+                },
+                {
+                    "id": "Q3",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which rule matches sign 3?",
+                    "answers": [
+                        "A: Students are not allowed to wear headphones in school.",
+                        "B: Mobile phones are not permitted in school.",
+                        "C: Bicycles are not allowed on the school grounds.",
+                        "D: Skateboards are forbidden on the school grounds.",
+                        "E: Students are not allowed to leave the school grounds during school hours.",
+                        "F: Shouting is not allowed in this part of the school building.",
+                        "G: Food and drink are not permitted in the school library.",
+                        "H: Bullying is not tolerated in this school.",
+                        "I: Ball games are not allowed on the school grounds.",
+                        "J: Pets are not permitted on the school grounds.",
+                        "K: Students are not allowed to throw snowballs."
+                    ],
+                    "gold_answer": "G"
+                },
+                {
+                    "id": "Q4",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which rule matches sign 4?",
+                    "answers": [
+                        "A: Students are not allowed to wear headphones in school.",
+                        "B: Mobile phones are not permitted in school.",
+                        "C: Bicycles are not allowed on the school grounds.",
+                        "D: Skateboards are forbidden on the school grounds.",
+                        "E: Students are not allowed to leave the school grounds during school hours.",
+                        "F: Shouting is not allowed in this part of the school building.",
+                        "G: Food and drink are not permitted in the school library.",
+                        "H: Bullying is not tolerated in this school.",
+                        "I: Ball games are not allowed on the school grounds.",
+                        "J: Pets are not permitted on the school grounds.",
+                        "K: Students are not allowed to throw snowballs."
+                    ],
+                    "gold_answer": "B"
+                },
+                {
+                    "id": "Q5",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which rule matches sign 5?",
+                    "answers": [
+                        "A: Students are not allowed to wear headphones in school.",
+                        "B: Mobile phones are not permitted in school.",
+                        "C: Bicycles are not allowed on the school grounds.",
+                        "D: Skateboards are forbidden on the school grounds.",
+                        "E: Students are not allowed to leave the school grounds during school hours.",
+                        "F: Shouting is not allowed in this part of the school building.",
+                        "G: Food and drink are not permitted in the school library.",
+                        "H: Bullying is not tolerated in this school.",
+                        "I: Ball games are not allowed on the school grounds.",
+                        "J: Pets are not permitted on the school grounds.",
+                        "K: Students are not allowed to throw snowballs."
+                    ],
+                    "gold_answer": "C"
+                },
+                {
+                    "id": "Q6",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which rule matches sign 6?",
+                    "answers": [
+                        "A: Students are not allowed to wear headphones in school.",
+                        "B: Mobile phones are not permitted in school.",
+                        "C: Bicycles are not allowed on the school grounds.",
+                        "D: Skateboards are forbidden on the school grounds.",
+                        "E: Students are not allowed to leave the school grounds during school hours.",
+                        "F: Shouting is not allowed in this part of the school building.",
+                        "G: Food and drink are not permitted in the school library.",
+                        "H: Bullying is not tolerated in this school.",
+                        "I: Ball games are not allowed on the school grounds.",
+                        "J: Pets are not permitted on the school grounds.",
+                        "K: Students are not allowed to throw snowballs."
+                    ],
+                    "gold_answer": "I"
+                },
+                {
+                    "id": "Q7",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which rule matches sign 7?",
+                    "answers": [
+                        "A: Students are not allowed to wear headphones in school.",
+                        "B: Mobile phones are not permitted in school.",
+                        "C: Bicycles are not allowed on the school grounds.",
+                        "D: Skateboards are forbidden on the school grounds.",
+                        "E: Students are not allowed to leave the school grounds during school hours.",
+                        "F: Shouting is not allowed in this part of the school building.",
+                        "G: Food and drink are not permitted in the school library.",
+                        "H: Bullying is not tolerated in this school.",
+                        "I: Ball games are not allowed on the school grounds.",
+                        "J: Pets are not permitted on the school grounds.",
+                        "K: Students are not allowed to throw snowballs."
+                    ],
+                    "gold_answer": "H"
+                },
+                {
+                    "id": "Q8",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which rule matches sign 8?",
+                    "answers": [
+                        "A: Students are not allowed to wear headphones in school.",
+                        "B: Mobile phones are not permitted in school.",
+                        "C: Bicycles are not allowed on the school grounds.",
+                        "D: Skateboards are forbidden on the school grounds.",
+                        "E: Students are not allowed to leave the school grounds during school hours.",
+                        "F: Shouting is not allowed in this part of the school building.",
+                        "G: Food and drink are not permitted in the school library.",
+                        "H: Bullying is not tolerated in this school.",
+                        "I: Ball games are not allowed on the school grounds.",
+                        "J: Pets are not permitted on the school grounds.",
+                        "K: Students are not allowed to throw snowballs."
+                    ],
+                    "gold_answer": "J"
+                }
+            ]
+        }
+    ]
+}

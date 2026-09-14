@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "Musterfolge_Aufgabe.pdf",
+    "title": "Musterfolge",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Für alle drei Reihen gilt dieselbe Regel.",
+      "image": "Musterfolge_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Welche Zahl muss in der 2. Reihe ergänzt werden?",
+          "answers": [
+            "A: 32",
+            "B: 37",
+            "C: 30",
+            "D: 28"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Welche Zahl muss in der 3. Reihe ergänzt werden?",
+          "answers": [
+            "A: 60",
+            "B: 55",
+            "C: 63",
+            "D: 58"
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

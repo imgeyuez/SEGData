@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "filename": "fahrradtour_Aufgabe.pdf",
+    "title": "Fahrradtour",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Max und Julia haben in den Ferien eine Radtour von Passau nach Wien unternommen. Die Längen ihrer Tagesetappen hat Julia in diesem Säulendiagramm dargestellt. Max verrät einem Freund: 'Weil Julia einen sportlichen Eindruck machen will, hat sie die Säule für den letzten Tag einfach weggelassen. Am letzten Tag sind wir nämlich nur 20 km gefahren.'",
+      "image": "fahrradtour_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Wie viele Kilometer haben Max und Julia auf der ganzen Tour durchschnittlich pro Tag zurückgelegt?",
+          "answers": [
+            "A: 50 km",
+            "B: 55 km",
+            "C: 58 km",
+            "D: 60 km"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Um wie viel wäre die durchschnittliche Strecke pro Tag länger, wenn Max und Julia jeden Tag 10 km mehr gefahren wären?",
+          "answers": [
+            "A: 10/7 km",
+            "B: 10 km",
+            "C: 30 km",
+            "D: 60 km",
+            "C: 70 km"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

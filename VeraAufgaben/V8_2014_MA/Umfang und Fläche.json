@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "Umfang und Fläche.pdf",
+    "title": "Umfang und Fläche",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/4.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Gegeben ist die Figur. Beantworte die folgenden Fragen.",
+      "image": "Umfang und Fläche.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Wie lang ist der Umfang der dick umrandeten Figur?",
+          "answers": [
+            "A: 36 cm",
+            "B: 12 cm",
+            "C: 28 cm",
+            "D: 80 cm"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Was ist der Flächeninhalt der dick umrandeten Figur?",
+          "answers": [
+            "A: 36 cm²",
+            "B: 45 cm²",
+            "C: 54 cm²",
+            "D: 40 cm²"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

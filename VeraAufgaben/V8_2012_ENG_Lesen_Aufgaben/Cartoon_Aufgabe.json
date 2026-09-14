@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "filename": "Cartoon_Aufgabe.pdf",
+        "title": "Cartoon",
+        "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de; Cartoon: © Royston Robertson. All rights reserved.",
+        "class": "k.A."
+    },
+    "tasks": [
+        {
+            "id": "T1",
+            "description": "Look at the cartoon.",
+            "image": "Cartoon_Aufgabe.png",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": false,
+                    "question_type": "text and diagram understanding",
+                    "text": "Which answer expresses the message of the cartoon?",
+                    "answers": [
+                        "A: The cartoon illustrates that people are always in a hurry.",
+                        "B: The cartoon illustrates that people spend too much time in pubs.",
+                        "C: The cartoon illustrates that people prefer virtual friends to real ones.",
+                        "D: The cartoon illustrates that people are careless when using the internet."
+                    ],
+                    "gold_answer": "C"
+                }
+            ]
+        }
+    ]
+}

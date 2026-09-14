@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "harzwanderung_Aufgabe.pdf",
+    "title": "Harzwanderung",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Peter und Markus planen eine Wanderung durch den Harz.",
+      "image": "harzwanderung_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Die Wanderung soll in Stolberg beginnen und auf einem der eingezeichneten Wanderwege nach Halberstadt führen (siehe Skizze). Gegeben sind verschiedene mögliche Wanderrouten. Eine davon ist falsch. Welche?",
+          "answers": [
+            "A: Stolberg --> Güntersberge --> Gernrode --> Harzgerode --> Quedlinburg",
+            "B: Stolberg --> Harzgerode --> Gernrode --> Thale --> Halberstadt",
+            "C: Stolberg --> Güntersberge --> Gernrode --> Blankenburg --> Halberstadt",
+            "D: Stolberg --> Harzgerode --> Gernrode --> Quedlinburg --> Halberstadt"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Aus wie vielen verschiedenen Wanderrouten (siehe Skizze) können Peter und Markus insgesamt wählen, um von Stolberg über Gernrode nach Halberstadt zu kommen?",
+          "answers": [
+            "A: 4 verschiedene Wanderrouten",
+            "B: 6 verschiedene Wanderrouten",
+            "C: 3 verschiedene Wanderrouten",
+            "D: 12 verschiedene Wanderrouten"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

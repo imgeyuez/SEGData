@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "Komma_Aufgabe.pdf",
+    "title": "Komma",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Es ist Geld abgedruckt. Schreibe den Betrag mit Komma.",
+      "image": "Komma_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "quantitative reasoning",
+          "text": "Wie viel Euro und Cent sind es?",
+          "answers": [
+            "A: Es sind 5,05 €",
+            "B: Es sind 8,05 €",
+            "C: Es sind 10,00 €",
+            "D: Es sind 10,05 €."
+          ],
+          "gold_answer": "D"
+        }
+      ]
+    }
+  ]
+}

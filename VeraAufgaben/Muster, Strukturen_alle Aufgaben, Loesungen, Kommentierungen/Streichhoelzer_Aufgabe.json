@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "Streichhoelzer_Aufgabe.pdf",
+    "title": "Streichhölzer",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Hier siehst du eine Folge von Figuren.",
+      "image": "Streichhoelzer_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Welche Rechnung ist die richtige für Figur 4?",
+          "answers": [
+            "A: 4 x 2 + 2",
+            "B: 3 x 2 + 2",
+            "C: 4 x 3 + 2",
+            "D: 3 x 4 + 3"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Wie viele Streichhölzchen würde die 6. Figur der Musterfolge benötogen?",
+          "answers": [
+            "A: 12",
+            "B: 20",
+            "C: 14",
+            "D: 16"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

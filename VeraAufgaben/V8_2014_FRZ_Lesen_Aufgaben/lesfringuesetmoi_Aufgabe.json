@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "filename": "lesfringuesetmoi_Aufgabe.pdf",
+    "title": "Les fringues et moi",
+    "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de; Text:  in Anlehnung an « Quel est ton rapport aux fringues ? » Le monde des ados, N° 233, 9.6.2010, p. 43, Fleurus Presse",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Dans un magazine d'ados, trois filles parlent de leur manière de s'habiller. Lis les textes et regarde les images. Puis remplis le tableau. Attention, il y a une image de trop.",
+      "image": "lesfringuesetmoi_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Quelle image correspond à Malika?",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Quelle image correspond à Juliette?",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Quelle image correspond à Marielle?",
+          "answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "punktgenau_Aufgabe.pdf",
+    "title": "Punktgenau",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Gegeben ist ein Koordinatensystem. Bearbeite die folgenden Aufgaben.",
+      "image": "punktgenau_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "graph and pattern analysis",
+          "text": "Welche Koordinaten hat der Punkt P?",
+          "answers": [
+            "A: P (1 | −2)",
+            "B: P (2 | 1)",
+            "C: P (−2 | 1)",
+            "D: P (−1 | 2)"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}

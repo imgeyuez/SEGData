@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "filename": "Timetable_Aufgabe.pdf",
+        "title": "Timetable",
+        "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de; http://www.bluestarbus.co.uk/pdf/bs1/pdf (06.07.2010)",
+        "class": "k.A."
+    },
+    "tasks": [
+        {
+            "id": "T1",
+            "description": "Look at the bus timetable for Sundays. Then answer the questions using 1 to 5 words/numbers.",
+            "image": "Timetable_Aufgabe.png",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "added_multiplechoice": true,
+                    "question_type": "text and diagram understanding",
+                    "text": "You missed the 9.10 bus to Winchester. When is the next one?",
+                    "answers": [
+                        "A: 9.23",
+                        "B: 9.40",
+                        "C: 9.53",
+                        "D: 10.10"
+                    ],
+                    "gold_answer": "B"
+                },
+                {
+                    "id": "Q2",
+                    "added_multiplechoice": true,
+                    "question_type": "text and diagram understanding",
+                    "text": "You take the bus at 17.10. When does it arrive in Winchester?",
+                    "answers": [
+                        "A: 18.25",
+                        "B: 17.40",
+                        "C: 17.55",
+                        "D: 19.10"
+                    ],
+                    "gold_answer": "C"
+                }
+            ]
+        }
+    ]
+}

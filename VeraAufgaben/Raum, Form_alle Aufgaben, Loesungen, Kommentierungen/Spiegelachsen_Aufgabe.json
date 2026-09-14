@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "filename": "Spiegelachsen_Aufgabe.pdf",
+    "title": "Spiegelachsen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Prüfe für jede Figur, ob sie keine, eine oder mehrere Spiegelachsen hat.",
+      "image": "Spiegelachsen_Aufgabe_1.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Hat die Figur keine, eine oder mehrere Spiegelachsen?",
+          "answers": [
+            "A: Keine Spiegelachsen",
+            "B: Eine Spiegelachse",
+            "C: Mehrere Spiegelachsen"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "description": "Prüfe für jede Figur, ob sie keine, eine oder mehrere Spiegelachsen hat.",
+      "image": "Spiegelachsen_Aufgabe_2.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Hat die Figur keine, eine oder mehrere Spiegelachsen?",
+          "answers": [
+            "A: Keine Spiegelachsen",
+            "B: Eine Spiegelachse",
+            "C: Mehrere Spiegelachsen"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "description": "Prüfe für jede Figur, ob sie keine, eine oder mehrere Spiegelachsen hat.",
+      "image": "Spiegelachsen_Aufgabe_3.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Hat die Figur keine, eine oder mehrere Spiegelachsen?",
+          "answers": [
+            "A: Keine Spiegelachsen",
+            "B: Eine Spiegelachse",
+            "C: Mehrere Spiegelachsen"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "description": "Prüfe für jede Figur, ob sie keine, eine oder mehrere Spiegelachsen hat.",
+      "image": "Spiegelachsen_Aufgabe_4.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Hat die Figur keine, eine oder mehrere Spiegelachsen?",
+          "answers": [
+            "A: Keine Spiegelachsen",
+            "B: Eine Spiegelachse",
+            "C: Mehrere Spiegelachsen"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "description": "Prüfe für jede Figur, ob sie keine, eine oder mehrere Spiegelachsen hat.",
+      "image": "Spiegelachsen_Aufgabe_5.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Hat die Figur keine, eine oder mehrere Spiegelachsen?",
+          "answers": [
+            "A: Keine Spiegelachsen",
+            "B: Eine Spiegelachse",
+            "C: Mehrere Spiegelachsen"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "description": "Prüfe für jede Figur, ob sie keine, eine oder mehrere Spiegelachsen hat.",
+      "image": "Spiegelachsen_Aufgabe_6.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Hat die Figur keine, eine oder mehrere Spiegelachsen?",
+          "answers": [
+            "A: Keine Spiegelachsen",
+            "B: Eine Spiegelachse",
+            "C: Mehrere Spiegelachsen"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

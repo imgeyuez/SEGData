@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "filename": "Einkauf_Aufgabe.pdf",
+    "title": "Einkauf",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Gib an, ob das Geld für den Einkauf reicht.",
+      "image": "Einkauf_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Du kaufst 2 kg Äpfel. Reichen 2 € für den Einkauf?",
+          "answers": [
+            "A: ja",
+            "B: nein"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Du kaufst 2 kg Paprika. Reichen 8 € für den Einkauf?",
+          "answers": [
+            "A: ja",
+            "B: nein"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Du kaufst eine Gurke und 1 kg Äpfel. Reichen 2 € für den Einkauf?",
+          "answers": [
+            "A: ja",
+            "B: nein"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Du kaufst einen Blumenkohl und einen Salatkopf. Reichen 3 € für den Einkauf?",
+          "answers": [
+            "A: ja",
+            "B: nein"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Du kaufst 1 kg Paprika und einen Salatkopf. Reichen 4 € für den Einkauf?",
+          "answers": [
+            "A: ja",
+            "B: nein"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

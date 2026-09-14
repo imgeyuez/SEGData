@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "Holzstaebchen_Aufgabe.pdf",
+    "title": "Holzstäbchen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Niki legt mit Holzstäbchen ein Muster und schreibt die passenden Aufgaben darunter.",
+      "image": "Holzstaebchen_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Wie lautet die Aufgabe zum 4. Bild?",
+          "answers": [
+            "A: 4 x 3 + 1 = 13",
+            "B: 4 x 3 = 12",
+            "C: 4 x 4 = 16",
+            "D: 1 + 2 = 3"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "graph and pattern analysis",
+          "text": "Wie viele Hölzchen muss Niki für jede weitere Figur dazulegen?",
+          "answers": [
+            "A: 3 Hölzchen",
+            "B: 2 Hölzchen",
+            "C: 6 Hölzchen",
+            "D: 4 Hölzchen"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

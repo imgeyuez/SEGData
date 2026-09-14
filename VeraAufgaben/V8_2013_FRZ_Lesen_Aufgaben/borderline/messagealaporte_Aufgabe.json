@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filename": "messagealaporte_Aufgabe.pdf",
+    "title": "Didaktische Handreichung: Aufgabe Message à la porte",
+    "source": "IQB: Institut zur Qualitätsentwicklung im Bildungswesen. www.iqb.hu-berlin.de"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Tu es chez ton correspondant en France. Vous rentrez de l’école. A la porte de la chambre de ton correspondant vous trouvez le message suivant. Lis le document. Vrai, faux, pas dans le texte? ",
+      "image": "messagealaporte_Aufgabe.eps",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "La mère rentrera plus tard.",
+          "answers": [
+            "A: vrai", 
+            "B: faux", 
+            "C: pas dans le texte"
+          ],
+          "gold_answer": 0
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Lisa aime les steaks hachés.",
+          "answers": [
+            "A: vrai", 
+            "B: faux", 
+            "C: pas dans le texte"
+          ],
+          "gold_answer": 2
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Toute la famille va prendre le repas du soir ensemble.",
+          "answers": [
+            "A: vrai", 
+            "B: faux", 
+            "C: pas dans le texte"
+          ],
+          "gold_answer": 1
+        }
+      ]
+    }
+  ]
+}

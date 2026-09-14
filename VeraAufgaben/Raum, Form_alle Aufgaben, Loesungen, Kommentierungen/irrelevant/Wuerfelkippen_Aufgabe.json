@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "filename": "Wuerfelkippen_Aufgabe.pdf",
+    "title": "Würfel kippen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY) – https://creativecommons.org/licenses/by/3.0/de/legalcode"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Kippe den Würfel in Gedanken einmal nach hinten.",
+      "image": "Wuerfelkippen_Aufgabe.eps",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Male die Fläche an, die dann oben liegen wird und beschreibe, welche es ist.",
+          "answers": [],
+          "gold_answer": "Die vordere Fläche."
+        }
+      ]
+    }
+  ]
+}

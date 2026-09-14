@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "filename": "signsandplaces_Aufgabe.pdf",
+    "title": "Signs and Places",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Read the signs (1 to 8) and match them with one of the places (a to j) where you would see them. You may use each letter only once. There are two more places than you need.",
+      "image": "signsandplaces_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Where would you see the 1. sign?",
+          "answers": [
+            "A: On an airport desk",
+            "B: On a cash machine",
+            "C: In a swimming pool",
+            "D: On the door handle of a hotel",
+            "E: In a café",
+            "F: In a clothes shop",
+            "G: On the window of a bus",
+            "H: In a supermarket",
+            "I: In a park",
+            "J: In a bathroom"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Where would you see the 2. sign?",
+          "answers": [
+            "A: On an airport desk",
+            "B: On a cash machine",
+            "C: In a swimming pool",
+            "D: On the door handle of a hotel",
+            "E: In a café",
+            "F: In a clothes shop",
+            "G: On the window of a bus",
+            "H: In a supermarket",
+            "I: In a park",
+            "J: In a bathroom"
+          ],
+          "gold_answer": "I"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Where would you see the 3. sign?",
+          "answers": [
+            "A: On an airport desk",
+            "B: On a cash machine",
+            "C: In a swimming pool",
+            "D: On the door handle of a hotel",
+            "E: In a café",
+            "F: In a clothes shop",
+            "G: On the window of a bus",
+            "H: In a supermarket",
+            "I: In a park",
+            "J: In a bathroom"
+          ],
+          "gold_answer": "G"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Where would you see the 4. sign?",
+          "answers": [
+            "A: On an airport desk",
+            "B: On a cash machine",
+            "C: In a swimming pool",
+            "D: On the door handle of a hotel",
+            "E: In a café",
+            "F: In a clothes shop",
+            "G: On the window of a bus",
+            "H: In a supermarket",
+            "I: In a park",
+            "J: In a bathroom"
+          ],
+          "gold_answer": "E"
+        },
+        {
+          "id": "Q5",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Where would you see the 5. sign?",
+          "answers": [
+            "A: On an airport desk",
+            "B: On a cash machine",
+            "C: In a swimming pool",
+            "D: On the door handle of a hotel",
+            "E: In a café",
+            "F: In a clothes shop",
+            "G: On the window of a bus",
+            "H: In a supermarket",
+            "I: In a park",
+            "J: In a bathroom"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q6",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Where would you see the 6. sign?",
+          "answers": [
+            "A: On an airport desk",
+            "B: On a cash machine",
+            "C: In a swimming pool",
+            "D: On the door handle of a hotel",
+            "E: In a café",
+            "F: In a clothes shop",
+            "G: On the window of a bus",
+            "H: In a supermarket",
+            "I: In a park",
+            "J: In a bathroom"
+          ],
+          "gold_answer": "F"
+        },
+        {
+          "id": "Q7",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Where would you see the 7. sign?",
+          "answers": [
+            "A: On an airport desk",
+            "B: On a cash machine",
+            "C: In a swimming pool",
+            "D: On the door handle of a hotel",
+            "E: In a café",
+            "F: In a clothes shop",
+            "G: On the window of a bus",
+            "H: In a supermarket",
+            "I: In a park",
+            "J: In a bathroom"
+          ],
+          "gold_answer": "J"
+        },
+        {
+          "id": "Q8",
+          "added_multiplechoice": true,
+          "question_type": "text and diagram understanding",
+          "text": "Where would you see the 8. sign?",
+          "answers": [
+            "A: On an airport desk",
+            "B: On a cash machine",
+            "C: In a swimming pool",
+            "D: On the door handle of a hotel",
+            "E: In a café",
+            "F: In a clothes shop",
+            "G: On the window of a bus",
+            "H: In a supermarket",
+            "I: In a park",
+            "J: In a bathroom"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "filename": "Dreieck im Quadrat.pdf",
+    "title": "Dreieck im Quadrat",
+    "source": "IQB e. V. (CC BY 4.0)"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Auf gleichgroßen quadratischen Zeichenblättern wird ein Muster mit gleichschenkligen Dreiecken entworfen. Das jeweils nachfolgende Zeichenblatt entsteht dadurch, dass man jedes Teilquadrat des Vorgängerblattes durch vier gleichgroße Quadrate mit je einem gleichschenkligen Dreieck ersetzt. Die ersten beiden Blätter sind hier gezeichnet.",
+      "image": "Dreieck im Quadrat.eps",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Gib an, wie viele gleichschenklige graue Dreiecke sich auf Zeichenblatt 3 befinden. Auf Zeichenblatt 3 befinden sich ___ gleichschenklige Dreiecke.",
+          "answers": [],
+          "gold_answer": "16"
+        },
+        {
+          "id": "Q2",
+          "text": "Mit welchem Rechenschritt kann man die Anzahl der gleichschenkligen grauen Dreiecke auf einem beliebigen Zeichenblatt aus der Anzahl der gleichschenkligen grauen Dreiecke auf dem Vorgängerblatt berechnen?",
+          "answers": [
+            "x + 3",
+            "x · 3",
+            "x + 4",
+            "x · 4"
+          ],
+          "gold_answer": "x · 4"
+        },
+        {
+          "id": "Q3",
+          "text": "Luca behauptet: „Je mehr gleichschenklige graue Dreiecke ein solches Zeichenblatt enthält, desto größer wird der Anteil der grauen Fläche an der Gesamtfläche.“ Stimmt diese Behauptung?",
+          "answers": [
+            "Ja",
+            "Nein"
+          ],
+          "gold_answer": "Nein"
+        },
+        {
+          "id": "Q4",
+          "text": "Begründe deine Entscheidung.",
+          "answers": [],
+          "gold_answer": ""
+        }
+      ]
+    }
+  ]
+}

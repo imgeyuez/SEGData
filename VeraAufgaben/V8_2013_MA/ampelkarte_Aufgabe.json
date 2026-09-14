@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "filename": "ampelkarte_Aufgabe.pdf",
+    "title": "Ampelkarte",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Lebensmittel enthalten unter anderem Fett, gesättigte Fettsäuren, Zucker und Salz zu unterschiedlich hohen Anteilen. Die drei Farben der sogenannten Ampelkarte sollen helfen, die Höhe der jeweiligen Anteile einzustufen. Sandra findet auf einer Dose Nüsse mit Angaben (pro 100 g).",
+      "image": "ampelkarte_Aufgabe_1.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Gib an, wie die Ampelkarte für Fett gefärbt werden müsste.",
+          "answers": [
+            "A: grün",
+            "B: gelb",
+            "C: rot"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Gib an, wie die Ampelkarte für gesättigte Fettsäure gefärbt werden müsste.",
+          "answers": [
+            "A: grün",
+            "B: gelb",
+            "C: rot"
+          ],
+          "gold_answer": "C"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Gib an, wie die Ampelkarte für Zucker gefärbt werden müsste.",
+          "answers": [
+            "A: grün",
+            "B: gelb",
+            "C: rot"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q4",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Gib an, wie die Ampelkarte für Salz gefärbt werden müsste.",
+          "answers": [
+            "A: grün",
+            "B: gelb",
+            "C: rot"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "description": "Lebensmittel enthalten unter anderem Fett, gesättigte Fettsäuren, Zucker und Salz zu unterschiedlich hohen Anteilen. Die drei Farben der sogenannten Ampelkarte sollen helfen, die Höhe der jeweiligen Anteile einzustufen. Für Getränke gelten sogar nur halbe Werte. Alle Angaben beziehen sich auf 100 ml des Getränks. Prüfe, ob der Zuckeranteil der folgenden Getränke hoch ist.",
+      "image": "ampelkarte_Aufgabe_2.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Orangensaft: 100 ml enthalten 9,3 g Zucker",
+          "answers": [
+            "A: ja",
+            "B: nein"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Apfelschorle: 200 ml enthalten 10,6 g Zucker",
+          "answers": [
+            "A: ja",
+            "B: nein"
+          ],
+          "gold_answer": "B"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "quantitative reasoning",
+          "text": "Cola: ein Glas (250 ml) enthält 27 g Zucker",
+          "answers": [
+            "A: ja",
+            "B: nein"
+          ],
+          "gold_answer": "A"
+        }
+      ]
+    }
+  ]
+}

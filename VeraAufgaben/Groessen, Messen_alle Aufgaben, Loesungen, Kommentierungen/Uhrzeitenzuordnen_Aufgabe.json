@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "filename": "Uhrzeitenzuordnen_Aufgabe.pdf",
+    "title": "Uhrzeiten zuordnen",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "3"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Es sind Uhren abgebildet.",
+      "image": "Uhrzeitenzuordnen_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Uhrzeit zeigt Uhr 1?",
+          "answers": [
+            "A: 15.00 Uhr",
+            "B: 15.10 Uhr",
+            "C: 12.03 Uhr",
+            "D: 11.15 Uhr",
+            "E: 14.15 Uhr",
+            "F: 10.15 Uhr"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Uhrzeit zeigt Uhr 2?",
+          "answers": [
+            "A: 15.00 Uhr",
+            "B: 15.10 Uhr",
+            "C: 12.03 Uhr",
+            "D: 11.15 Uhr",
+            "E: 14.15 Uhr",
+            "F: 10.15 Uhr"
+          ],
+          "gold_answer": "D"
+        },
+        {
+          "id": "Q3",
+          "added_multiplechoice": false,
+          "question_type": "text and diagram understanding",
+          "text": "Welche Uhrzeit zeigt Uhr 3?",
+          "answers": [
+            "A: 15.00 Uhr",
+            "B: 15.10 Uhr",
+            "C: 12.03 Uhr",
+            "D: 11.15 Uhr",
+            "E: 14.15 Uhr",
+            "F: 10.15 Uhr"
+          ],
+          "gold_answer": "B"
+        }
+      ]
+    }
+  ]
+}

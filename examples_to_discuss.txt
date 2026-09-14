@@ -1,0 +1,118 @@
+###########################
+V8_2011_FRZ_Hoeren_Aufgaben
+###########################
+- meteo: 
+    2. Teilaufgabe: Vorschlag: Ebf. Goldanswer via image comparison. Alternative: Wieder 
+        Koordinaten-mäßig jeden Ankeuzfeld angeben müssen 
+
+###########################
+V8_2011_MA
+###########################
+- quadratflaeche_Aufgabe:
+    In der Goldanswer muss ein Intervall angegeben werden. Wie notieren wir das am Besten?
+
+- winkelparallelogramm_Aufgabe: (Q2)
+    Mann muss Begründung für die Lösung angeben...
+    Habe hier vorerst keinen Goldwert ergänzt, da selbst Stichpunkte nicht als ausreichend empfunden werden
+
+###########################
+V8_2012_FRZ_Hoeren_Aufgaben
+###########################
+- weekend_Aufgabe:
+    Q1: Antwortmöglichkeiten sind in Form einer 'Text-Bild-Matrix' angegeben. Weiss nicht, wie ich diese
+            umändern soll in answers und gold 
+
+###########################
+V8_2012_MA
+###########################
+- briefmarkenschachteln_Aufgabe:
+    Q1 und Q2 gold images müssten beides Bilder sein
+
+- chancen_Aufgabe:
+    Q1 benötigt image als Goldanswer
+    Q3 benötigt eine Begründung für die ausgewählte Antwort.
+
+- glücksraddrehen_Aufgabe:
+    Q1 benötigt image innerhalb der gold answer
+    
+- kreisundvierecke_Aufgabe:
+    Q1 benötigt image als Goldanswer
+    Q3 ist eine Begründung, bei der Stichpunkte vermutlich nicht ausreichen werden
+
+- punktgesucht_Aufgabe:
+    Q1 benötigt Imagee as gold answer
+    Q2 hat die angabe von < 4 ... wie soll das angegeben werden? Einfach 0, 1, 2, 3, 4 als potenziell richtige Antworten?
+        Habe vorerst 3 angegenen
+
+- rolltreppe_Aufgabe:
+	Q1 hat Intervall im gold-value
+	Q2 hat ebf. Intervall in gold-answer
+	Q3 benötigt image als gold-answer
+
+- schulgrundstueck_Aufgabe.pdf:
+	Q1 und Q2 haben Intervalle als gold answers
+
+- unregelmaessigesviereck_Aufgabe.pdf
+	Q1 und Q2 benötigen längere Erklärungen & Q2 ebf. image
+
+- verkehrszeichen_Aufgabe:
+	T2, T3 und T4 benötigen image als gold answeer. Wobeei T4 kann man auch verbal machen
+
+- zaehlungvonfahrzeugen_Aufgabe
+	Q1 benötigt image
+
+###########################
+V8_2013_FRZ_Hoeren_Aufgaben
+###########################
+
+- alacantine_Aufgabe:
+	Aufgabe bestehend aus "Matrix" von Text und Bild. Habe hier mal den Vorschlag von ChatGPT übernommen 
+
+###########################
+V8_2013_MA
+###########################
+- lagederwuerfel_Aufgabe
+    Q2 benötigt eine längere Beschreibung als gold-value
+
+- parallelogramme_Aufgabe:
+	Benötigt image als gold-answer. Etwas muss eingezeichnet werden
+
+- passendeschuhe_Aufgabe:
+	Q1 ist zwar binäre Entscheidung, aber ob es richtig ist, ist von Q2 abhängig.
+	T1_Q2 benötigt Begründung und Antworten sind abhängig davon, wie in Q1 entschieden wird..
+
+- punktgenau_Aufgabe:
+	Q2 muss etwas ins Koordinatensystem einzeichneen
+
+- wuerfelnmitquader_Aufgabe
+	Q2: Man muss Wahrscheinlichkeiten angeben, aber es gibt keine eindeutigen Gold-Werte. Lediglich eine Bedingung, die sie erfüllen müssen
+
+
+###########################
+V8_2014_MA
+###########################
+- Anteile in geometrischen Objekten
+	Q1 hat ebf. ein Intervall im gold-value
+
+- Dreieck im Quadrat:
+	Q4 benötgt eine Erklärung (mit ODER lol)
+
+- Freizeitbeschäftigungen:
+	Q4 benötigt eine Erklärung. 
+	Q5 benötigt das Einzeichnen. 
+
+- Freunde
+	Q5 muss einen Punkt im Diagramm einzeichnen. Es kann einer von mehreren sein. 
+
+- Hauptstädte
+	Q1 hat ein Intervall als Antwort
+
+- Haushaltsabfälle:
+	Q2 benötigt Intervall in der gold-antwort
+
+- Rundfunkgebühren:
+	T2, Q1 und Q2 sind Aufgaben, die beschreibend und erklärend sind.
+    
+____
+V8_2013_FRZ_Hoeren_Aufgaben/lepontmarie_Aufgabe.pdf lässt sich nicht von GPT lesen: "die PDF scheint bildbasiert zu sein"
+V8_2013_FRZ_Hoeren_Aufgaben/lesacados_Aufgabe.pdf auch

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filename": "unfertigerwuerfel_Aufgabe.pdf",
+    "title": "Unfertiger Würfel",
+    "source": "IQB e. V., Lizenz: Creative Commons (CC BY). Volltext: https://creativecommons.org/licenses/by/3.0/de/legalcode",
+    "class": "8"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Hier wurde begonnen, aus kleinen Würfeln der Kantenlänge 1 cm einen großen Würfel zusammenzusetzen, der die Kantenlänge 4 cm haben soll. Die in der Zeichnung verdeckten Würfel sind schon alle eingebaut.",
+      "image": "unfertigerwuerfel_Aufgabe.png",
+      "questions": [
+        {
+          "id": "Q1",
+          "added_multiplechoice": true,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Peter will zuerst die beiden unteren Schichten vervollständigen. Gib an, wie viele Würfel er dafür noch benötigt.",
+          "answers": [
+            "A: 12",
+            "B: 3",
+            "C: 6",
+            "D: 24"
+          ],
+          "gold_answer": "A"
+        },
+        {
+          "id": "Q2",
+          "added_multiplechoice": false,
+          "question_type": "spatial and geometric reasoning",
+          "text": "Stell dir vor, du könntest um das Gebilde aus der Zeichnung herumgehen. Wie viele Seitenflächen der kleinen Würfel kannst du dann insgesamt von rechts, von hinten, von links und von vorne sehen?",
+          "answers": [
+            "A: 19",
+            "B: 32",
+            "C: 38",
+            "D: 51"
+          ],
+          "gold_answer": "C"
+        }
+      ]
+    }
+  ]
+}
